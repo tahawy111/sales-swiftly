@@ -6,6 +6,7 @@ import { generateActiveToken } from "@/lib/generateToken";
 
 export async function POST(req: Request) {
   try {
+    
     const body = await req.json();
     const { email, name, password } = body;
 
@@ -34,7 +35,9 @@ export async function POST(req: Request) {
       },
     });
 
-    const url = `${process.env.CLIENT_URL}/active/${active_token}`;
+    const clientUrl = req.headers.get("origin")
+
+    const url = `${clientUrl}/active/${active_token}`;
     const SENDER_MAIL = `${process.env.SENDER_EMAIL_ADDRESS}`;
     const txt = "Verify Your Email Address";
     const mailOptions = {
