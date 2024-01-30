@@ -51,7 +51,7 @@ export default function SignupForm({}: AuthFormProps) {
     axios
       .post("/api/register", data)
       .then(() => {
-        toast.success("Registerd has been done successfully");
+        toast.success("You have been sent an email, please check you inbox!");
       })
       .catch((error) => {
         toast.error(error);
