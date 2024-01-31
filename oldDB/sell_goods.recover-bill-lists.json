@@ -1,0 +1,1556 @@
+[{
+  "_id": {
+    "$oid": "62d7152919dfbf94d8f05795"
+  },
+  "createdBy": "عامر",
+  "recoverBillData": [
+    {
+      "_id": {
+        "$oid": "62d707a919dfbf94d8f0576a"
+      },
+      "name": "ماوس وايرلس توينز 1200 dpi",
+      "price": 41,
+      "quantity": 3,
+      "totalPrice": 123,
+      "createdAt": {
+        "$date": "2022-07-19T19:36:09.735Z"
+      },
+      "updatedAt": {
+        "$date": "2022-07-19T19:36:09.735Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "62d7082f19dfbf94d8f05771"
+      },
+      "name": "ماوس كراش وايرلس شحن w200",
+      "price": 56,
+      "quantity": 1,
+      "totalPrice": 56,
+      "createdAt": {
+        "$date": "2022-07-19T19:38:23.251Z"
+      },
+      "updatedAt": {
+        "$date": "2022-07-19T19:38:23.251Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "62d708b219dfbf94d8f05778"
+      },
+      "name": "ماوس وايرلس hp x310",
+      "price": 44,
+      "quantity": 5,
+      "totalPrice": 220,
+      "createdAt": {
+        "$date": "2022-07-19T19:40:34.260Z"
+      },
+      "updatedAt": {
+        "$date": "2022-07-19T19:40:34.260Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "62d70a5719dfbf94d8f0577f"
+      },
+      "name": "كابل hdmi 5 m ",
+      "price": 30,
+      "quantity": 2,
+      "totalPrice": 60,
+      "createdAt": {
+        "$date": "2022-07-19T19:47:35.336Z"
+      },
+      "updatedAt": {
+        "$date": "2022-07-19T19:47:35.336Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "62d7146919dfbf94d8f05786"
+      },
+      "name": "هيدفون akron 808",
+      "price": 55,
+      "quantity": 1,
+      "totalPrice": 55,
+      "createdAt": {
+        "$date": "2022-07-19T20:30:33.069Z"
+      },
+      "updatedAt": {
+        "$date": "2022-07-19T20:30:33.069Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "62d7151d19dfbf94d8f0578d"
+      },
+      "name": "راس شاحن g5 2 usb ",
+      "price": 19,
+      "quantity": 4,
+      "totalPrice": 76,
+      "createdAt": {
+        "$date": "2022-07-19T20:33:33.319Z"
+      },
+      "updatedAt": {
+        "$date": "2022-07-19T20:33:33.319Z"
+      },
+      "__v": 0
+    }
+  ],
+  "total": 590,
+  "totalQuantity": 16,
+  "billNumber": {
+    "$numberLong": "1658101780510"
+  },
+  "createdAt": {
+    "$date": "2022-07-19T20:33:45.242Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-19T20:33:45.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63063cb91dbb78074e26f50a"
+  },
+  "createdBy": "عامر",
+  "recoverBillData": [
+    {
+      "_id": {
+        "$oid": "63063b1c1dbb78074e26f4ed"
+      },
+      "name": "ماوس سلفر nec اوريجنال",
+      "price": 25,
+      "quantity": 40,
+      "totalPrice": 1000,
+      "createdAt": {
+        "$date": "2022-08-24T14:52:12.892Z"
+      },
+      "updatedAt": {
+        "$date": "2022-08-24T14:52:12.892Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "63063b411dbb78074e26f4f4"
+      },
+      "name": "ماوس اوريجنال ابيض ",
+      "price": 22,
+      "quantity": 50,
+      "totalPrice": 1100,
+      "createdAt": {
+        "$date": "2022-08-24T14:52:49.629Z"
+      },
+      "updatedAt": {
+        "$date": "2022-08-24T14:52:49.629Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "63063b621dbb78074e26f4fb"
+      },
+      "name": "سماعة سبورت بلوتوث ",
+      "price": 35,
+      "quantity": 3,
+      "totalPrice": 105,
+      "createdAt": {
+        "$date": "2022-08-24T14:53:22.669Z"
+      },
+      "updatedAt": {
+        "$date": "2022-08-24T14:53:22.669Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "63063b941dbb78074e26f502"
+      },
+      "name": "هيدفون وايرلس بيتس p47",
+      "price": 74,
+      "quantity": 1,
+      "totalPrice": 74,
+      "createdAt": {
+        "$date": "2022-08-24T14:54:12.501Z"
+      },
+      "updatedAt": {
+        "$date": "2022-08-24T14:54:12.501Z"
+      },
+      "__v": 0
+    }
+  ],
+  "total": 2279,
+  "totalQuantity": 94,
+  "billNumber": {
+    "$numberLong": "1661252362638"
+  },
+  "createdAt": {
+    "$date": "2022-08-24T14:59:05.367Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-24T14:59:05.367Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "633dabd0c39a90e090a9c6fe"
+  },
+  "createdBy": "مؤمن",
+  "recoverBillData": [
+    {
+      "_id": {
+        "$oid": "633daa5cc39a90e090a9c6cc"
+      },
+      "name": "مشترك فالكون نحاس",
+      "price": 59,
+      "quantity": 5,
+      "totalPrice": 295,
+      "createdAt": {
+        "$date": "2022-10-05T16:01:32.702Z"
+      },
+      "updatedAt": {
+        "$date": "2022-10-05T16:01:32.702Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "633daa79c39a90e090a9c6d3"
+      },
+      "name": "هيدفون gm100",
+      "price": 115,
+      "quantity": 3,
+      "totalPrice": 345,
+      "createdAt": {
+        "$date": "2022-10-05T16:02:01.715Z"
+      },
+      "updatedAt": {
+        "$date": "2022-10-05T16:02:01.715Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "633daa97c39a90e090a9c6da"
+      },
+      "name": "فانة لاب LAVA ST-122",
+      "price": 112,
+      "quantity": 2,
+      "totalPrice": 224,
+      "createdAt": {
+        "$date": "2022-10-05T16:02:31.598Z"
+      },
+      "updatedAt": {
+        "$date": "2022-10-05T16:02:31.598Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "633daac7c39a90e090a9c6e1"
+      },
+      "name": "شنطة لاب توب ظهر S05",
+      "price": 125,
+      "quantity": 1,
+      "totalPrice": 125,
+      "createdAt": {
+        "$date": "2022-10-05T16:03:19.709Z"
+      },
+      "updatedAt": {
+        "$date": "2022-10-05T16:03:19.709Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "633dab6ec39a90e090a9c6e8"
+      },
+      "name": "هاند فري مصر للطيران",
+      "price": 5.5,
+      "quantity": 5,
+      "totalPrice": 27.5,
+      "createdAt": {
+        "$date": "2022-10-05T16:06:06.657Z"
+      },
+      "updatedAt": {
+        "$date": "2022-10-05T16:06:06.657Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "633dab8bc39a90e090a9c6ef"
+      },
+      "name": "صب جركن صغير KTS 1182",
+      "price": 61,
+      "quantity": 1,
+      "totalPrice": 61,
+      "createdAt": {
+        "$date": "2022-10-05T16:06:35.362Z"
+      },
+      "updatedAt": {
+        "$date": "2022-10-05T16:06:35.362Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "633dabc4c39a90e090a9c6f6"
+      },
+      "name": "هاند فري JY - 107",
+      "price": 15,
+      "quantity": 1,
+      "totalPrice": 15,
+      "createdAt": {
+        "$date": "2022-10-05T16:07:32.037Z"
+      },
+      "updatedAt": {
+        "$date": "2022-10-05T16:07:32.037Z"
+      },
+      "__v": 0
+    }
+  ],
+  "total": 1092.5,
+  "totalQuantity": 18,
+  "billNumber": {
+    "$numberLong": "1664893776374"
+  },
+  "createdAt": {
+    "$date": "2022-10-05T16:07:45.000Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-05T16:07:45.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "634ace4a55d31e7e0733e1c5"
+  },
+  "createdBy": "admin",
+  "recoverBillData": [
+    {
+      "_id": {
+        "$oid": "634acdf755d31e7e0733e1af"
+      },
+      "name": "صب 8 بوصة جولدي بلوتوث",
+      "price": 900,
+      "quantity": 1,
+      "totalPrice": 900,
+      "createdAt": {
+        "$date": "2022-10-15T15:12:55.770Z"
+      },
+      "updatedAt": {
+        "$date": "2022-10-15T15:12:55.770Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "634ace1b55d31e7e0733e1b6"
+      },
+      "name": "صب 4 بوصة جولدي فردة واحدة",
+      "price": 235,
+      "quantity": 1,
+      "totalPrice": 235,
+      "createdAt": {
+        "$date": "2022-10-15T15:13:31.796Z"
+      },
+      "updatedAt": {
+        "$date": "2022-10-15T15:13:31.796Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "634ace3e55d31e7e0733e1bd"
+      },
+      "name": "فانة لاب lava - st 120",
+      "price": 120,
+      "quantity": 1,
+      "totalPrice": 120,
+      "createdAt": {
+        "$date": "2022-10-15T15:14:06.341Z"
+      },
+      "updatedAt": {
+        "$date": "2022-10-15T15:14:06.341Z"
+      },
+      "__v": 0
+    }
+  ],
+  "total": 1255,
+  "totalQuantity": 3,
+  "billNumber": {
+    "$numberLong": "1665542519532"
+  },
+  "createdAt": {
+    "$date": "2022-10-15T15:14:18.813Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-15T15:14:18.813Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "641b4b1b3d1cad1681a0aaec"
+  },
+  "createdBy": "admin",
+  "recoverBillData": [
+    {
+      "_id": {
+        "$oid": "641b37823d1cad1681a0aa07"
+      },
+      "name": "ستيكر كاربون",
+      "price": 15,
+      "quantity": 4,
+      "totalPrice": 60,
+      "createdAt": {
+        "$date": "2023-03-22T17:14:42.323Z"
+      },
+      "updatedAt": {
+        "$date": "2023-03-22T17:14:42.323Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "641b380e3d1cad1681a0aa0e"
+      },
+      "name": "صب sup bdt 6601",
+      "price": 315,
+      "quantity": 1,
+      "totalPrice": 315,
+      "createdAt": {
+        "$date": "2023-03-22T17:17:02.750Z"
+      },
+      "updatedAt": {
+        "$date": "2023-03-22T18:33:19.791Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "641b38453d1cad1681a0aa15"
+      },
+      "name": "فواحة مج",
+      "price": 125,
+      "quantity": 2,
+      "totalPrice": 250,
+      "createdAt": {
+        "$date": "2023-03-22T17:17:57.998Z"
+      },
+      "updatedAt": {
+        "$date": "2023-03-22T17:17:57.998Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "641b385b3d1cad1681a0aa1c"
+      },
+      "name": "فواحة خشب زان",
+      "price": 125,
+      "quantity": 4,
+      "totalPrice": 500,
+      "createdAt": {
+        "$date": "2023-03-22T17:18:19.697Z"
+      },
+      "updatedAt": {
+        "$date": "2023-03-22T17:18:19.697Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "641b38a93d1cad1681a0aa23"
+      },
+      "name": "فلاشة بلوتوث معدن",
+      "price": 31,
+      "quantity": 3,
+      "totalPrice": 93,
+      "createdAt": {
+        "$date": "2023-03-22T17:19:37.060Z"
+      },
+      "updatedAt": {
+        "$date": "2023-03-22T17:25:15.067Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "641b38f13d1cad1681a0aa2a"
+      },
+      "name": "انتنة Wifi",
+      "price": 110,
+      "quantity": 1,
+      "totalPrice": 110,
+      "createdAt": {
+        "$date": "2023-03-22T17:20:49.626Z"
+      },
+      "updatedAt": {
+        "$date": "2023-03-22T18:31:11.938Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "641b39733d1cad1681a0aa31"
+      },
+      "name": "شريحة شاحن وايرلس",
+      "price": 32,
+      "quantity": 3,
+      "totalPrice": 96,
+      "createdAt": {
+        "$date": "2023-03-22T17:22:59.410Z"
+      },
+      "updatedAt": {
+        "$date": "2023-03-22T17:22:59.410Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "641b39e73d1cad1681a0aa41"
+      },
+      "name": "قلم ليزر شحن اصلي",
+      "price": 230,
+      "quantity": 2,
+      "totalPrice": 460,
+      "createdAt": {
+        "$date": "2023-03-22T17:24:55.754Z"
+      },
+      "updatedAt": {
+        "$date": "2023-03-22T17:24:55.754Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "641b48bd3d1cad1681a0aa91"
+      },
+      "name": "شاحن save ",
+      "price": 17,
+      "quantity": 2,
+      "totalPrice": 34,
+      "createdAt": {
+        "$date": "2023-03-22T18:28:13.368Z"
+      },
+      "updatedAt": {
+        "$date": "2023-03-22T18:28:13.368Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "641b4a563d1cad1681a0aaad"
+      },
+      "name": "مشترك دريم 5 عين و 2 فيشه ثلاثي",
+      "price": 22,
+      "quantity": 10,
+      "totalPrice": 220,
+      "createdAt": {
+        "$date": "2023-03-22T18:35:02.781Z"
+      },
+      "updatedAt": {
+        "$date": "2023-03-22T18:35:02.781Z"
+      },
+      "__v": 0
+    }
+  ],
+  "total": 2138,
+  "totalQuantity": 32,
+  "billNumber": {
+    "$numberLong": "1678844012626"
+  },
+  "createdAt": {
+    "$date": "2023-03-22T18:38:19.136Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-22T18:38:19.136Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648b2ecf27bb264463edc6b3"
+  },
+  "createdBy": "admin",
+  "recoverBillData": [
+    {
+      "_id": {
+        "$oid": "64878abc27bb264463edc4f0"
+      },
+      "name": "رينج للايت M-33",
+      "price": 106,
+      "quantity": 3,
+      "totalPrice": 318,
+      "createdAt": {
+        "$date": "2023-06-12T21:14:36.588Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-12T21:14:36.588Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "64878b9027bb264463edc4f7"
+      },
+      "name": "سبيكر اباجوره مضئ",
+      "price": 84,
+      "quantity": 2,
+      "totalPrice": 168,
+      "createdAt": {
+        "$date": "2023-06-12T21:18:08.829Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-12T21:18:08.829Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "64878c1327bb264463edc4fe"
+      },
+      "name": "شاحن سامسونج EHP H12 + 3USB 5G",
+      "price": 55,
+      "quantity": 3,
+      "totalPrice": 165,
+      "createdAt": {
+        "$date": "2023-06-12T21:20:19.605Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-12T21:20:19.605Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "64878ced27bb264463edc505"
+      },
+      "name": "بلوتوث ورديو G113 سبيكر",
+      "price": 88,
+      "quantity": 1,
+      "totalPrice": 88,
+      "createdAt": {
+        "$date": "2023-06-12T21:23:57.232Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-12T21:23:57.232Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "64878d4127bb264463edc50c"
+      },
+      "name": "كوباية 887 SPEAKER",
+      "price": 70,
+      "quantity": 3,
+      "totalPrice": 210,
+      "createdAt": {
+        "$date": "2023-06-12T21:25:21.917Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-12T21:25:21.917Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "648790c827bb264463edc513"
+      },
+      "name": "سبيكر اللوان KTS",
+      "price": 85,
+      "quantity": 2,
+      "totalPrice": 170,
+      "createdAt": {
+        "$date": "2023-06-12T21:40:24.440Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-15T15:20:48.492Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "6487913027bb264463edc51a"
+      },
+      "name": "سبيكر بلوتوث كوبايه ميني",
+      "price": 45,
+      "quantity": 1,
+      "totalPrice": 45,
+      "createdAt": {
+        "$date": "2023-06-12T21:42:08.178Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-12T21:42:08.178Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "6487919727bb264463edc521"
+      },
+      "name": "سبيكر HT330 LED HOTMAI",
+      "price": 100,
+      "quantity": 1,
+      "totalPrice": 100,
+      "createdAt": {
+        "$date": "2023-06-12T21:43:51.067Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-12T21:43:51.067Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "6487933727bb264463edc528"
+      },
+      "name": "كونفيرت  2*1",
+      "price": 11,
+      "quantity": 3,
+      "totalPrice": 33,
+      "createdAt": {
+        "$date": "2023-06-12T21:50:47.921Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-12T21:50:47.921Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "648b2d5d27bb264463edc6a4"
+      },
+      "name": "صب asit 7 بوصة ",
+      "price": 755,
+      "quantity": 1,
+      "totalPrice": 755,
+      "createdAt": {
+        "$date": "2023-06-15T15:25:17.343Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-15T15:25:17.343Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "648b2db927bb264463edc6ab"
+      },
+      "name": "صب firex 6 بوصة ",
+      "price": 685,
+      "quantity": 1,
+      "totalPrice": 685,
+      "createdAt": {
+        "$date": "2023-06-15T15:26:49.528Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-15T15:26:49.528Z"
+      },
+      "__v": 0
+    }
+  ],
+  "total": 2737,
+  "totalQuantity": 21,
+  "billNumber": {
+    "$numberLong": "1686505124260"
+  },
+  "createdAt": {
+    "$date": "2023-06-15T15:31:27.145Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-15T15:31:27.145Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652716edf8caf0e2314f1646"
+  },
+  "createdBy": "admin",
+  "recoverBillData": [
+    {
+      "_id": {
+        "$oid": "6526f5dff8caf0e2314f15c7"
+      },
+      "name": "بور صبلاي lava 2 فان",
+      "price": 188,
+      "quantity": 2,
+      "totalPrice": 376,
+      "createdAt": {
+        "$date": "2023-10-11T19:22:07.096Z"
+      },
+      "updatedAt": {
+        "$date": "2023-10-11T19:22:07.096Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "6526f648f8caf0e2314f15ce"
+      },
+      "name": "رسيفر فاستر 777",
+      "price": 278,
+      "quantity": 2,
+      "totalPrice": 556,
+      "createdAt": {
+        "$date": "2023-10-11T19:23:52.265Z"
+      },
+      "updatedAt": {
+        "$date": "2023-10-11T19:23:52.265Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "6526fe24f8caf0e2314f15d5"
+      },
+      "name": "ماوس جمينج aula s31",
+      "price": 120,
+      "quantity": 2,
+      "totalPrice": 240,
+      "createdAt": {
+        "$date": "2023-10-11T19:57:24.702Z"
+      },
+      "updatedAt": {
+        "$date": "2023-10-11T19:57:24.702Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "65270276f8caf0e2314f161b"
+      },
+      "name": "سبيكر kts",
+      "price": 78,
+      "quantity": 1,
+      "totalPrice": 78,
+      "createdAt": {
+        "$date": "2023-10-11T20:15:50.733Z"
+      },
+      "updatedAt": {
+        "$date": "2023-10-11T20:15:50.733Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "65270ce4f8caf0e2314f1622"
+      },
+      "name": "هاند فري ياسون",
+      "price": 17,
+      "quantity": 2,
+      "totalPrice": 34,
+      "createdAt": {
+        "$date": "2023-10-11T21:00:20.552Z"
+      },
+      "updatedAt": {
+        "$date": "2023-10-11T21:00:20.552Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "6527102cf8caf0e2314f1629"
+      },
+      "name": "صب جولدن مضئ",
+      "price": 380,
+      "quantity": 2,
+      "totalPrice": 760,
+      "createdAt": {
+        "$date": "2023-10-11T21:14:20.992Z"
+      },
+      "updatedAt": {
+        "$date": "2023-10-11T21:14:20.992Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "65271098f8caf0e2314f1630"
+      },
+      "name": "display to vga كونفيرت",
+      "price": 85,
+      "quantity": 1,
+      "totalPrice": 85,
+      "createdAt": {
+        "$date": "2023-10-11T21:16:08.355Z"
+      },
+      "updatedAt": {
+        "$date": "2023-10-11T21:16:08.355Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "652711c5f8caf0e2314f1637"
+      },
+      "name": "فلاش بلوتوث مني معن",
+      "price": 24,
+      "quantity": 1,
+      "totalPrice": 24,
+      "createdAt": {
+        "$date": "2023-10-11T21:21:09.263Z"
+      },
+      "updatedAt": {
+        "$date": "2023-10-11T21:21:09.263Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "652714f5f8caf0e2314f163e"
+      },
+      "name": "كابل سامسونج دولفين",
+      "price": 8,
+      "quantity": 1,
+      "totalPrice": 8,
+      "createdAt": {
+        "$date": "2023-10-11T21:34:45.037Z"
+      },
+      "updatedAt": {
+        "$date": "2023-10-11T21:34:45.037Z"
+      },
+      "__v": 0
+    }
+  ],
+  "total": 2161,
+  "totalQuantity": 14,
+  "billNumber": {
+    "$numberLong": "1697022504508"
+  },
+  "createdAt": {
+    "$date": "2023-10-11T21:43:09.446Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-11T21:43:09.446Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659abaeda72b51aae09cd3c2"
+  },
+  "createdBy": "مؤمن",
+  "recoverBillData": [
+    {
+      "_id": {
+        "$oid": "659ab06ba72b51aae09cd2ee"
+      },
+      "name": "هاند فري TC",
+      "price": 40,
+      "quantity": 5,
+      "totalPrice": 200,
+      "createdAt": {
+        "$date": "2024-01-07T14:08:43.423Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T14:08:43.423Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ab0eba72b51aae09cd315"
+      },
+      "name": "شاحن TC senya ch217",
+      "price": 37,
+      "quantity": 5,
+      "totalPrice": 185,
+      "createdAt": {
+        "$date": "2024-01-07T14:10:51.290Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T14:10:51.290Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ab127a72b51aae09cd31c"
+      },
+      "name": "هاند فري BLUE D 43",
+      "price": 29,
+      "quantity": 1,
+      "totalPrice": 29,
+      "createdAt": {
+        "$date": "2024-01-07T14:11:51.340Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T14:11:51.340Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ab156a72b51aae09cd323"
+      },
+      "name": "هاند فري بلوتوث ريلمي m5",
+      "price": 46,
+      "quantity": 1,
+      "totalPrice": 46,
+      "createdAt": {
+        "$date": "2024-01-07T14:12:38.652Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T14:12:38.652Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ab190a72b51aae09cd32a"
+      },
+      "name": "هاند فري celebrate g4",
+      "price": 19,
+      "quantity": 1,
+      "totalPrice": 19,
+      "createdAt": {
+        "$date": "2024-01-07T14:13:36.054Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T14:13:36.054Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ab1f4a72b51aae09cd331"
+      },
+      "name": "صب فردة مضئ an4112",
+      "price": 215,
+      "quantity": 1,
+      "totalPrice": 215,
+      "createdAt": {
+        "$date": "2024-01-07T14:15:16.396Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T14:15:16.396Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ab27da72b51aae09cd338"
+      },
+      "name": "ماوس جيمنج كراش x50,60,70",
+      "price": 100,
+      "quantity": 2,
+      "totalPrice": 200,
+      "createdAt": {
+        "$date": "2024-01-07T14:17:33.783Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T14:21:34.369Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ab2efa72b51aae09cd33f"
+      },
+      "name": "هيد فون جيمنج مضئ sa708",
+      "price": 275,
+      "quantity": 2,
+      "totalPrice": 550,
+      "createdAt": {
+        "$date": "2024-01-07T14:19:27.627Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T14:19:27.627Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ab477a72b51aae09cd34f"
+      },
+      "name": "ماوس جيمنج fir x1",
+      "price": 110,
+      "quantity": 1,
+      "totalPrice": 110,
+      "createdAt": {
+        "$date": "2024-01-07T14:25:59.765Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T14:25:59.765Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ab4e2a72b51aae09cd356"
+      },
+      "name": "حامل شاشه ثابت FM1",
+      "price": 27,
+      "quantity": 10,
+      "totalPrice": 270,
+      "createdAt": {
+        "$date": "2024-01-07T14:27:46.334Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T14:27:46.334Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ab50fa72b51aae09cd35d"
+      },
+      "name": "كيبورد gaming FX-11 , FX-230",
+      "price": 125,
+      "quantity": 3,
+      "totalPrice": 375,
+      "createdAt": {
+        "$date": "2024-01-07T14:28:31.536Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T14:39:50.129Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ab557a72b51aae09cd370"
+      },
+      "name": "باندل درعات زوجي وهزاز ",
+      "price": 280,
+      "quantity": 1,
+      "totalPrice": 280,
+      "createdAt": {
+        "$date": "2024-01-07T14:29:43.199Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T14:29:43.199Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ab57aa72b51aae09cd377"
+      },
+      "name": "سبيكر لاب حجم كبير k2036",
+      "price": 130,
+      "quantity": 1,
+      "totalPrice": 130,
+      "createdAt": {
+        "$date": "2024-01-07T14:30:18.583Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T14:30:18.583Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ab599a72b51aae09cd37e"
+      },
+      "name": "ماوس ويرلس XO ",
+      "price": 70,
+      "quantity": 1,
+      "totalPrice": 70,
+      "createdAt": {
+        "$date": "2024-01-07T14:30:49.438Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T14:30:49.438Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ab5e9a72b51aae09cd399"
+      },
+      "name": "شاحن لاب وشاشات سامسونج 14V3A",
+      "price": 2,
+      "quantity": 165,
+      "totalPrice": 330,
+      "createdAt": {
+        "$date": "2024-01-07T14:32:09.387Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T14:32:09.387Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ab606a72b51aae09cd3a0"
+      },
+      "name": "صب تايجر زوجي",
+      "price": 435,
+      "quantity": 1,
+      "totalPrice": 435,
+      "createdAt": {
+        "$date": "2024-01-07T14:32:38.973Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T14:32:38.973Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ab635a72b51aae09cd3a7"
+      },
+      "name": "راك هارد كادي 9.5 مم",
+      "price": 40,
+      "quantity": 10,
+      "totalPrice": 400,
+      "createdAt": {
+        "$date": "2024-01-07T14:33:25.514Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T14:33:25.514Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ab68aa72b51aae09cd3ae"
+      },
+      "name": "تستر نت ورك ",
+      "price": 70,
+      "quantity": 1,
+      "totalPrice": 70,
+      "createdAt": {
+        "$date": "2024-01-07T14:34:50.475Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T14:34:50.475Z"
+      },
+      "__v": 0
+    }
+  ],
+  "total": 3914,
+  "totalQuantity": 212,
+  "billNumber": {
+    "$numberLong": "1703269692071"
+  },
+  "createdAt": {
+    "$date": "2024-01-07T14:53:33.956Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T14:53:33.956Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659ac846a72b51aae09cd458"
+  },
+  "createdBy": "مؤمن",
+  "recoverBillData": [
+    {
+      "_id": {
+        "$oid": "659ac5caa72b51aae09cd3d9"
+      },
+      "name": "هاند فري TC",
+      "price": 40,
+      "quantity": 5,
+      "totalPrice": 200,
+      "createdAt": {
+        "$date": "2024-01-07T15:39:54.317Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T15:39:54.317Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ac5eca72b51aae09cd3e0"
+      },
+      "name": "شاحن TC senya ch217",
+      "price": 37,
+      "quantity": 5,
+      "totalPrice": 185,
+      "createdAt": {
+        "$date": "2024-01-07T15:40:28.904Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T15:40:28.904Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ac608a72b51aae09cd3e7"
+      },
+      "name": "هاند فري BLUE D 43",
+      "price": 29,
+      "quantity": 1,
+      "totalPrice": 29,
+      "createdAt": {
+        "$date": "2024-01-07T15:40:56.960Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T15:40:56.960Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ac619a72b51aae09cd3ee"
+      },
+      "name": "هاند فري بلوتوث ريلمي m5",
+      "price": 46,
+      "quantity": 1,
+      "totalPrice": 46,
+      "createdAt": {
+        "$date": "2024-01-07T15:41:13.229Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T15:41:13.229Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ac638a72b51aae09cd3f5"
+      },
+      "name": "هاند فري celebrate g4",
+      "price": 19,
+      "quantity": 1,
+      "totalPrice": 19,
+      "createdAt": {
+        "$date": "2024-01-07T15:41:44.342Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T15:41:44.342Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ac66da72b51aae09cd3fc"
+      },
+      "name": "صب فردة مضئ an4112",
+      "price": 215,
+      "quantity": 1,
+      "totalPrice": 215,
+      "createdAt": {
+        "$date": "2024-01-07T15:42:37.544Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T15:42:37.544Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ac681a72b51aae09cd403"
+      },
+      "name": "ماوس جيمنج كراش x50,60,70",
+      "price": 100,
+      "quantity": 2,
+      "totalPrice": 200,
+      "createdAt": {
+        "$date": "2024-01-07T15:42:57.475Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T15:42:57.475Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ac6b6a72b51aae09cd40a"
+      },
+      "name": "هيدفون جيمنج مضئ sa708",
+      "price": 275,
+      "quantity": 2,
+      "totalPrice": 550,
+      "createdAt": {
+        "$date": "2024-01-07T15:43:50.572Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T15:43:50.572Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ac6caa72b51aae09cd411"
+      },
+      "name": "ماوس جيمنج fir x1",
+      "price": 110,
+      "quantity": 1,
+      "totalPrice": 110,
+      "createdAt": {
+        "$date": "2024-01-07T15:44:10.003Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T15:44:10.003Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ac6dea72b51aae09cd418"
+      },
+      "name": "حامل شاشه ثابت FM1",
+      "price": 27,
+      "quantity": 10,
+      "totalPrice": 270,
+      "createdAt": {
+        "$date": "2024-01-07T15:44:30.749Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T15:44:30.749Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ac716a72b51aae09cd41f"
+      },
+      "name": "كيبورد gaming FX-11 , FX-230",
+      "price": 125,
+      "quantity": 4,
+      "totalPrice": 500,
+      "createdAt": {
+        "$date": "2024-01-07T15:45:26.537Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T15:45:26.537Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ac734a72b51aae09cd426"
+      },
+      "name": "باندل درعات زوجي وهزاز ",
+      "price": 280,
+      "quantity": 1,
+      "totalPrice": 280,
+      "createdAt": {
+        "$date": "2024-01-07T15:45:56.676Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T15:45:56.676Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ac755a72b51aae09cd42d"
+      },
+      "name": "سبيكر لاب حجم كبير k2036",
+      "price": 130,
+      "quantity": 1,
+      "totalPrice": 130,
+      "createdAt": {
+        "$date": "2024-01-07T15:46:29.639Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T15:46:29.639Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ac788a72b51aae09cd434"
+      },
+      "name": "ماوس ويرلس XO ",
+      "price": 70,
+      "quantity": 1,
+      "totalPrice": 70,
+      "createdAt": {
+        "$date": "2024-01-07T15:47:20.543Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T15:47:20.543Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ac79da72b51aae09cd43b"
+      },
+      "name": "شاحن لاب وشاشات سامسونج 14V3A",
+      "price": 165,
+      "quantity": 2,
+      "totalPrice": 330,
+      "createdAt": {
+        "$date": "2024-01-07T15:47:41.784Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T15:47:41.784Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ac7b3a72b51aae09cd442"
+      },
+      "name": "صب تايجر زوجي",
+      "price": 435,
+      "quantity": 1,
+      "totalPrice": 435,
+      "createdAt": {
+        "$date": "2024-01-07T15:48:03.012Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T15:48:03.012Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ac7cea72b51aae09cd449"
+      },
+      "name": "راك هارد كادي 9.5 مم",
+      "price": 40,
+      "quantity": 10,
+      "totalPrice": 400,
+      "createdAt": {
+        "$date": "2024-01-07T15:48:30.417Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T15:48:30.417Z"
+      },
+      "__v": 0
+    },
+    {
+      "_id": {
+        "$oid": "659ac7e2a72b51aae09cd450"
+      },
+      "name": "تستر نت ورك ",
+      "price": 70,
+      "quantity": 1,
+      "totalPrice": 70,
+      "createdAt": {
+        "$date": "2024-01-07T15:48:50.843Z"
+      },
+      "updatedAt": {
+        "$date": "2024-01-07T15:48:50.843Z"
+      },
+      "__v": 0
+    }
+  ],
+  "total": 4039,
+  "totalQuantity": 50,
+  "billNumber": {
+    "$numberLong": "1703269692071"
+  },
+  "createdAt": {
+    "$date": "2024-01-07T15:50:30.852Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T15:50:30.852Z"
+  },
+  "__v": 0
+}]

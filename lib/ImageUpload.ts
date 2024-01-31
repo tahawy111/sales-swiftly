@@ -10,15 +10,15 @@ const generateSignature = (publicId: string, apiSecret: string) => {
   return `public_id=${publicId}&timestamp=${timestamp}${apiSecret}`;
 };
 
-export const imageUpload = async (
+export const fileUpload = async (
   file: File,
   {
     CLOUDINARY_CLOUD_NAME,
     CLOUDINARY_UPLOAD_PRESET,
   }: { CLOUDINARY_CLOUD_NAME: string; CLOUDINARY_UPLOAD_PRESET: string }
 ) => {
+  // can upload any file type with limited storage and bandwith
   const formData = new FormData();
-
 
   formData.append("file", file);
   formData.append("upload_preset", CLOUDINARY_UPLOAD_PRESET);
@@ -34,6 +34,25 @@ export const imageUpload = async (
 
   const data = await res.json();
   return { public_id: data.public_id, url: data.secure_url };
+};
+
+export const imgurUpload = async (file: File) => {
+  // only upload images and videos with unlimited storage
+  const formData = new FormData();
+
+  formData.append("image", file);
+
+
+  const res = await fetch(
+    `https://api.imgur.com/3/upload`,
+    {
+      method: "POST",
+      body: formData,
+    }
+  );
+
+  const data = await res.json();
+  return { url: data.link };
 };
 
 export const handleDeleteImage = async (

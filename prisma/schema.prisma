@@ -29,17 +29,25 @@ model Account {
   @@unique([provider, providerAccountId])
 }
 
+enum MemberRole {
+  ADMIN
+  MODERATOR
+  GUEST
+}
+
 model User {
-  id             String    @id @default(uuid())
+  id             String     @id @default(uuid())
   name           String
-  email          String    @unique
+  email          String     @unique
   emailVerified  DateTime?
   hashedPassword String?
   image          String
-  createdAt      DateTime  @default(now())
-  updatedAt      DateTime  @updatedAt
+  createdAt      DateTime   @default(now())
+  updatedAt      DateTime   @updatedAt
+  role           MemberRole @default(GUEST)
   account        Account[]
   session        Session[]
+  Product        Product[]
 }
 
 model Session {
@@ -59,4 +67,30 @@ model VerificationRequest {
   updatedAt  DateTime @updatedAt
 
   @@unique([identifier, token])
+}
+
+model Product {
+  id             String   @id @default(uuid())
+  name           String
+  description    String?
+  price          Int
+  dealerPrice    Int?
+  wholesalePrice Int?
+  quantity       Int
+  barcode        String?
+  image          String?
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+  categoryId     String
+  category       Category @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+  userId         String
+  user           User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model Category {
+  id        String    @id @default(uuid())
+  name      String    @unique
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+  Product   Product[]
 }

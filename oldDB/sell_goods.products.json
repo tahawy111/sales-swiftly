@@ -1,0 +1,8882 @@
+[{
+  "_id": {
+    "$oid": "62a51dc4b3a6b9868cbb5e38"
+  },
+  "name": "كيبورد PS2 اورجينال",
+  "price": 60,
+  "dealerPrice": 40,
+  "wholesale": 35,
+  "quantity": 41,
+  "barcode": "1656789400143",
+  "image": "image_1655022868039_ff559377-086a-43ad-90ee-0261575cc656_1.c808bc41b70036608fef7988e28c4ab4.jpeg",
+  "category": "الاجهزه والاكسسوارات الاورجينال",
+  "createdAt": {
+    "$date": "2022-06-11T22:57:08.827Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-26T18:01:19.568Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62a5ebf487e88f791721c011"
+  },
+  "name": "فلاشه هيك فيجن 16G M200 USB2",
+  "price": 80,
+  "dealerPrice": 70,
+  "wholesale": 50,
+  "quantity": 0,
+  "barcode": "6954273656874",
+  "image": "image_1655041012388_D_NQ_NP_770170-MLA46869223437_072021-O.jpg",
+  "category": "ميموري & فلاشات",
+  "createdAt": {
+    "$date": "2022-06-12T13:36:52.407Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-16T19:09:30.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62a5f2e787e88f791721c031"
+  },
+  "name": "فلاشه هيك فيجن 32G M200 USB2",
+  "price": 105,
+  "dealerPrice": 90,
+  "wholesale": 75,
+  "quantity": 0,
+  "barcode": "6954273656881",
+  "image": "image_1655042855363_images (1).jpg",
+  "category": "ميموري & فلاشات",
+  "createdAt": {
+    "$date": "2022-06-12T14:06:31.835Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-19T13:53:50.073Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62a5f57587e88f791721c06e"
+  },
+  "name": "فلاشه هيك فيجن 64G M200 USB2",
+  "price": 140,
+  "dealerPrice": 120,
+  "wholesale": null,
+  "quantity": 0,
+  "barcode": "6954273656898",
+  "image": "image_1655043445873_memoria-usb-m200-64gb-11-31bb2c695f93a1e42f16382226212688-1024-1024.jpg",
+  "category": "ميموري & فلاشات",
+  "createdAt": {
+    "$date": "2022-06-12T14:17:25.910Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-19T13:54:04.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62a5f73a87e88f791721c07c"
+  },
+  "name": "فلاشه هيك فيجن 32G M200S USB2",
+  "price": 125,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "6954273678159",
+  "image": "image_1655043898725_71lIVjPVckL.jpg",
+  "category": "ميموري & فلاشات",
+  "createdAt": {
+    "$date": "2022-06-12T14:24:58.734Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-17T17:56:15.240Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62a742b55ba71dc6022d86fa"
+  },
+  "name": "راوتر استيراد SK ",
+  "price": 250,
+  "dealerPrice": null,
+  "wholesale": 241,
+  "quantity": 149,
+  "barcode": "1654792931801",
+  "image": "image_1655128757321_271672408_323916746281941_6302058119283220065_n.jpg",
+  "category": "اجهزة النت والشبكات",
+  "createdAt": {
+    "$date": "2022-06-13T13:59:17.360Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-03T12:34:00.662Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62a791a4b7a180212bfed2a2"
+  },
+  "name": "هاند فري JBL T107",
+  "price": 35,
+  "dealerPrice": 25,
+  "wholesale": 20,
+  "quantity": 5,
+  "barcode": "6912541411143",
+  "image": "image_1655149321785_image_1655149193491_IMG20220613214509.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-13T19:36:04.269Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T14:36:58.813Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62a793f8b7a180212bfed2d6"
+  },
+  "name": "هاند فري Celebart G12",
+  "price": 35,
+  "dealerPrice": 25,
+  "wholesale": 20,
+  "quantity": 6,
+  "barcode": "6965468450030",
+  "image": "image_1655149559985_16551499247295269430181073475654.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-13T19:46:00.423Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-05T21:02:21.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62a79481b7a180212bfed2fd"
+  },
+  "name": "هاند فري 123",
+  "price": 30,
+  "dealerPrice": 25,
+  "wholesale": 20,
+  "quantity": 1,
+  "barcode": "6952848718019",
+  "image": "image_1655149758723_16551501647101183180217107369047.jpg",
+  "category": "الكل",
+  "createdAt": {
+    "$date": "2022-06-13T19:48:17.465Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-02T22:24:43.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62a796acb7a180212bfed341"
+  },
+  "name": "هاند فري Celebart G4",
+  "price": 45,
+  "dealerPrice": 30,
+  "wholesale": 22,
+  "quantity": 4,
+  "barcode": "6925146950436",
+  "image": "image_1655150297040_16551507025053825567574206397093.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-13T19:57:32.667Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T21:55:04.711Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62a799c6b7a180212bfed36d"
+  },
+  "name": "هاند فري Blue Spectrum",
+  "price": 55,
+  "dealerPrice": 45,
+  "wholesale": 39,
+  "quantity": 2,
+  "barcode": "6976985152116",
+  "image": "image_1655151503153_IMG20220613222255.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-13T20:10:46.007Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-19T15:21:52.947Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62a79c85b7a180212bfed3c5"
+  },
+  "name": "هاند فري CTELL CT-RT200",
+  "price": 65,
+  "dealerPrice": 50,
+  "wholesale": 40,
+  "quantity": 2,
+  "barcode": "6920081805860",
+  "image": "image_1655151871285_16551522309503057352531736588217.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-13T20:22:29.381Z"
+  },
+  "updatedAt": {
+    "$date": "2022-06-13T20:24:31.749Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62a79dc1b7a180212bfed3e9"
+  },
+  "name": "هاند فري FASHION",
+  "price": 25,
+  "dealerPrice": 20,
+  "wholesale": 19,
+  "quantity": 2,
+  "barcode": "6954256123355",
+  "image": "image_1655152111422_16551525231323073678168266206135.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-13T20:27:45.901Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-05T13:37:32.806Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62a79e96b7a180212bfed40d"
+  },
+  "name": "هاند فري realme Buds 2",
+  "price": 25,
+  "dealerPrice": 20,
+  "wholesale": 19,
+  "quantity": 6,
+  "barcode": "6971914080072",
+  "image": "image_1655152408787_1655152735240765021453767731140.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-13T20:31:18.185Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-26T21:10:44.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62a7a357b7a180212bfed43b"
+  },
+  "name": "هاند فري اير فون Super",
+  "price": 30,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "6952848718019",
+  "image": "image_1655153590879_16551539827521401151390989673549.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-13T20:51:35.182Z"
+  },
+  "updatedAt": {
+    "$date": "2022-06-13T20:53:11.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62a7a923b7a180212bfed4b8"
+  },
+  "name": "ميكروفون PROFESSIONAL LA VALIER MIC",
+  "price": 95,
+  "dealerPrice": 70,
+  "wholesale": 60,
+  "quantity": 1,
+  "barcode": "6933128256230",
+  "image": "image_1655155063388_16551554625468033243047902307158.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-13T21:16:19.237Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-18T12:06:00.934Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62aa4131b7771fa3d4e4948b"
+  },
+  "name": "حامل الهاتف المحمول شفاط",
+  "price": 25,
+  "dealerPrice": 20,
+  "wholesale": 19,
+  "quantity": 1,
+  "barcode": "1656961503236",
+  "image": "image_1655325151018_16553255503782785697644818110392.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-15T20:29:37.914Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-04T19:25:43.716Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62aa46c5b7771fa3d4e494b8"
+  },
+  "name": "هاند فري  Stereo Earphone",
+  "price": 30,
+  "dealerPrice": 25,
+  "wholesale": 20,
+  "quantity": 0,
+  "barcode": "1656961626723",
+  "image": "image_1655326446709_IMG_20220615_225811.jpg",
+  "category": "اكسسوارات",
+  "createdAt": {
+    "$date": "2022-06-15T20:53:25.009Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-15T20:22:16.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62aa4dfcb7771fa3d4e49557"
+  },
+  "name": "كابل شحن HM Type-c ",
+  "price": 35,
+  "dealerPrice": 30,
+  "wholesale": 25,
+  "quantity": 2,
+  "barcode": "6949810521128",
+  "image": "image_1655398281793_IMG_20220616_185745.jpg",
+  "category": "اكسسوارات",
+  "createdAt": {
+    "$date": "2022-06-15T21:24:12.733Z"
+  },
+  "updatedAt": {
+    "$date": "2022-06-16T16:51:22.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62ab9b9fb7771fa3d4e49628"
+  },
+  "name": "باور بانك",
+  "price": 110,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "693920191011",
+  "image": "image_1655414171035_16554145731766836014748373653806.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-16T21:07:43.722Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-04T22:07:43.716Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62b2f8a10b8aadc66d9b09ef"
+  },
+  "name": "شاحن OPPO super vooc R17سريع",
+  "price": 85,
+  "dealerPrice": 65,
+  "wholesale": 60,
+  "quantity": 1,
+  "barcode": "1657047342537",
+  "image": "image_1655896311779_IMG_20220622_131816.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-22T11:10:25.653Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-25T21:08:25.311Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62b2fa8d0b8aadc66d9b0a1c"
+  },
+  "name": "شاحن realme smart charger x50pro سريع",
+  "price": 75,
+  "dealerPrice": 65,
+  "wholesale": 60,
+  "quantity": 1,
+  "barcode": "1657046966421",
+  "image": "image_1655896814922_IMG_٢٠٢٢٠٦٢٢_١٣٢٧٠٧.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-22T11:18:37.245Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-28T19:30:18.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62b2faf80b8aadc66d9b0a3d"
+  },
+  "name": "شاحن OPPO super vooc F11proسريع",
+  "price": 75,
+  "dealerPrice": 65,
+  "wholesale": 55,
+  "quantity": 2,
+  "barcode": "1657047087547",
+  "image": "image_1655896900547_IMG_20220622_132852.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-22T11:20:24.184Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-25T17:27:20.074Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62b2fb970b8aadc66d9b0a61"
+  },
+  "name": "شاحن Elmohanes fast charger 2.1A",
+  "price": 65,
+  "dealerPrice": 55,
+  "wholesale": 50,
+  "quantity": 0,
+  "barcode": "1657047417553",
+  "image": "image_1655897093652_IMG_20220622_133136.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-22T11:23:03.623Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-26T13:53:25.675Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62b2fcd00b8aadc66d9b0a9d"
+  },
+  "name": "شاحن Samsung vooc mini",
+  "price": 55,
+  "dealerPrice": 50,
+  "wholesale": 45,
+  "quantity": 1,
+  "barcode": "6944284611740",
+  "image": "image_1655897813847_1655898235880423952044220205373.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-22T11:28:16.360Z"
+  },
+  "updatedAt": {
+    "$date": "2022-06-22T11:36:54.327Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62b2fde00b8aadc66d9b0ab1"
+  },
+  "name": "شاحن my phone 1A",
+  "price": 55,
+  "dealerPrice": 50,
+  "wholesale": 48,
+  "quantity": 1,
+  "barcode": "6933767307898",
+  "image": "image_1655897924160_16558983042737616156740536162473.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-22T11:32:48.658Z"
+  },
+  "updatedAt": {
+    "$date": "2022-06-22T11:38:44.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62b3000a0b8aadc66d9b0b19"
+  },
+  "name": "شاحن Infinix VOOC OUTPUT 2A",
+  "price": 45,
+  "dealerPrice": 41,
+  "wholesale": 39,
+  "quantity": 3,
+  "barcode": "6952848718019",
+  "image": "image_1655899057149_16558994834663540224945909904930.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-22T11:42:02.253Z"
+  },
+  "updatedAt": {
+    "$date": "2022-06-22T11:57:37.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62b300cc0b8aadc66d9b0b24"
+  },
+  "name": "شاحن kit 2.4A outpot 12w",
+  "price": 45,
+  "dealerPrice": 40,
+  "wholesale": 39,
+  "quantity": 3,
+  "barcode": "6971741736401",
+  "image": "image_1655899178775_1655899603396555590747391192180.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-22T11:45:16.624Z"
+  },
+  "updatedAt": {
+    "$date": "2022-06-22T11:59:39.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62b301b90b8aadc66d9b0b2f"
+  },
+  "name": "شاحن سريع samsung",
+  "price": 60,
+  "dealerPrice": 48,
+  "wholesale": 41,
+  "quantity": 1,
+  "barcode": "1655985487236",
+  "image": "image_1655899237803_16558996654358414392276148090032.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-22T11:49:13.617Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-29T18:16:04.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62b302480b8aadc66d9b0b5e"
+  },
+  "name": "شاحن ORIGNAL CHARGER 2.4A ",
+  "price": 35,
+  "dealerPrice": 30,
+  "wholesale": 24,
+  "quantity": 0,
+  "barcode": "6712191220504",
+  "image": "image_1655899299579_16558997262542406228872312717372.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-22T11:51:36.699Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-14T19:43:22.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62b3033f0b8aadc66d9b0b7b"
+  },
+  "name": "شاحن PRO ",
+  "price": 35,
+  "dealerPrice": 30,
+  "wholesale": 29,
+  "quantity": 5,
+  "barcode": "6712190710501",
+  "image": "image_1655899366017_1655899794254138461124084543721.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-22T11:55:43.543Z"
+  },
+  "updatedAt": {
+    "$date": "2022-06-22T12:02:46.426Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62b30b6b0b8aadc66d9b0bf9"
+  },
+  "name": "شاحن Original A902 3.1A 2USB",
+  "price": 60,
+  "dealerPrice": 50,
+  "wholesale": 49,
+  "quantity": 2,
+  "barcode": "9885425231229",
+  "image": "image_1655901361799_IMG_20220622_144313.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-22T12:30:35.757Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-30T18:56:25.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62b30bc40b8aadc66d9b0c04"
+  },
+  "name": "شاحن ابره 3G-POWER",
+  "price": 30,
+  "dealerPrice": 20,
+  "wholesale": 19,
+  "quantity": 6,
+  "barcode": "1656355597485",
+  "image": "image_1655901390711_IMG_20220622_144135.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-22T12:32:04.973Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-22T20:38:34.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62b30d1b0b8aadc66d9b0c65"
+  },
+  "name": "شاحن ديسك توب SEVEN COLOR CHARGER",
+  "price": 30,
+  "dealerPrice": 13,
+  "wholesale": 10,
+  "quantity": 6,
+  "barcode": "1656339748048",
+  "image": "image_1655901606958_IMG_20220622_144642.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-22T12:37:47.238Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-23T21:37:23.077Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62b30e1a0b8aadc66d9b0c8e"
+  },
+  "name": "شواحن اصليه متعدده OPPO-INFINIX-HUAWEI",
+  "price": 35,
+  "dealerPrice": 31,
+  "wholesale": 30,
+  "quantity": 2,
+  "barcode": "8431630663891",
+  "image": "image_1655901803714_IMG_٢٠٢٢٠٦٢٢_١٤٤٩٤٤.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-22T12:42:02.330Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-28T19:19:29.865Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62b30f0d0b8aadc66d9b0cd1"
+  },
+  "name": "كابل شاحن T-C SOLOFFER",
+  "price": 41,
+  "dealerPrice": 35,
+  "wholesale": 33,
+  "quantity": 3,
+  "barcode": "6954851211358",
+  "image": "image_1655902258993_IMG_20220622_145401.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-22T12:46:05.553Z"
+  },
+  "updatedAt": {
+    "$date": "2022-06-22T12:50:59.417Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62b30f770b8aadc66d9b0cdc"
+  },
+  "name": "كابل شاحن META FASR T-C",
+  "price": 40,
+  "dealerPrice": 35,
+  "wholesale": 33,
+  "quantity": 1,
+  "barcode": "6688556134635",
+  "image": "image_1655902213697_IMG_٢٠٢٢٠٦٢٢_١٤٥٦٥٩.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-22T12:47:51.008Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-31T22:24:59.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62b3101c0b8aadc66d9b0d02"
+  },
+  "name": "كابل شاحن DK -18 2.4A",
+  "price": 35,
+  "dealerPrice": 31,
+  "wholesale": 30,
+  "quantity": 4,
+  "barcode": "6989652331394",
+  "image": "image_1655902382922_16559027726585062817047220868319.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-06-22T12:50:36.537Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-29T13:11:59.809Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62b3121b0b8aadc66d9b0d3c"
+  },
+  "name": "كابل x-scoot type-c",
+  "price": 35,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 8,
+  "barcode": "6924696356521",
+  "image": "image_1655902788309_16559032157483259736356726943324.jpg",
+  "category": "اكسسوارات",
+  "createdAt": {
+    "$date": "2022-06-22T12:59:07.833Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-05T21:02:21.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62b316ef0b8aadc66d9b0e05"
+  },
+  "name": "كابل HM type-c",
+  "price": 35,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "6949810521128",
+  "image": "image_1655904053059_16559044691421834479899633099262.jpg",
+  "category": "اكسسوارات",
+  "createdAt": {
+    "$date": "2022-06-22T13:19:43.071Z"
+  },
+  "updatedAt": {
+    "$date": "2022-06-22T13:22:06.874Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62b494a631cc06a1f9cb112f"
+  },
+  "name": "دراع كمبيوتر كراش زوجي USB",
+  "price": 110,
+  "dealerPrice": 100,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "1657025044349",
+  "image": "image_1657291558185_1657292017838956997220878506977.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-06-23T16:28:22.593Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-30T11:48:26.884Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62b9e8ce31cc06a1f9cb1676"
+  },
+  "name": "اكسس بوينت 840",
+  "price": 300,
+  "dealerPrice": 250,
+  "wholesale": 225,
+  "quantity": 8,
+  "barcode": "6935364070533",
+  "image": "image_1656350969999_TL-WR840N_UN_5.0_04_normal_1510647886942r.jpg",
+  "category": "اجهزة النت والشبكات",
+  "createdAt": {
+    "$date": "2022-06-27T17:28:46.113Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-27T15:10:33.721Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c0a266133daa73a1e89317"
+  },
+  "name": "راوتر hg630",
+  "price": 450,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 0,
+  "barcode": "",
+  "image": "image_1656791654620_2661720-400x300.jpeg",
+  "category": "الكل",
+  "createdAt": {
+    "$date": "2022-07-02T19:54:14.628Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-02T19:54:14.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c31587d3de2b69eec20b57"
+  },
+  "name": "باور سبلاي لافا 200 واط",
+  "price": 205,
+  "dealerPrice": 150,
+  "wholesale": 135,
+  "quantity": 4,
+  "barcode": "1656952172404",
+  "image": "image_1656952262309_16569527054765190788738340829353.jpg",
+  "category": "هاردوير",
+  "createdAt": {
+    "$date": "2022-07-04T16:29:59.407Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-10T16:07:22.886Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c3186ad3de2b69eec20b8f"
+  },
+  "name": "هيدفون اكسترا بيز",
+  "price": 95,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "1656953051695",
+  "image": "image_1656953011617_16569534589726404564049754501707.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-04T16:42:18.742Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-04T16:43:32.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c31909d3de2b69eec20bd8"
+  },
+  "name": "ماوس كراش وايرلس شحن جيمينج",
+  "price": 230,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "6529416622148",
+  "image": "image_1656953852777_16569542960683143447626238667639.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-04T16:44:57.676Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-19T15:21:52.943Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c31babd3de2b69eec20be5"
+  },
+  "name": "هيدفون كراش No.X50",
+  "price": 85,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1656953604186",
+  "image": "image_1656953949482_16569543940193704929795471094865.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-04T16:56:11.190Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-13T15:24:27.426Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c31ccfd3de2b69eec20c18"
+  },
+  "name": "هيدفون فاست ساوند",
+  "price": 100,
+  "dealerPrice": 80,
+  "wholesale": 70,
+  "quantity": 3,
+  "barcode": "8034076069526",
+  "image": "image_1656955690779_16569561447378714393298507324208.jpg",
+  "category": "الكل",
+  "createdAt": {
+    "$date": "2022-07-04T17:01:03.741Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-04T17:28:11.569Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c3259ad3de2b69eec20c78"
+  },
+  "name": "ماوس كراش وايرلس شحن w200",
+  "price": 110,
+  "dealerPrice": 90,
+  "wholesale": 85,
+  "quantity": 2,
+  "barcode": "1656956525054",
+  "image": "image_1656956340975_16569567906804702912039033112606.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-04T17:38:34.824Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-05T11:39:25.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c32734d3de2b69eec20ca0"
+  },
+  "name": "ماوس توينز وايرلس جيمينج",
+  "price": 85,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "6999181815586",
+  "image": "image_1656956794458_16569572079321662972241634502571.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-04T17:45:24.369Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-04T17:46:36.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c32906d3de2b69eec20cc5"
+  },
+  "name": "ماوس وايرلس فورت ft-401",
+  "price": 70,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "7898571460926",
+  "image": "image_1679327175859_16793279179856284938815511740177.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-04T17:53:10.381Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-20T15:46:16.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c329d5d3de2b69eec20cf5"
+  },
+  "name": "ماوس XO وايرلس G620",
+  "price": 100,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1710006755033",
+  "image": "image_1656957422620_1656957878020370972445561860953.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-04T17:56:37.098Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-24T18:23:19.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c32ad3d3de2b69eec20d16"
+  },
+  "name": "ماوس 2B - Original - MO 017",
+  "price": 95,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "4892223530176",
+  "image": "image_1656957682234_16569581321013700596599488422098.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-04T18:00:51.017Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-04T18:01:22.917Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c3379bd3de2b69eec20d5d"
+  },
+  "name": "كابل شاحن ralme type-c",
+  "price": 30,
+  "dealerPrice": 25,
+  "wholesale": 19,
+  "quantity": 1,
+  "barcode": "1656960953855",
+  "image": "image_1656960923123_D_NQ_NP_974582-MEC45357858232_032021-O.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-04T18:55:23.140Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:42:04.080Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c43c30d30e313ab1ab8b1b"
+  },
+  "name": "دراع كمبيوتر هزاز  زوجي USB",
+  "price": 195,
+  "dealerPrice": 180,
+  "wholesale": 170,
+  "quantity": 3,
+  "barcode": "1656000094909",
+  "image": "image_1657027683495_image_1656001845604_IMG_20220623_183241.jpg",
+  "category": "اكسسوارات",
+  "createdAt": {
+    "$date": "2022-07-05T13:27:12.225Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-11T20:53:58.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c43d34d30e313ab1ab8b78"
+  },
+  "name": "دراع كمبيوتر Lava زوجي USB ملون",
+  "price": 140,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1657018399696",
+  "image": "image_1657028001990_16570284314385558369565708122650.jpg",
+  "category": "اكسسوارات",
+  "createdAt": {
+    "$date": "2022-07-05T13:31:32.385Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-30T23:11:21.137Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c43e7bd30e313ab1ab8bb0"
+  },
+  "name": "ماوس فورت FT-301 1000DPI",
+  "price": 40,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "7898571460896",
+  "image": "image_1657028315726_16570287721705166726813215573183.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-05T13:36:59.655Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-26T13:25:49.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c43f6cd30e313ab1ab8bf2"
+  },
+  "name": "دراع crash X4 3*1",
+  "price": 145,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 0,
+  "barcode": "1657028505966",
+  "image": "image_1657028489411_16570289404953026577331885064433.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-05T13:41:00.750Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-31T21:50:44.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c4405ad30e313ab1ab8c1a"
+  },
+  "name": "دراعات Cougar زوجي هزاز",
+  "price": 195,
+  "dealerPrice": 170,
+  "wholesale": 160,
+  "quantity": 1,
+  "barcode": "6592485250024",
+  "image": "image_1657028826373_16570292567822405259030997794419.jpg",
+  "category": "اكسسوارات",
+  "createdAt": {
+    "$date": "2022-07-05T13:44:58.764Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-14T21:18:59.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c44278d30e313ab1ab8c61"
+  },
+  "name": "ماوس hp اوريجنال",
+  "price": 95,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657029187257",
+  "image": "image_1657030374674_16570308217485485169932735380885.jpg",
+  "category": "اكسسوارات",
+  "createdAt": {
+    "$date": "2022-07-05T13:54:00.302Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-29T12:57:45.664Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c443cbd30e313ab1ab8c78"
+  },
+  "name": "باور سبلاي دان تك 220 واط",
+  "price": 240,
+  "dealerPrice": 200,
+  "wholesale": 165,
+  "quantity": 3,
+  "barcode": "1657029442415",
+  "image": "image_1657030182653_16570306403653267168174328782957.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-05T13:59:39.033Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-05T19:07:22.975Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c445c3d30e313ab1ab8c9f"
+  },
+  "name": "مشترك تركي 4 عيون متر ونصف",
+  "price": 25,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "1657030313514",
+  "image": "image_1657030129347_16570305906043624431907657426595.jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-05T14:08:03.090Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-20T17:03:34.983Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c448f7d30e313ab1ab8cfd"
+  },
+  "name": "ادابتور متعدد 96واط",
+  "price": 135,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "1657029442415",
+  "image": "image_1657030923227_16570313824628590867954186323001.jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-05T14:21:43.022Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-05T14:22:04.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c4509c4db3cca2fe8efe41"
+  },
+  "name": "مشترك الملكة 4 عيون 3 متر",
+  "price": 35,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "1657031445339",
+  "image": "image_1657032901713_16570333590445245920407130910143.jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-05T14:54:20.870Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-07T19:53:57.282Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c4558f4db3cca2fe8efe96"
+  },
+  "name": "مشترك كراش  عالي الجودة 4 عيون",
+  "price": 40,
+  "dealerPrice": 26,
+  "wholesale": 18,
+  "quantity": 12,
+  "barcode": "1657034142441",
+  "image": "image_1657034171528_16570346184468673632201646974868.jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-05T15:15:27.522Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-30T15:56:49.491Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c456684db3cca2fe8efebf"
+  },
+  "name": "هب USB لافا 4 مخرج",
+  "price": 65,
+  "dealerPrice": 55,
+  "wholesale": 45,
+  "quantity": 2,
+  "barcode": "4897005980286",
+  "image": "image_1686506581954_PhotoRoom-٢٠٢٣٠٦١١_٢١٠٢٤١.png",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-05T15:19:04.751Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-22T20:35:35.933Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c457974db3cca2fe8efee4"
+  },
+  "name": "ماوس HP M10",
+  "price": 65,
+  "dealerPrice": 60,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "6940252364496",
+  "image": "image_1657034738927_16570351905978999403370457471662.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-05T15:24:07.056Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-05T15:25:39.749Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c459634db3cca2fe8eff23"
+  },
+  "name": "ماوس HP M100 جيمينج اوريجينال",
+  "price": 95,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "6948391225111",
+  "image": "image_1657035107293_hp-gaming-mouse-m100.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-05T15:31:47.305Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-29T12:53:47.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c45a164db3cca2fe8eff30"
+  },
+  "name": "ماوس  HD MAX جيمنيج",
+  "price": 45,
+  "dealerPrice": 0,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "6920315615741",
+  "image": "image_1657035317981_16570357740222265653698208911894.jpg",
+  "category": "الكل",
+  "createdAt": {
+    "$date": "2022-07-05T15:34:46.358Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-05T15:35:19.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c45af34db3cca2fe8eff55"
+  },
+  "name": "ماوس XO YW10 جيمينج",
+  "price": 45,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1657035910741",
+  "image": "image_1657035530819_16570359899134826918834212349898.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-05T15:38:27.894Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-26T16:04:36.915Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c45ed14db3cca2fe8eff90"
+  },
+  "name": "ماوس كراش m100 و m200 و w210 استجابة عالية",
+  "price": 60,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "1657036641471",
+  "image": "image_1657036722502_16570371801195378331460717301512.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-05T15:54:57.765Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-15T16:20:45.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c461e94db3cca2fe8effe3"
+  },
+  "name": "كيبورد gaming fx-11",
+  "price": 175,
+  "dealerPrice": 165,
+  "wholesale": 125,
+  "quantity": 4,
+  "barcode": "6922951500047",
+  "image": "image_1704223160863_41A8IAYo+1S._SL500_._AC_SL500_.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-05T16:08:09.473Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-02T19:22:38.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c4627d4db3cca2fe8f0022"
+  },
+  "name": "ماوس HP MS111",
+  "price": 55,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "5397063116225",
+  "image": "image_1657037481113_16570379418509188052621512957867.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-05T16:10:37.615Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-30T21:45:29.409Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c464804db3cca2fe8f0058"
+  },
+  "name": "ماوس شعبي متنوع",
+  "price": 40,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 29,
+  "barcode": "2000580004021",
+  "image": "image_1657037975717_16570384301024994399823817136615.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-05T16:19:12.554Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-26T16:43:46.212Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c467124db3cca2fe8f0080"
+  },
+  "name": "شنطة لابتوب لون كحلي",
+  "price": 150,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657039002393",
+  "image": "image_1657038632065_IMG_20220705_183500.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-05T16:30:10.222Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-05T16:30:32.811Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c467ec4db3cca2fe8f00a5"
+  },
+  "name": "كيبورد Point جيمينج PT-70 اضاءة RGB",
+  "price": 120,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "6980546723011",
+  "image": "image_1657038876797_16570393304834470239690219219969.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-05T16:33:48.967Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T19:43:08.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c477e44db3cca2fe8f00dc"
+  },
+  "name": "هيدفون TC-L750MV",
+  "price": 115,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657043276556",
+  "image": "image_1657042933976_33c8bccffdaf71597a4b8cbfe4577ecc.jpg",
+  "category": "الكل",
+  "createdAt": {
+    "$date": "2022-07-05T17:41:56.031Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-05T17:42:14.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c483704db3cca2fe8f0123"
+  },
+  "name": "هيدفون TC-L770MV",
+  "price": 80,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "6972667897702",
+  "image": "image_1657045872621_K584_1.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-05T18:31:12.631Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-05T18:31:12.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c485904db3cca2fe8f0138"
+  },
+  "name": "هيدفون جيمنج محيطية",
+  "price": 135,
+  "dealerPrice": 0,
+  "wholesale": 0,
+  "quantity": 0,
+  "barcode": "1657046425169",
+  "image": "image_1657046482306_1657046941672435755721698905810.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-05T18:40:16.916Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-21T20:30:54.215Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c488f14db3cca2fe8f0201"
+  },
+  "name": "لمبة ليد 9 واط",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": 10,
+  "quantity": 24,
+  "barcode": "1657047578512",
+  "image": "image_1657047281814_image_1655404135926_images.jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-05T18:54:41.820Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-15T17:29:55.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c48c934db3cca2fe8f0276"
+  },
+  "name": "ماوس hp   براند",
+  "price": 40,
+  "dealerPrice": 35,
+  "wholesale": 33,
+  "quantity": 6,
+  "barcode": "6952655956734",
+  "image": "image_1657048287099_موس-اچ-پی-2.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-05T19:10:11.700Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-02T22:12:40.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c48dc34db3cca2fe8f02d2"
+  },
+  "name": "ماوس dell  براند",
+  "price": 40,
+  "dealerPrice": 35,
+  "wholesale": 33,
+  "quantity": 2,
+  "barcode": "6940050901862",
+  "image": "image_1657048515180_d2d7bed2b35afe412a4ec1ff67974843.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-05T19:15:15.185Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-05T19:16:09.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c48e7b4db3cca2fe8f0334"
+  },
+  "name": "كيبورد مالتي ميديا متنوع",
+  "price": 75,
+  "dealerPrice": 70,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "1686167007134",
+  "image": "image_1657048939365_Multimedia-USB-Keyboard-With-Colored-Buttons.jfif",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-05T19:18:19.380Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-07T19:50:43.207Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c491144db3cca2fe8f036a"
+  },
+  "name": "كيبورد Point PT-201",
+  "price": 90,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 6,
+  "barcode": "6985233413626",
+  "image": "image_1657049403106_16570498568272747998826834798803.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-05T19:29:24.813Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-22T21:34:37.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c493014db3cca2fe8f0396"
+  },
+  "name": "هيدفون ليدر شيب",
+  "price": 80,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "7897101501740",
+  "image": "image_1657049857935_120775847_1GG.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-05T19:37:37.941Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-11T17:59:44.054Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c49ab94db3cca2fe8f03a4"
+  },
+  "name": "كيبورد Point PT-202 مالتيميديا",
+  "price": 100,
+  "dealerPrice": 85,
+  "wholesale": 75,
+  "quantity": 8,
+  "barcode": "6975413382156",
+  "image": "image_1657051936476_16570523933239189864840602694936.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-05T20:10:33.455Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-26T18:57:48.803Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c4ab9e4db3cca2fe8f03c5"
+  },
+  "name": "مروحة تبريد CBU lava ST-14",
+  "price": 75,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "1657056188439",
+  "image": "image_1657056158632_download.jfif",
+  "category": "هاردوير كمبيوتر",
+  "createdAt": {
+    "$date": "2022-07-05T21:22:38.641Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-05T21:30:50.307Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c4ac5b4db3cca2fe8f03d6"
+  },
+  "name": "مروحة تبريد CBU crash",
+  "price": 75,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 5,
+  "barcode": "1657056120408",
+  "image": "image_1657056347514_1.jpg",
+  "category": "هاردوير كمبيوتر",
+  "createdAt": {
+    "$date": "2022-07-05T21:25:47.519Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-05T21:29:44.816Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c4ad0a4db3cca2fe8f03e1"
+  },
+  "name": "مروحة تبريد CBU lava ST-12",
+  "price": 65,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "1657056850763",
+  "image": "image_1657056522405_download (1).jfif",
+  "category": "هاردوير كمبيوتر",
+  "createdAt": {
+    "$date": "2022-07-05T21:28:42.410Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-05T21:29:32.552Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c4b0d74db3cca2fe8f0448"
+  },
+  "name": "هيد فون بلوتوث P47 4.2+RED",
+  "price": 135,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 0,
+  "barcode": "6954774711133",
+  "image": "image_1657057595877_images.jfif",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-05T21:44:55.252Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-07T16:49:47.478Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c4b3f44db3cca2fe8f0468"
+  },
+  "name": "هيد فون بلوتوث stereo ",
+  "price": 155,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657057299168",
+  "image": "image_1657058292501_images (2).jfif",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-05T21:58:12.535Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-19T12:52:20.190Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c4b4434db3cca2fe8f0473"
+  },
+  "name": "هيد فون  s-666",
+  "price": 65,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "6940050905167",
+  "image": "image_1657058460154_16570589139818308527270745992719.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-05T21:59:31.146Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-05T22:01:00.734Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c4b6dd4db3cca2fe8f04a3"
+  },
+  "name": "سلك نت cat5",
+  "price": 8,
+  "dealerPrice": null,
+  "wholesale": 2,
+  "quantity": 10573,
+  "barcode": "",
+  "image": "image_1657119942782_download (4).jfif",
+  "category": "الاسلاك",
+  "createdAt": {
+    "$date": "2022-07-05T22:10:37.474Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-11T17:59:44.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c4ba694db3cca2fe8f04b5"
+  },
+  "name": "كابل شاحن ماجنتيك مضئ X-CABLE 360",
+  "price": 90,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657060015861",
+  "image": "image_1657060118888_H0b7b35da02134060b10aab28aaa102d1h.jpg_300x300.webp",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-05T22:25:45.410Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-24T16:23:53.886Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c4bc3c4db3cca2fe8f04e1"
+  },
+  "name": "كابل Type-C شعبي",
+  "price": 25,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1657060791176",
+  "image": "image_1657060557044_16570610031232414322461539116579.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-05T22:33:32.506Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-04T22:07:43.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c4be164db3cca2fe8f0502"
+  },
+  "name": "كابل ماجنيتك FAST ",
+  "price": 90,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 8,
+  "barcode": "6720200921601",
+  "image": "image_1657060886767_download (3).jfif",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-05T22:41:26.773Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-19T15:55:27.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c55a6d4db3cca2fe8f0574"
+  },
+  "name": "كابل شاحن ralme ميكرو",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 0,
+  "barcode": "1657100613840",
+  "image": "image_1657100909844_images (3).jfif",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-06T09:48:29.851Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-09T18:05:38.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c55b244db3cca2fe8f0582"
+  },
+  "name": "كابل شاحن ميكرو H-PRO",
+  "price": 40,
+  "dealerPrice": 37,
+  "wholesale": 36,
+  "quantity": 3,
+  "barcode": "6712191126325",
+  "image": "image_1657101220463_16571016688808610773206993785588.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-06T09:51:32.097Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-11T19:27:08.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c55c6e4db3cca2fe8f05a7"
+  },
+  "name": "كابل شاحن ralme ميكرو A3 FAST",
+  "price": 30,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "1657651394715",
+  "image": "image_1657101477726_16571019349514867732479253584426.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-06T09:57:02.720Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-12T18:35:44.320Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c55d6d4db3cca2fe8f05d3"
+  },
+  "name": "كابل شاحن HM ميكرو HM-202A FAST",
+  "price": 30,
+  "dealerPrice": 0,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "6949810521111",
+  "image": "image_1657101885519_image_1657101714287_16571021590849189505328810667975.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-06T10:01:17.320Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-03T16:50:33.716Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c55f624db3cca2fe8f061b"
+  },
+  "name": "كابل شاحن REMAX",
+  "price": 30,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 5,
+  "barcode": "6972174158310",
+  "image": "image_1657102178494_178422734.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-06T10:09:38.499Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-06T10:09:38.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c560584db3cca2fe8f0629"
+  },
+  "name": "كابل شاحن ميكرو X-PLUS METAL XP-25",
+  "price": 25,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1657102954656",
+  "image": "image_1657102424006_images (4).jfif",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-06T10:13:44.011Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-28T19:30:18.597Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c565de4db3cca2fe8f0654"
+  },
+  "name": "كابل شاحن ميكرو Etrain",
+  "price": 35,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 0,
+  "barcode": "4892221070506",
+  "image": "image_1657119866632_images (6).jfif",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-06T10:37:18.107Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-02T12:40:15.943Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c567944db3cca2fe8f0695"
+  },
+  "name": "كابل شاحن LDNIO XS-07 MICRO",
+  "price": 25,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "6933138600719",
+  "image": "image_1657104276053_2-550x550.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-06T10:44:36.057Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-06T10:44:36.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c568574db3cca2fe8f06a8"
+  },
+  "name": "كابل شاحن ميكرو REMAX FLSHBONE",
+  "price": 35,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "6954851219576",
+  "image": "image_1657104541953_16571049867344744855113943527313.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-06T10:47:52.000Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-14T18:16:50.988Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c5696c4db3cca2fe8f06d1"
+  },
+  "name": "كابل شاحن ميكرو VIDVIE CB412V",
+  "price": 25,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 5,
+  "barcode": "6970280944124",
+  "image": "image_1657104748672_26193624.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-06T10:52:28.688Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-06T10:52:28.688Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c56a8f4db3cca2fe8f06f9"
+  },
+  "name": "شاحن ميكرو ŁADOWARKA SIECIOWA 2.4A ",
+  "price": 25,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 8,
+  "barcode": "6973224870305",
+  "image": "image_1657105039487_1_thickbox.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-06T10:57:19.493Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-15T18:08:03.272Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c56b054db3cca2fe8f070c"
+  },
+  "name": "كابل شاحن HUAWEI 5A C70",
+  "price": 35,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "8559878589213",
+  "image": "image_1657105219414_16571056648647008124542597806387.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-06T10:59:17.564Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-11T19:13:01.419Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c56df74db3cca2fe8f0748"
+  },
+  "name": "كابل شاحن infinix",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 6,
+  "barcode": "1657105760965",
+  "image": "image_1657105911783_f132386836924999730023-1.webp",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-06T11:11:51.788Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-01T21:09:23.750Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c56fbb4db3cca2fe8f0759"
+  },
+  "name": "كابل شاحن ميكرو SAMSUNG FAST 3A",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "1657106789687",
+  "image": "image_1657106411675_16571068669773888374111968125263.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-06T11:19:23.739Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-06T11:20:11.975Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c586b7f0829dee0717edb6"
+  },
+  "name": "HDMI to VGA Adapter",
+  "price": 100,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "1657108087478",
+  "image": "image_1657117946327_16571183886671684669151787928522.jpg",
+  "category": "اكسسوارات",
+  "createdAt": {
+    "$date": "2022-07-06T12:57:27.822Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T20:09:06.266Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c58797f0829dee0717edc1"
+  },
+  "name": "اسيكر كيبورد جلد (اللغة العربية)",
+  "price": 20,
+  "dealerPrice": 16,
+  "wholesale": null,
+  "quantity": 32,
+  "barcode": "1657109257638",
+  "image": "image_1657117716649_16571181582628290588250919514804.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-06T13:01:11.414Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-14T18:16:50.994Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c58836f0829dee0717edcc"
+  },
+  "name": "HDMI to VGA",
+  "price": 75,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 9,
+  "barcode": "1657107938055",
+  "image": "image_1657118348459_16571188026754917379760819146338.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-06T13:03:50.622Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-30T18:56:25.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c588e4f0829dee0717edd7"
+  },
+  "name": "HDMI to VGA",
+  "price": 100,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 5,
+  "barcode": "1657108023598",
+  "image": "image_1657120208938_1657120665788100913189966725749.jpg",
+  "category": "اكسسوارات",
+  "createdAt": {
+    "$date": "2022-07-06T13:06:44.998Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T17:37:36.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c58a95f0829dee0717eded"
+  },
+  "name": "Mini DisplayPort Adapter.Displayport Adapter",
+  "price": 85,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 0,
+  "barcode": "1657108051918",
+  "image": "image_1657119057935_16571195042411414521938188003750.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-06T13:13:57.521Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-04T20:17:15.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c58b5af0829dee0717ee0b"
+  },
+  "name": "OTG.USB 2.0/microUSM",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657107491475",
+  "image": "image_1657121043554_16571215046907570857292097942368.jpg",
+  "category": "اكسسوارات",
+  "createdAt": {
+    "$date": "2022-07-06T13:17:14.599Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-31T20:43:05.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c58cf8f0829dee0717ee2a"
+  },
+  "name": "OTG type-c usb",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657107213492",
+  "image": "image_1657120945204_16571213990167679505613395165431.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-06T13:24:08.623Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-06T15:22:25.706Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c58f3bf0829dee0717ee40"
+  },
+  "name": "USB Bluetooth Dogle",
+  "price": 60,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 6,
+  "barcode": "1657107125108",
+  "image": "image_1657119308578_16571197605474398581810797088330.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-06T13:33:47.286Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T18:24:53.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c5900cf0829dee0717ee5d"
+  },
+  "name": "NOOSY مكمل الخطوط مع ابرة",
+  "price": 10,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1657107318811",
+  "image": "image_1657119203241_16571196573261115999063695942852.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-06T13:37:16.269Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-06T14:53:23.761Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c5a520f0829dee0717ef5e"
+  },
+  "name": "OTG +USB",
+  "price": 20,
+  "dealerPrice": 0,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "6983646411987",
+  "image": "image_1657120077077_images12322.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-06T15:07:12.151Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-06T15:07:57.084Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c5a813f0829dee0717efc2"
+  },
+  "name": "OTG+USB type-c usb",
+  "price": 35,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1657121212590",
+  "image": "image_1657120787335_images12322.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-06T15:19:47.341Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T12:56:31.147Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c5aba9f0829dee0717f02e"
+  },
+  "name": "جهاز تحويل من 1 مخرج الى 3 مخارج",
+  "price": 150,
+  "dealerPrice": 100,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "1657108000134",
+  "image": "image_1657121785024_IMG20220706174003.jpg",
+  "category": "اكسسوارات",
+  "createdAt": {
+    "$date": "2022-07-06T15:35:05.922Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-06T15:36:25.738Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c5b10cf0829dee0717f057"
+  },
+  "name": "DisplayPort Adapter",
+  "price": 100,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 5,
+  "barcode": "1657107876785",
+  "image": "image_1657123268511_1657123693234438182145582793213.jpg",
+  "category": "اكسسوارات",
+  "createdAt": {
+    "$date": "2022-07-06T15:58:04.823Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T20:59:43.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c5ec77f0829dee0717f0a2"
+  },
+  "name": "استيكر كيبورد اسود",
+  "price": 10,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 55,
+  "barcode": "1657138148613",
+  "image": "image_1657138424681_16571388815427674631680937414444.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-06T20:11:35.263Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-19T15:21:52.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c5eeddf0829dee0717f0d6"
+  },
+  "name": "استيكر كيبورد شفاف",
+  "price": 10,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 89,
+  "barcode": "1657139358356",
+  "image": "image_1657138909766_51G92vzh6ZL._AC_SY780_.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-06T20:21:49.780Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-26T18:04:19.796Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c75e803f06fff06d238e33"
+  },
+  "name": "كابل بور BC عادي",
+  "price": 20,
+  "dealerPrice": 15,
+  "wholesale": 10,
+  "quantity": 12,
+  "barcode": "1657232942262",
+  "image": "image_1657233100874_IMG20220708003600.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-07T22:30:24.258Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-29T14:31:00.234Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c897cd3f06fff06d238f68"
+  },
+  "name": "ماوس اورجينال استيراد خارج منتوع PS2",
+  "price": 55,
+  "dealerPrice": 38,
+  "wholesale": 30,
+  "quantity": 56,
+  "barcode": "1657309772693",
+  "image": "image_1657313229389_download (6).jfif",
+  "category": "الاجهزه والاكسسوارات الاورجينال",
+  "createdAt": {
+    "$date": "2022-07-08T20:47:09.397Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-29T12:58:23.409Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c9abff3f06fff06d238fa9"
+  },
+  "name": "ماوس اورجينال استيراد خارج منتوع USB",
+  "price": 70,
+  "dealerPrice": 30,
+  "wholesale": 18,
+  "quantity": 47,
+  "barcode": "1657384135234",
+  "image": "image_1657383935233_download (8).jfif",
+  "category": "الاجهزه والاكسسوارات الاورجينال",
+  "createdAt": {
+    "$date": "2022-07-09T16:25:35.250Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-29T12:55:29.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62c9caca3f06fff06d239041"
+  },
+  "name": "كابل شاحن مايكرو USB  مضيئ",
+  "price": 25,
+  "dealerPrice": 13,
+  "wholesale": 10,
+  "quantity": 1,
+  "barcode": "1657392240216",
+  "image": "image_1657392095544_16573925551141817848926554730435.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-09T18:36:58.091Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T18:03:52.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cb2aaa3f06fff06d2390c4"
+  },
+  "name": "كابل 3*3",
+  "price": 20,
+  "dealerPrice": 13,
+  "wholesale": 7,
+  "quantity": 11,
+  "barcode": "4555654576013",
+  "image": "image_1657481898507_cv264-55.jpg",
+  "category": "اجهزة الدش",
+  "createdAt": {
+    "$date": "2022-07-10T19:38:18.528Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-02T16:21:16.303Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cb30ff3f06fff06d2390f9"
+  },
+  "name": "حجر بيوس CR2025",
+  "price": 15,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 37,
+  "barcode": "1657482064503",
+  "image": "image_1657483519614_61+ynmWtU4L._AC_SL1000_.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-10T20:05:19.647Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-29T21:13:49.397Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cb32803f06fff06d23911a"
+  },
+  "name": "حجر بيوس باناسونيك CR2025",
+  "price": 25,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 26,
+  "barcode": "1657484032294",
+  "image": "image_1657483904068_3869880-400x300.jpeg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-10T20:11:44.084Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-10T20:14:25.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cb34423f06fff06d23917b"
+  },
+  "name": "بطاريه sk sunking ag3/392a",
+  "price": 10,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 10,
+  "barcode": "6970764890077",
+  "image": "image_1657484354050_H33e4a1bc239a45b6b406f68475e0184az.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-10T20:19:14.124Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-10T20:19:14.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cb36573f06fff06d2391b0"
+  },
+  "name": "cable hd max flat 1.5m",
+  "price": 35,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 9,
+  "barcode": "1657484882709",
+  "image": "image_1657484887625_download (9).jfif",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-10T20:28:07.632Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T21:34:08.275Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cb36fb3f06fff06d2391bb"
+  },
+  "name": "كابل شاحن ايفون Griffin",
+  "price": 35,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1657484830461",
+  "image": "image_1657485051410_1f8f50701cea49cd377b32e98f66771b.png",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-10T20:30:51.510Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-27T21:01:44.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cb39813f06fff06d2391df"
+  },
+  "name": "كابل HD حراري من ZERO",
+  "price": 45,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 8,
+  "barcode": "1657485463439",
+  "image": "image_1657485697283_61utjqaZrIL._AC_SL1002_.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-10T20:41:37.314Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-02T12:02:46.270Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cb3a6c3f06fff06d239207"
+  },
+  "name": "ريدر TAHER USB",
+  "price": 15,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 7,
+  "barcode": "1657485975874",
+  "image": "image_1657485987049_16574864423865311234848088027708.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-10T20:45:32.066Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-18T15:28:55.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cb3ce13f06fff06d239267"
+  },
+  "name": "كارتة واي فاي USB",
+  "price": 125,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 0,
+  "barcode": "1657486061514",
+  "image": "image_1657486596125_16574870529584581540757402207489.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-10T20:56:01.740Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-04T12:06:05.695Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cb3d163f06fff06d239285"
+  },
+  "name": "CABLE HDMI steren 7.2 M 299-824",
+  "price": 100,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "7501483182168",
+  "image": "image_1657486614754_7501483182168-1 (1).webp",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-10T20:56:54.785Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-10T20:56:54.785Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cb3eac3f06fff06d2392b4"
+  },
+  "name": "كارتة واي فاي USB 2.0-802.IIN",
+  "price": 115,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "8699258564291",
+  "image": "image_1657487020280_41Kgk2NVy4L.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-10T21:03:40.287Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-18T12:17:28.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cb3faf3f06fff06d2392bf"
+  },
+  "name": "كارت صوت usb ZERO + i rock",
+  "price": 50,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 6,
+  "barcode": "8608845620852",
+  "image": "image_1657487279417_571d87d33fb6c0d68980a194ef2c1f183ea9c577.webp",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-10T21:07:59.425Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-19T15:21:52.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cb439c3f06fff06d2392ce"
+  },
+  "name": "ريدر متنوع اورجينال",
+  "price": 10,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 23,
+  "barcode": "1657488731593",
+  "image": "image_1657488284604_download (10).jfif",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-10T21:24:44.614Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-15T20:49:39.681Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cb44ae3f06fff06d2392d9"
+  },
+  "name": "كارت وايفاي 802.11N",
+  "price": 100,
+  "dealerPrice": 0,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1657488662858",
+  "image": "image_1657488558359_تعريف-فلاشة-واي-فاي-802.11-n-للكمبيوتر-ويندوز-7.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-10T21:29:18.368Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-11T13:45:03.294Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cb45e53f06fff06d239303"
+  },
+  "name": "كارت بلوتوث USB",
+  "price": 60,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "1657488633466",
+  "image": "image_1657488869938_41Jgor8flBL._AC_SY780_.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-10T21:34:29.949Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-21T21:58:44.617Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cb47383f06fff06d239315"
+  },
+  "name": "كرت صوت USB HDMAX",
+  "price": 35,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657487903721",
+  "image": "image_1657489208408_06a521817473e7b8544c70181ac0d9253fa709b9_original.jpeg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-10T21:40:08.436Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-10T20:20:30.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cb48373f06fff06d239320"
+  },
+  "name": "MUSIC RECEIVER BLUETOOTH",
+  "price": 30,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 5,
+  "barcode": "1657488019047",
+  "image": "image_1657489463296_f5c720868868f5c852029bcc489ea31d (1).jfif",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-10T21:44:23.336Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-10T21:44:23.336Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cc165c3f06fff06d239363"
+  },
+  "name": "كابل HDTV 1.5M",
+  "price": 25,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 8,
+  "barcode": "1657542660379",
+  "image": "image_1657542236971_download (9).jfif",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-11T12:23:56.979Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-25T13:47:27.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cc1c213f06fff06d23936e"
+  },
+  "name": "كابل HD اسود 1.5M",
+  "price": 40,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 9,
+  "barcode": "1657543207406",
+  "image": "image_1657543713279_download (11).jfif",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-11T12:48:33.286Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-16T17:48:40.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cc23f23f06fff06d239383"
+  },
+  "name": "كابل HD اسود 5M",
+  "price": 55,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "1657545830318",
+  "image": "image_1657545998695_images.jpeg",
+  "category": "اكسسوارات",
+  "createdAt": {
+    "$date": "2022-07-11T13:21:54.896Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-11T13:26:38.722Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cc3ca93f06fff06d2393d1"
+  },
+  "name": "كابل HD حراري من اليقين 3M",
+  "price": 65,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1657545272962",
+  "image": "image_1657552041317_7501483182168-1.webp",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-11T15:07:21.346Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-04T20:08:25.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cc40523f06fff06d2393e6"
+  },
+  "name": "كونفيرت HD TO DVI 1.5M",
+  "price": 100,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 8,
+  "barcode": "1657553416768",
+  "image": "image_1657553121806_download (13).jfif",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-11T15:22:58.721Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-09T23:02:47.447Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cc46843f06fff06d23941a"
+  },
+  "name": "كابل FLAT 5M",
+  "price": 75,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "1657489099390",
+  "image": "image_1657554564535_download (14).jfif",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-11T15:49:24.541Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-17T12:25:13.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cc538e3f06fff06d239437"
+  },
+  "name": "كابل USB TO TYPE MINE B",
+  "price": 35,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657557550082",
+  "image": "image_1657557902605_download (15).jfif",
+  "category": "الكل",
+  "createdAt": {
+    "$date": "2022-07-11T16:45:02.613Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T20:51:07.168Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cc55bf3f06fff06d23943f"
+  },
+  "name": "كابل USB TO TYPE MINE B اورجينال",
+  "price": 45,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "1657558368474",
+  "image": "image_1657558462996_download (16).jfif",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-11T16:54:23.006Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T16:48:23.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cc58773f06fff06d239451"
+  },
+  "name": "كابل usb to printer 3M XO",
+  "price": 35,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "1657559233329",
+  "image": "image_1657559194012_download (17).jfif",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-11T17:05:59.368Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-11T17:33:36.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cc5bd63f06fff06d23947d"
+  },
+  "name": "كابل برنتر 1.5M Crash",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "1657560120689",
+  "image": "image_1657560115941_download (18).jfif",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-11T17:20:22.620Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-11T18:00:02.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cc5d113f06fff06d23949e"
+  },
+  "name": "كابل برنتر 3M Crash",
+  "price": 40,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657560910674",
+  "image": "image_1657560614401_16575610581831871476257282291222.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-11T17:25:37.578Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-11T17:31:01.904Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cc5eb13f06fff06d2394e0"
+  },
+  "name": "كابل برنتر 1.5M High Speed Computer Cable",
+  "price": 25,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 5,
+  "barcode": "1657559764613",
+  "image": "image_1657562470586_download (18).jfif",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-11T17:32:33.482Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-07T20:04:30.559Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cc60333f06fff06d239509"
+  },
+  "name": "Crash USB 2.0 AM-BM Priner Cable 3M  دكر ونتاية",
+  "price": 50,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1657560161545",
+  "image": "image_1657562744784_IMG20220711201245.jpg",
+  "category": "اكسسوارات",
+  "createdAt": {
+    "$date": "2022-07-11T17:38:59.679Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-04T20:08:25.467Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cc62243f06fff06d23951a"
+  },
+  "name": "كابل High Quality  دكر ونتاية",
+  "price": 30,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657561442645",
+  "image": "image_1657562161722_16575625612297129687907888930202.jpg",
+  "category": "اكسسوارات",
+  "createdAt": {
+    "$date": "2022-07-11T17:47:16.549Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:42:04.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cc6bff3f06fff06d2395f4"
+  },
+  "name": "كابل 3*1 Crash",
+  "price": 15,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1657561407159",
+  "image": "image_1657564159955_images (10).jfif",
+  "category": "اكسسوارات",
+  "createdAt": {
+    "$date": "2022-07-11T18:29:19.967Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-17T19:36:32.377Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cc72553f06fff06d23960c"
+  },
+  "name": "كابل HD MAX 3*1",
+  "price": 15,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "1657561407159",
+  "image": "image_1657565781089_download (19).jfif",
+  "category": "اكسسوارات",
+  "createdAt": {
+    "$date": "2022-07-11T18:56:21.099Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-11T18:56:21.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cc73183f06fff06d239627"
+  },
+  "name": "كابل HD MAX 2*1",
+  "price": 15,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "1657562002808",
+  "image": "image_1657566784828_IMG20220711211926.jpg",
+  "category": "اكسسوارات",
+  "createdAt": {
+    "$date": "2022-07-11T18:59:36.313Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-29T11:01:48.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cc77153f06fff06d239663"
+  },
+  "name": "كابل Mix Max دكر ونتاية",
+  "price": 15,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 0,
+  "barcode": "1657565173891",
+  "image": "image_1657567077783_16575675239701169484206750285407.jpg",
+  "category": "اكسسوارات",
+  "createdAt": {
+    "$date": "2022-07-11T19:16:37.653Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-25T13:47:27.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cc78ff3f06fff06d2396b5"
+  },
+  "name": "كابل صوت  2*1",
+  "price": 15,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 19,
+  "barcode": "1657562164767",
+  "image": "image_1657567562468_IMG20220711213134.jpg",
+  "category": "اكسسوارات",
+  "createdAt": {
+    "$date": "2022-07-11T19:24:47.337Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-22T16:29:05.439Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cc7d603f06fff06d2396f4"
+  },
+  "name": "كابل aux 1*1",
+  "price": 15,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 6,
+  "barcode": "1657567969737",
+  "image": "image_1657568608343_images (11).jfif",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-11T19:43:28.369Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-23T18:26:20.644Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cc7f053f06fff06d23970b"
+  },
+  "name": "كابل Viga HIGH SPEED 1.5M",
+  "price": 25,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "6988188700292",
+  "image": "image_1657569055260_download (25).jfif",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-11T19:50:29.160Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-25T18:02:40.736Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cc7ff53f06fff06d239727"
+  },
+  "name": "كابل Viga LAVA 1.5M",
+  "price": 40,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 6,
+  "barcode": "1657569597947",
+  "image": "image_1657569269944_download (26).jfif",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-11T19:54:29.951Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-28T19:46:11.496Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cd516f3f06fff06d23973d"
+  },
+  "name": "كابل Viga Popular 1.5M",
+  "price": 25,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 6,
+  "barcode": "1657570688969",
+  "image": "image_1657622895373_C-VGA-1.5.jpeg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-12T10:48:15.386Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-16T17:47:11.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cd55f43f06fff06d239757"
+  },
+  "name": "كابل VGA BLACK",
+  "price": 45,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 5,
+  "barcode": "1657570292958",
+  "image": "image_1657624347152_images (12)00.jfif",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-12T11:07:32.318Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-21T20:54:54.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cd58f63f06fff06d2397a1"
+  },
+  "name": "كابل VGA BLACK ORIGINAL HIGH QUALITY",
+  "price": 50,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1657625412772",
+  "image": "image_1657625695737_5885036_sa.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-12T11:20:22.490Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-10T20:51:07.175Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cd622a3f06fff06d239837"
+  },
+  "name": "كابل hd lava flat red 9m",
+  "price": 95,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1657627072261",
+  "image": "image_1657627283200_16576277516473257314604764931200.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-12T11:59:38.953Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-12T12:01:23.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cd63c63f06fff06d23986e"
+  },
+  "name": "كابل VGA BLACK ORIGINAL HIGH QUALITY WHITE",
+  "price": 30,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "1657626741423",
+  "image": "image_1657627590206_61xUYTqYW8L.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-12T12:06:30.217Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-13T21:42:34.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cd64df3f06fff06d23988b"
+  },
+  "name": "كابل USB TO USB من HP",
+  "price": 60,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657628383200",
+  "image": "image_1657627871416_v4-460px-Connect-Two-Computers-Using-USB-Step-1-Version-4.jpg.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-12T12:11:11.430Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-18T15:40:17.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cd69c83f06fff06d2398a8"
+  },
+  "name": "VGA CABLE 5m",
+  "price": 60,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 0,
+  "barcode": "1657629674340",
+  "image": "image_1657629128122_1.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-12T12:32:08.168Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-11T19:32:47.251Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cd69ea3f06fff06d2398b3"
+  },
+  "name": "vga cable 5m flat",
+  "price": 70,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657629635532",
+  "image": "image_1657629162496_images (17).jfif",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-12T12:32:42.504Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-12T12:33:08.290Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cd6d2f3f06fff06d2398ee"
+  },
+  "name": "WHITE POWER CABLE ORIGINAL",
+  "price": 30,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "1657630299934",
+  "image": "image_1657629999829_WHITE POWER CABLE ORIGINAL.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-12T12:46:39.843Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-31T14:36:26.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cd6f583f06fff06d239900"
+  },
+  "name": "كابل باور اوريجنال اسود ZOOM",
+  "price": 20,
+  "dealerPrice": 13,
+  "wholesale": 7,
+  "quantity": 8,
+  "barcode": "1657630375294",
+  "image": "image_1657630552165_download (29).jfif",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-12T12:55:52.174Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-14T19:51:56.867Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cd6fad3f06fff06d23990b"
+  },
+  "name": "كابل باور ثلاثي اوريجينال رمادي",
+  "price": 30,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657630333158",
+  "image": "image_1657630651965_2474424-400x300.jpeg",
+  "category": "الكل",
+  "createdAt": {
+    "$date": "2022-07-12T12:57:17.150Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-18T12:48:46.389Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cd6fcc3f06fff06d239924"
+  },
+  "name": "كابل بور اسود popular",
+  "price": 15,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 5,
+  "barcode": "1657630647219",
+  "image": "image_1657630668527_download (30).jfif",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-12T12:57:48.533Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-12T14:13:40.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cd7b8e3f06fff06d23993e"
+  },
+  "name": "اراجة سلك نت وتلفون HT-318",
+  "price": 85,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "1657633363266",
+  "image": "image_1657633678393_f0f8be52267787029d9c0d25328f2f73ffb88f2f.webp",
+  "category": "اجهزة النت والشبكات",
+  "createdAt": {
+    "$date": "2022-07-12T13:47:58.403Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-12T14:12:42.901Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cd81013f06fff06d23995b"
+  },
+  "name": "كبل نت متر ونصف تأفيل مصنع",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 5,
+  "barcode": "1657635094195",
+  "image": "image_1657635073886_download.jpg",
+  "category": "الاسلاك",
+  "createdAt": {
+    "$date": "2022-07-12T14:11:13.894Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-05T18:12:00.177Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cd953f3f06fff06d2399e3"
+  },
+  "name": "لمبه نيازا 100W",
+  "price": 10,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 103,
+  "barcode": "6223000450635",
+  "image": "image_1657640359995_download (34).jfif",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-12T15:37:35.877Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-26T11:04:15.244Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cda1043f06fff06d239a66"
+  },
+  "name": "مشترك MK بلمبه",
+  "price": 25,
+  "dealerPrice": null,
+  "wholesale": 15,
+  "quantity": 16,
+  "barcode": "1657643349364",
+  "image": "image_1657643268028_images (18).jfif",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-12T16:27:48.035Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T14:23:38.686Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cda2113f06fff06d239a77"
+  },
+  "name": "مشترك خماسي شعبي ",
+  "price": 8,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 8,
+  "barcode": "1657643856599",
+  "image": "image_1657643537514_images (19).jfif",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-12T16:32:17.524Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-12T18:45:51.749Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cda31d3f06fff06d239a82"
+  },
+  "name": "فيشة ثلاثي MK",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 5,
+  "barcode": "1657644007405",
+  "image": "image_1657643805479_images (20).jfif",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-12T16:36:45.485Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-29T19:31:31.408Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cda4223f06fff06d239a93"
+  },
+  "name": "فيشه دكر افينا 16 امبير ",
+  "price": 15,
+  "dealerPrice": null,
+  "wholesale": 8,
+  "quantity": 18,
+  "barcode": "1657644383867",
+  "image": "image_1657644066113_download (38).jfif",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-12T16:41:06.121Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-04T22:07:43.723Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cda7033f06fff06d239a9e"
+  },
+  "name": "فيشه نتايه افينا باور 16 امبير ",
+  "price": 15,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 19,
+  "barcode": "1657645150659",
+  "image": "image_1657644803745_download (37).jfif",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-12T16:53:23.754Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-04T22:07:43.721Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cdaa353f06fff06d239ab5"
+  },
+  "name": "كابل 2*1 10M",
+  "price": 50,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657642544147",
+  "image": "image_1657645621793_download (39).jfif",
+  "category": "اكسسوارات",
+  "createdAt": {
+    "$date": "2022-07-12T17:07:01.805Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-12T17:07:01.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cdad9d3f06fff06d239ae4"
+  },
+  "name": "دوايه قلاوظ اسود (افينا باور)",
+  "price": 10,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 37,
+  "barcode": "3207646881525",
+  "image": "image_1657646493161_download (1).jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-12T17:21:33.172Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-26T21:13:46.701Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cdb4173f06fff06d239b24"
+  },
+  "name": "لمبه 200 W",
+  "price": 15,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 28,
+  "barcode": "1657648574062",
+  "image": "image_1657648151527_download (7).jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-12T17:49:11.536Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-12T15:51:33.943Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cdb4503f06fff06d239b2f"
+  },
+  "name": "فيشه دكر شعبي ",
+  "price": 5,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 28,
+  "barcode": "1657648665845",
+  "image": "image_1657648208607_download (5).jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-12T17:50:08.613Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-16T15:11:20.755Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cdb4803f06fff06d239b3a"
+  },
+  "name": "فيشه نتايه شعبي ",
+  "price": 5,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 32,
+  "barcode": "1657648724924",
+  "image": "image_1657648256158_21EKadns-mL._AC_SY580_.jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-12T17:50:56.165Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-01T16:38:44.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cdbfc73f06fff06d239b9b"
+  },
+  "name": "كابل شاحن ralme TYBE-C A3 FAST",
+  "price": 35,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "8522589633698",
+  "image": "image_1657651143131_image_1657101477726_16571019349514867732479253584426 (1).jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-12T18:39:03.807Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-08T18:37:18.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cdc9733f06fff06d239bc6"
+  },
+  "name": "دوايه سراميك بسلك ",
+  "price": 8,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 7,
+  "barcode": "1657651895333",
+  "image": "image_1657653619567_download (3).jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-12T19:20:19.579Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-24T19:47:22.229Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cdca603f06fff06d239bfc"
+  },
+  "name": "دوايه لتش قلاوظ",
+  "price": 8,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 9,
+  "barcode": "1657654221331",
+  "image": "image_1657653856960_download (9).jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-12T19:24:16.967Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-12T19:24:16.967Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cdd9dc3f06fff06d239c19"
+  },
+  "name": "دوايه لطش دهبي ",
+  "price": 15,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 14,
+  "barcode": "1657658276282",
+  "image": "image_1657657820698_images (2).jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-12T20:30:20.706Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-12T20:30:20.706Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cddc613f06fff06d239c28"
+  },
+  "name": "لمبة بولة CITY وات 40",
+  "price": 5,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 45,
+  "barcode": "1657662659652",
+  "image": "image_1657658465242_cks7umbjd00093d60d5assf3z_IMG_20210811_204822.jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-12T20:41:05.272Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-12T21:43:32.763Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cddd7e3f06fff06d239c45"
+  },
+  "name": "لمبة بلحة صفراء دويل رفيع",
+  "price": 5,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 9,
+  "barcode": "1657659136555",
+  "image": "image_1657658844112_84bc568c5386d91a9a6c5c62ba675d3ac369d956.webp",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-12T20:45:50.878Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-12T20:47:48.320Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cde27d3f06fff06d239c74"
+  },
+  "name": "لمبة بلحة شمعة مصنفرة",
+  "price": 5,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 10,
+  "barcode": "1657660486047",
+  "image": "image_1657660029214_image_1024.jfif",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-12T21:07:09.224Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-12T21:07:09.224Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cde5583f06fff06d239c7f"
+  },
+  "name": "لمبه ديسكو دواره ",
+  "price": 35,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1657661208336",
+  "image": "image_1657660760508_images (24).jfif",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-12T21:19:20.538Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-12T21:19:20.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cde65a3f06fff06d239c8a"
+  },
+  "name": "NOUR LED PANET LICHT",
+  "price": 40,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 9,
+  "barcode": "1657661456790",
+  "image": "image_1657661018919_download (40).jfif",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-12T21:23:38.927Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-12T21:23:38.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cde92a3f06fff06d239c99"
+  },
+  "name": "لمبه ليد بلحه",
+  "price": 15,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 25,
+  "barcode": "6224007255513",
+  "image": "image_1657661972443_download (41).jfif",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-12T21:35:38.544Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-12T21:39:32.453Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cdea6b3f06fff06d239cbf"
+  },
+  "name": "لمبة ليد بلحه قلوظ تخين",
+  "price": 15,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 7,
+  "barcode": "6224007255506",
+  "image": "image_1657662059606_download (42).jfif",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-12T21:40:59.616Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-12T21:43:42.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62ceac4b3f06fff06d239d7b"
+  },
+  "name": "كابل باور كاميرات بكر",
+  "price": 5,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 144,
+  "barcode": "",
+  "image": "image_1657711691231_download (43).jfif",
+  "category": "كاميرات المراقبه",
+  "createdAt": {
+    "$date": "2022-07-13T11:28:11.248Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-13T11:33:44.850Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62ceae533f06fff06d239db0"
+  },
+  "name": "كابل باور كاميرات نتايه",
+  "price": 5,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 56,
+  "barcode": "",
+  "image": "image_1657712211692_download (44).jfif",
+  "category": "كاميرات المراقبه",
+  "createdAt": {
+    "$date": "2022-07-13T11:36:51.703Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-13T11:36:51.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62ceb0a63f06fff06d239dce"
+  },
+  "name": "كابل PNC كاميرات",
+  "price": 10,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 58,
+  "barcode": "",
+  "image": "image_1657712806715_download (45).jfif",
+  "category": "كاميرات المراقبه",
+  "createdAt": {
+    "$date": "2022-07-13T11:46:46.725Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-13T11:46:46.725Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62ceb6b13f06fff06d239df4"
+  },
+  "name": "ريموت RONY STAR",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "1657714329269",
+  "image": "image_1657714706497_RONY STAR.webp",
+  "category": "ريموت كنترول",
+  "createdAt": {
+    "$date": "2022-07-13T12:12:33.992Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-31T18:03:14.282Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62ceb8803f06fff06d239e1f"
+  },
+  "name": "ريموت STAR NET",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 6,
+  "barcode": "1657715271250",
+  "image": "image_1657714816677_STAR NET.jpg",
+  "category": "ريموت كنترول",
+  "createdAt": {
+    "$date": "2022-07-13T12:20:16.690Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T20:30:04.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62ceba643f06fff06d239e38"
+  },
+  "name": "ريموت ROYAL HD",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 7,
+  "barcode": "1657715740462",
+  "image": "image_1657715815643_1657716100447743975850718657248.jpg",
+  "category": "ريموت كنترول",
+  "createdAt": {
+    "$date": "2022-07-13T12:28:20.010Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T14:50:25.929Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cec1753f06fff06d239e76"
+  },
+  "name": "ريموت  SMART mini hd",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 6,
+  "barcode": "1657717528598",
+  "image": "image_1657717163484_16577176243542521111135591909849.jpg",
+  "category": "ريموت كنترول",
+  "createdAt": {
+    "$date": "2022-07-13T12:58:29.535Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-13T21:16:39.334Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cecd5d3f06fff06d239eaf"
+  },
+  "name": "ريموت  I-MAX",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "1657720612669",
+  "image": "image_1657720946413_6ae5d1798918fc8ba92e54315507d8addca175a4.webp",
+  "category": "ريموت كنترول",
+  "createdAt": {
+    "$date": "2022-07-13T13:49:17.684Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-31T20:49:59.832Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62ced1653f06fff06d239f05"
+  },
+  "name": "ريموت  (H(2-3",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 6,
+  "barcode": "1657721568588",
+  "image": "image_1657721189682_H(2-3).jpg",
+  "category": "الكل",
+  "createdAt": {
+    "$date": "2022-07-13T14:06:29.698Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-08T18:15:54.778Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62ced2593f06fff06d239f13"
+  },
+  "name": "ريموت  TI-GE AG (Sat-Timer) تايجر ",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": 13,
+  "quantity": 6,
+  "barcode": "1657721889505",
+  "image": "image_1657721433561_images (25).jfif",
+  "category": "ريموت كنترول",
+  "createdAt": {
+    "$date": "2022-07-13T14:10:33.569Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T16:19:55.743Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62ced7e13f06fff06d239f23"
+  },
+  "name": "ريموت RedBox",
+  "price": 25,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 7,
+  "barcode": "1657722370037",
+  "image": "image_1657723011944_16577234553855452226734460700170.jpg",
+  "category": "ريموت كنترول",
+  "createdAt": {
+    "$date": "2022-07-13T14:34:09.337Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T19:39:55.809Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cedcbe3f06fff06d239f6d"
+  },
+  "name": "ريموت رسيفر Q MAX سالك",
+  "price": 25,
+  "dealerPrice": null,
+  "wholesale": 13,
+  "quantity": 6,
+  "barcode": "1657722431587",
+  "image": "image_1657725231276_IMG20220713165744.jpg",
+  "category": "ريموت كنترول",
+  "createdAt": {
+    "$date": "2022-07-13T14:54:54.115Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T19:38:38.637Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cee23d3f06fff06d239f99"
+  },
+  "name": "مفك تست مبطط ",
+  "price": 10,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 10,
+  "barcode": "1657725442823",
+  "image": "image_1657725648406_16577261115285586896843979858711.jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-13T15:18:21.466Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-16T15:11:20.760Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cf0799dce409cb3f5513a0"
+  },
+  "name": "ريموت  p-f-x7400",
+  "price": 25,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "1657735501964",
+  "image": "image_1657735065354_ريموت  p-f-x7400.jpg",
+  "category": "ريموت كنترول",
+  "createdAt": {
+    "$date": "2022-07-13T17:57:45.373Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T19:37:01.896Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cf1634dce409cb3f5514ec"
+  },
+  "name": "ريموت prifix 8000 h1",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 5,
+  "barcode": "1657739237497",
+  "image": "image_1657739236822_برفكس 8000h1.jpg",
+  "category": "ريموت كنترول",
+  "createdAt": {
+    "$date": "2022-07-13T19:00:04.559Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-13T19:07:16.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cf1831dce409cb3f551514"
+  },
+  "name": "ريموت prifix 8000 h1\t",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "1657739759317",
+  "image": "image_1657739313746_ريموت-ريسيفر-برفكس-8000.webp",
+  "category": "ريموت كنترول",
+  "createdAt": {
+    "$date": "2022-07-13T19:08:33.763Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-16T14:00:05.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cf193adce409cb3f55151f"
+  },
+  "name": "ريموت prifix TM9090",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "1657740001770",
+  "image": "image_1657739668473_31qDTrpj0zS._AC_SY580_.jpg",
+  "category": "ريموت كنترول",
+  "createdAt": {
+    "$date": "2022-07-13T19:12:58.188Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-06T11:43:00.234Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cf1d77dce409cb3f55154d"
+  },
+  "name": "ريموت 4 صف",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657741113720",
+  "image": "image_1657740663772_download (50).jfif",
+  "category": "ريموت كنترول",
+  "createdAt": {
+    "$date": "2022-07-13T19:31:03.788Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-13T11:12:20.981Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cf1e34dce409cb3f551558"
+  },
+  "name": "ريموت 3 صف",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 6,
+  "barcode": "1657741305878",
+  "image": "image_1657740852786_3 صف.jpg",
+  "category": "ريموت كنترول",
+  "createdAt": {
+    "$date": "2022-07-13T19:34:12.796Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-25T22:24:31.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cf1eccdce409cb3f551563"
+  },
+  "name": "ريموت 2 صف",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "1657741443269",
+  "image": "image_1657741004383_كامكس 77002.jpg",
+  "category": "ريموت كنترول",
+  "createdAt": {
+    "$date": "2022-07-13T19:36:44.394Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-26T11:44:59.301Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cf2370dce409cb3f551572"
+  },
+  "name": "ريموت 1 صف",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 7,
+  "barcode": "1657742542130",
+  "image": "image_1657742192133_download (51).jfif",
+  "category": "ريموت كنترول",
+  "createdAt": {
+    "$date": "2022-07-13T19:56:32.141Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T19:32:49.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cf2409dce409cb3f55157d"
+  },
+  "name": "ريموت بدون صف",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 6,
+  "barcode": "1657742662858",
+  "image": "image_1657742502749_مسح.jpg",
+  "category": "ريموت كنترول",
+  "createdAt": {
+    "$date": "2022-07-13T19:59:05.499Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-21T13:45:15.822Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cf27d9dce409cb3f551596"
+  },
+  "name": "ريموت Q-MX",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "1657743777416",
+  "image": "image_1657743321898_download (53).jfif",
+  "category": "ريموت كنترول",
+  "createdAt": {
+    "$date": "2022-07-13T20:15:21.958Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-13T20:15:21.958Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cf283fdce409cb3f5515a1"
+  },
+  "name": "ريموت QUMAX-999",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657743797983",
+  "image": "image_1657743423516_QUMAX-999.png",
+  "category": "ريموت كنترول",
+  "createdAt": {
+    "$date": "2022-07-13T20:17:03.524Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-07T11:55:24.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cf2da7dce409cb3f5515b3"
+  },
+  "name": "ريموت ستار بورت t8200",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 8,
+  "barcode": "1657745260674",
+  "image": "image_1657744807220_ستار بورت t8200.jpg",
+  "category": "ريموت كنترول",
+  "createdAt": {
+    "$date": "2022-07-13T20:40:07.231Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-13T20:46:38.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62cf3065dce409cb3f5515de"
+  },
+  "name": "ريموت  S-P 8300",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1657745919820",
+  "image": "image_1657745509818_download (54).jfif",
+  "category": "ريموت كنترول",
+  "createdAt": {
+    "$date": "2022-07-13T20:51:49.828Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-13T20:51:49.828Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d00291dce409cb3f551674"
+  },
+  "name": "كامه واحد مخرج senator",
+  "price": 50,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "1657799750387",
+  "image": "image_1657799313260_كامه واحد مخرج senator.jpg",
+  "category": "اجهزة الدش",
+  "createdAt": {
+    "$date": "2022-07-14T11:48:33.270Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-15T20:02:49.342Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d00482dce409cb3f551686"
+  },
+  "name": "كامه 2 مخرج truman",
+  "price": 80,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "6222019301518",
+  "image": "image_1657799810500_كامه 2 مخرج truman.jfif",
+  "category": "اجهزة الدش",
+  "createdAt": {
+    "$date": "2022-07-14T11:56:50.511Z"
+  },
+  "updatedAt": {
+    "$date": "2022-12-30T17:50:34.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d006f6dce409cb3f55169f"
+  },
+  "name": "كامه 4 مخرج stare one so-444",
+  "price": 140,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657800871567",
+  "image": "image_1657800438351_كامه 4 مخرج stare one so-444.jpg",
+  "category": "اجهزة الدش",
+  "createdAt": {
+    "$date": "2022-07-14T12:07:18.365Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-14T12:07:18.365Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d009b8dce409cb3f5516b1"
+  },
+  "name": "رسيفر perfect x2",
+  "price": 265,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1657801590009",
+  "image": "image_1657801144728_رسيفر perfect x2.jpeg",
+  "category": "اجهزة الدش",
+  "createdAt": {
+    "$date": "2022-07-14T12:19:04.745Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-14T12:19:04.745Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d00b37dce409cb3f5516bc"
+  },
+  "name": "رسيفر rotana a999 mini",
+  "price": 275,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657801976646",
+  "image": "image_1657801654680_16578021222236712376317785230430.jpg",
+  "category": "اجهزة الدش",
+  "createdAt": {
+    "$date": "2022-07-14T12:25:27.956Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-08T19:22:53.974Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d0118edce409cb3f55173b"
+  },
+  "name": "شريط بطارية  FOX sat 1.5V",
+  "price": 5,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 13,
+  "barcode": "6933080326767",
+  "image": "image_1657803321455_IMG20220714150149.jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-14T12:52:30.032Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-23T17:02:36.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d01439dce409cb3f551770"
+  },
+  "name": "بطارية Camelion 9V",
+  "price": 25,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 11,
+  "barcode": "873999000975",
+  "image": "image_1657804389986_IMG20220714151958.jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-14T13:03:53.394Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-14T13:13:17.287Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d014c0dce409cb3f551789"
+  },
+  "name": "بطارية ART 9V 6F22ND",
+  "price": 20,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 10,
+  "barcode": "1657803394913",
+  "image": "image_1657804430268_IMG20220714151532.jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-14T13:06:08.852Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-14T13:13:51.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d015d2dce409cb3f551794"
+  },
+  "name": "بطارية Koneka 1.5V",
+  "price": 5,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 12,
+  "barcode": "1657803791950",
+  "image": "image_1657804480393_IMG20220714151538.jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-14T13:10:42.326Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-10T20:20:30.532Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d0252fdce409cb3f551820"
+  },
+  "name": "صب gamma gt-113",
+  "price": 190,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657806985560",
+  "image": "image_1657808959689_اسبيكر-بلوتوث.jpg",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2022-07-14T14:16:15.391Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-12T16:52:44.102Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d025c3dce409cb3f55182b"
+  },
+  "name": "صب Fort FT-107",
+  "price": 225,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "1657807545066",
+  "image": "image_1657808388010_9009.webp",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2022-07-14T14:18:44.004Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-30T21:25:20.210Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d0265cdce409cb3f551848"
+  },
+  "name": "صب Fort FT-106",
+  "price": 130,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657807605339",
+  "image": "image_1657808476363_9009.webp",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2022-07-14T14:21:16.381Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-14T14:21:16.381Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d02885dce409cb3f55189a"
+  },
+  "name": "صب crash X6",
+  "price": 180,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 0,
+  "barcode": "5626201738396",
+  "image": "image_1657809029687_d-200x200.jpg",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2022-07-14T14:30:29.693Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-17T17:56:15.233Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d029dfdce409cb3f5518a5"
+  },
+  "name": "صبJBL CHARGE MINI E3",
+  "price": 150,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 0,
+  "barcode": "1657806783713",
+  "image": "image_1657809375982_61o3dlg706L._SL1200_.jpg",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2022-07-14T14:36:16.026Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-23T17:16:18.694Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d02af5dce409cb3f5518b3"
+  },
+  "name": "صب crash X8",
+  "price": 175,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 0,
+  "barcode": "6954114000583",
+  "image": "image_1657809653426_1606143634161-1-200x200.jpg",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2022-07-14T14:40:53.434Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-29T20:51:36.954Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d03035dce409cb3f5518da"
+  },
+  "name": "حامل شاشة FOX SA-K010",
+  "price": 75,
+  "dealerPrice": 35,
+  "wholesale": 25,
+  "quantity": 8,
+  "barcode": "1687871040558",
+  "image": "image_1687871577707_images.jpg",
+  "category": "اجهزة الدش",
+  "createdAt": {
+    "$date": "2022-07-14T15:03:17.391Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-02T17:32:26.462Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d030f6dce409cb3f5518e5"
+  },
+  "name": "حامل شاشة ROCK RO-M55",
+  "price": 110,
+  "dealerPrice": 55,
+  "wholesale": 35,
+  "quantity": 9,
+  "barcode": "1687871154454",
+  "image": "image_1687871679536_images (1).jpg",
+  "category": "اجهزة الدش",
+  "createdAt": {
+    "$date": "2022-07-14T15:06:30.190Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-02T18:08:59.154Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d032eddce409cb3f5518f0"
+  },
+  "name": "سلك دش20 Model",
+  "price": 60,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "1657807382580",
+  "image": "image_1657811693861_download (57).jfif",
+  "category": "اجهزة الدش",
+  "createdAt": {
+    "$date": "2022-07-14T15:14:53.872Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-20T11:41:28.967Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d03573dce409cb3f551917"
+  },
+  "name": "صب موتوسيكل zero - jbl - car",
+  "price": 250,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657806946472",
+  "image": "image_1657812538100_hqdefault.jpg",
+  "category": "اكسسوارات",
+  "createdAt": {
+    "$date": "2022-07-14T15:25:39.573Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-14T15:28:58.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d03845dce409cb3f551943"
+  },
+  "name": "صب USB اضائة الوان DS-1001",
+  "price": 100,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "8697916912767",
+  "image": "image_1657813187143_16578136390231238884987713125173.jpg",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2022-07-14T15:37:41.511Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-10T18:15:32.738Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d03942dce409cb3f551969"
+  },
+  "name": "سلك دش Model 50",
+  "price": 130,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657807336629",
+  "image": "image_1657813314364_download (57).jfif",
+  "category": "اجهزة الدش",
+  "createdAt": {
+    "$date": "2022-07-14T15:41:54.376Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-31T13:16:01.522Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d039f0dce409cb3f551982"
+  },
+  "name": "سلك دش 75متر Viewmax",
+  "price": 125,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 0,
+  "barcode": "1657807426171",
+  "image": "image_1657813488919_download (57).jfif",
+  "category": "اجهزة الدش",
+  "createdAt": {
+    "$date": "2022-07-14T15:44:48.925Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-16T14:01:15.867Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d03aaedce409cb3f551990"
+  },
+  "name": "سلك دش Marvel Model Italy 100",
+  "price": 255,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "6968200060139",
+  "image": "image_1657813678081_download (57).jfif",
+  "category": "اجهزة الدش",
+  "createdAt": {
+    "$date": "2022-07-14T15:47:58.089Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-02T14:51:16.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d03bbcdce409cb3f55199e"
+  },
+  "name": "العدل-تك تلفون الخدمة الشاقة MODEL:109C",
+  "price": 205,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "6932079301099",
+  "image": "image_1657813948778_51x0dOERKnS._AC_UL600_SR600,600_.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-07-14T15:52:28.787Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-14T15:52:28.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d03c97dce409cb3f5519a9"
+  },
+  "name": "سلك دش متر Televcs Model 30",
+  "price": 75,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1657807183397",
+  "image": "image_1657814167843_download (57).jfif",
+  "category": "اجهزة الدش",
+  "createdAt": {
+    "$date": "2022-07-14T15:56:07.850Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-14T15:56:07.850Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d03d4cdce409cb3f5519b4"
+  },
+  "name": "سلك دش Televaz Model 50",
+  "price": 100,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657807217149",
+  "image": "image_1657814348406_download (57).jfif",
+  "category": "اجهزة الدش",
+  "createdAt": {
+    "$date": "2022-07-14T15:59:08.413Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-14T15:59:08.413Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d04364dce409cb3f5519bf"
+  },
+  "name": "شاحن لاب Lenovo",
+  "price": 180,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "1657806461228",
+  "image": "image_1657815908628_ch903-2-min (1).jpg",
+  "category": "لاب توب",
+  "createdAt": {
+    "$date": "2022-07-14T16:25:08.638Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-14T16:57:11.848Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d0465edce409cb3f5519f6"
+  },
+  "name": "شاحن لاب acer",
+  "price": 280,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657806326686",
+  "image": "image_1657816670606_ch920-2-min.jpg",
+  "category": "لاب توب",
+  "createdAt": {
+    "$date": "2022-07-14T16:37:50.631Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-30T11:44:58.319Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d047dbdce409cb3f551a44"
+  },
+  "name": "شاحن لاب DELL",
+  "price": 200,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "1657806212775",
+  "image": "image_1657817051789_ch-17-9-base.jpg",
+  "category": "لاب توب",
+  "createdAt": {
+    "$date": "2022-07-14T16:44:11.828Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-02T17:21:00.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d0497cdce409cb3f551a5c"
+  },
+  "name": "شاحن لاب hP",
+  "price": 180,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "1657806390341",
+  "image": "image_1657817468228_hP.jpg",
+  "category": "لاب توب",
+  "createdAt": {
+    "$date": "2022-07-14T16:51:08.236Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-26T20:54:01.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d06846dce409cb3f551a83"
+  },
+  "name": "AKAI",
+  "price": 40,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 16,
+  "barcode": "6223006552814",
+  "image": "image_1657825350854_45C79B78-50D3-4C02-A5F7-6BD9712590DF__41376.jpg",
+  "category": "الخدمات والصيانه",
+  "createdAt": {
+    "$date": "2022-07-14T19:02:30.862Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-11T13:42:47.696Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d06acadce409cb3f551ab7"
+  },
+  "name": "اكاي حجم كبير 550 ملي -- point",
+  "price": 70,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "1657825996027",
+  "image": "image_1657826207255_download (58).jfif",
+  "category": "اكسسوارات",
+  "createdAt": {
+    "$date": "2022-07-14T19:13:14.828Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-14T19:16:47.302Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d070a4dce409cb3f551ae5"
+  },
+  "name": "باور سبلاي كاميرات Professional AC To DC 5A",
+  "price": 105,
+  "dealerPrice": 0,
+  "wholesale": 0,
+  "quantity": 1,
+  "barcode": "1657827846666",
+  "image": "image_1657827491958_HTB1oI6EFqmWBuNjy1Xa760CbXXam.png",
+  "category": "كاميرات المراقبه",
+  "createdAt": {
+    "$date": "2022-07-14T19:38:12.401Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-24T23:15:25.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d072f8dce409cb3f551b16"
+  },
+  "name": "باور سبلاي كاميرات Professional AC To DC 10A",
+  "price": 210,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1657828140494",
+  "image": "image_1657828088326_61yz3JQE1NL._AC_SL1100_.jpg",
+  "category": "كاميرات المراقبه",
+  "createdAt": {
+    "$date": "2022-07-14T19:48:08.340Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-17T13:54:32.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d075d1dce409cb3f551b57"
+  },
+  "name": "ميكروفون كاميرات",
+  "price": 80,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "1657828843504",
+  "image": "image_1657828817729_61KOq8zMGHL._AC_SL1500_.jpg",
+  "category": "كاميرات المراقبه",
+  "createdAt": {
+    "$date": "2022-07-14T20:00:17.741Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-14T20:00:17.741Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d07720dce409cb3f551b98"
+  },
+  "name": "كاميرا HIKVISION ColorVu 1080P DS-CE10DF0T-PF خارجي",
+  "price": 860,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "6941264044727",
+  "image": "image_1657829277720_camera-color-ds-2ce10df0t-pf-hikvision-1.jpg",
+  "category": "كاميرات المراقبه",
+  "createdAt": {
+    "$date": "2022-07-14T20:05:52.511Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T12:02:33.510Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d07992dce409cb3f551bd4"
+  },
+  "name": "كاميرا HiLook 1080P THC-T120-PC 2.8mm داخلي",
+  "price": 550,
+  "dealerPrice": null,
+  "wholesale": 0,
+  "quantity": 15,
+  "barcode": "6954273688400",
+  "image": "image_1657829778891_41GqGM+DsHL._AC_UL210_SR210,210_.jpg",
+  "category": "كاميرات المراقبه",
+  "createdAt": {
+    "$date": "2022-07-14T20:16:18.905Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T12:01:30.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d07ae4dce409cb3f551bfb"
+  },
+  "name": "كاميرا HiLook 1080P THC-B120-PC 3.6mm خارجي\t",
+  "price": 550,
+  "dealerPrice": 0,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "6941264013792",
+  "image": "image_1657830116516_19403541-240x180.jpeg",
+  "category": "كاميرات المراقبه",
+  "createdAt": {
+    "$date": "2022-07-14T20:21:56.527Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T12:01:52.663Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d07d56dce409cb3f551c31"
+  },
+  "name": "صب جلاكسي 4.5 بوصه زوجي",
+  "price": 455,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657831079613",
+  "image": "image_1657830782176_16578312488478021958421835721354.jpg",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2022-07-14T20:32:22.151Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-14T20:33:02.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d07de8dce409cb3f551c52"
+  },
+  "name": "صب one 4.5 بوصه زوجي h1-f1",
+  "price": 455,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657831342761",
+  "image": "image_1657831250954_16578317097616142051352885250707.jpg",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2022-07-14T20:34:48.912Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-14T20:40:51.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d07fafdce409cb3f551c85"
+  },
+  "name": "صب lava 3.5 بوصه زوجي",
+  "price": 355,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 0,
+  "barcode": "1657831680302",
+  "image": "image_1657831419152_16578318892657876967196490558213.jpg",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2022-07-14T20:42:23.145Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-05T16:31:59.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d0812edce409cb3f551cae"
+  },
+  "name": "صب ووفر crash ed-40000",
+  "price": 655,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657832147618",
+  "image": "image_1657831726656_2.jpg",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2022-07-14T20:48:46.664Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-14T20:48:46.664Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d084d0dce409cb3f551cb9"
+  },
+  "name": "صب ووفر GOLDEY BA-G303",
+  "price": 455,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1657833060675",
+  "image": "image_1657832656417_download (59).jfif",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2022-07-14T21:04:16.461Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-14T21:04:16.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d085b5dce409cb3f551cf5"
+  },
+  "name": "سماعة كمبيوتر Kisonli V360",
+  "price": 85,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "6970171740200",
+  "image": "image_1657833052963_16405.970.jpg",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2022-07-14T21:08:05.994Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-14T21:10:53.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d086e7dce409cb3f551d29"
+  },
+  "name": "سماعة كمبيوتر Kisonli V410\t",
+  "price": 75,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 0,
+  "barcode": "6970171740224",
+  "image": "image_1657833191530_Untitled-29.png",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2022-07-14T21:13:11.581Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-30T19:30:54.252Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d08a98dce409cb3f551d34"
+  },
+  "name": "مايك Pioneer P-838",
+  "price": 150,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1657833706108",
+  "image": "image_1657834136174_17433467-600x45011.jpeg",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2022-07-14T21:28:56.213Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-25T15:25:55.836Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d08b80dce409cb3f551d3f"
+  },
+  "name": "صب شحن TG-903",
+  "price": 190,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 0,
+  "barcode": "1500125632029",
+  "image": "image_1657834461077_16578349197685464282495276738983.jpg",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2022-07-14T21:32:48.607Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-13T13:18:05.671Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d08d3edce409cb3f551d69"
+  },
+  "name": "صب 6 بوص XO 1500 W",
+  "price": 550,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657834853049",
+  "image": "image_1657834855953_IMG_20220714_234602.jpg",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2022-07-14T21:40:14.620Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-14T21:40:56.899Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d08f22dce409cb3f551daa"
+  },
+  "name": "زينة رمضان من المغربي",
+  "price": 35,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657835962540",
+  "image": "image_1657835441489_16578358883426491532602375315729.jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-14T21:48:18.528Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-14T21:51:47.384Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d08f53dce409cb3f551dbc"
+  },
+  "name": "شاشة كمبيوتر hp 24 بوصة استيراد lp2475w",
+  "price": 1750,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1657835814381",
+  "image": "image_1657835347746_c01504431.gif",
+  "category": "الشاشات",
+  "createdAt": {
+    "$date": "2022-07-14T21:49:07.757Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-16T15:58:11.855Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d0910cdce409cb3f551e17"
+  },
+  "name": "شاشة كمبيوتر 22 بوصه acer led",
+  "price": 1250,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657836231613",
+  "image": "image_1657835788505_1652745868_1420196803_965734.jpg",
+  "category": "الشاشات",
+  "createdAt": {
+    "$date": "2022-07-14T21:56:28.517Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-16T15:57:13.824Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d091fedce409cb3f551e26"
+  },
+  "name": "زينة رمضان MULTI FUNCTION طول صغير",
+  "price": 45,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "1657836394315",
+  "image": "image_1657836030182_51UeOK0I2YL._AC_SY350_.jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-14T22:00:30.188Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-08T20:11:14.712Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d092cfdce409cb3f551e37"
+  },
+  "name": "زينة رمضان MULTI FUNCTION طول كبير",
+  "price": 45,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1657836545835",
+  "image": "image_1657836239273_51UeOK0I2YL._AC_SY350_.jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-14T22:03:59.521Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-14T22:03:59.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d2bd1fdce409cb3f55209d"
+  },
+  "name": "كيسة HP 6005 استيراد رامات 4 هارد 500 AMDx2 ",
+  "price": 1150,
+  "dealerPrice": 900,
+  "wholesale": 850,
+  "quantity": 1,
+  "barcode": "1657979204346",
+  "image": "image_1657978143047_22371467-240x180.jpeg",
+  "category": "كمبيوتر استيراد",
+  "createdAt": {
+    "$date": "2022-07-16T13:29:03.063Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-16T13:44:41.231Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d2c6d9dce409cb3f5520f4"
+  },
+  "name": "كيسة FUJITSU TOWER رام 4 جيجا DDR3 هارد 320 جيجا بروسيسور Core 2 Duo",
+  "price": 1150,
+  "dealerPrice": 900,
+  "wholesale": 850,
+  "quantity": 3,
+  "barcode": "1657981258403",
+  "image": "image_1657980633399_fujitsu-p7935-03-01-09.jpg",
+  "category": "كمبيوتر استيراد",
+  "createdAt": {
+    "$date": "2022-07-16T14:10:33.414Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-20T11:57:31.980Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d2cbd9dce409cb3f552111"
+  },
+  "name": "HDD Western Digital Green 500GB PC",
+  "price": 350,
+  "dealerPrice": 250,
+  "wholesale": 225,
+  "quantity": 2,
+  "barcode": "1657982424608",
+  "image": "image_1657981913409_WD5000AURX-63UY4Y0-lg.jpg",
+  "category": "هاردوير كمبيوتر",
+  "createdAt": {
+    "$date": "2022-07-16T14:31:53.422Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-19T21:46:53.121Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d2cf76dce409cb3f552168"
+  },
+  "name": "HDD Western Digital Blue 320GB PC & Segate",
+  "price": 250,
+  "dealerPrice": 150,
+  "wholesale": 125,
+  "quantity": 2,
+  "barcode": "1657982889413",
+  "image": "image_1657982861677_8c1169eb39fd8501af064f6d8701d8b98b812f16.webp",
+  "category": "هاردوير كمبيوتر",
+  "createdAt": {
+    "$date": "2022-07-16T14:47:18.167Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-19T21:47:05.732Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d2d140dce409cb3f5521a1"
+  },
+  "name": "HDD Western Digital Blue 500GB PC",
+  "price": 350,
+  "dealerPrice": 260,
+  "wholesale": 235,
+  "quantity": 0,
+  "barcode": "1657983531008",
+  "image": "image_1657983296174_8c1169eb39fd8501af064f6d8701d8b98b812f16.webp",
+  "category": "هاردوير كمبيوتر",
+  "createdAt": {
+    "$date": "2022-07-16T14:54:56.187Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-18T22:40:42.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d2d6e7dce409cb3f5521e8"
+  },
+  "name": "HDD HARD HITACHI 2TB PC",
+  "price": 850,
+  "dealerPrice": 800,
+  "wholesale": 775,
+  "quantity": 1,
+  "barcode": "1657984819087",
+  "image": "image_1657984743189_bd448db6f3781fb8e84a9bcd705775d31b9f3fc8.webp",
+  "category": "هاردوير كمبيوتر",
+  "createdAt": {
+    "$date": "2022-07-16T15:19:03.231Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-16T16:01:32.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d2d8f7dce409cb3f552213"
+  },
+  "name": "HDD Western Digital Green 2TB PC",
+  "price": 900,
+  "dealerPrice": 850,
+  "wholesale": 825,
+  "quantity": 1,
+  "barcode": "1657985437641",
+  "image": "image_1657985271287_519BOWu00hL._AC_SS450_.jpg",
+  "category": "هاردوير كمبيوتر",
+  "createdAt": {
+    "$date": "2022-07-16T15:27:51.294Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-16T16:26:34.925Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d2da46dce409cb3f55223b"
+  },
+  "name": "HDD SAMSUNG HARDDISK 500GB PC",
+  "price": 400,
+  "dealerPrice": 250,
+  "wholesale": 225,
+  "quantity": 1,
+  "barcode": "1657985972822",
+  "image": "image_1657985872293_samsung-hard-disk-500x500.jpg",
+  "category": "هاردوير كمبيوتر",
+  "createdAt": {
+    "$date": "2022-07-16T15:33:26.973Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-26T17:23:59.901Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d2dc96dce409cb3f55226d"
+  },
+  "name": "HDD HARD TOSHIBA 320GB LAPTOP",
+  "price": 300,
+  "dealerPrice": 170,
+  "wholesale": 150,
+  "quantity": 4,
+  "barcode": "1657985972822",
+  "image": "image_1657986198739_toshiba-MK3261GSYN_14698.jpg",
+  "category": "هاردوير كمبيوتر",
+  "createdAt": {
+    "$date": "2022-07-16T15:43:18.795Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-30T14:06:41.910Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d2e436dce409cb3f55234e"
+  },
+  "name": " HDD HARD HGST 500GB LAPTOP",
+  "price": 290,
+  "dealerPrice": 270,
+  "wholesale": 250,
+  "quantity": 5,
+  "barcode": "1657988288507",
+  "image": "image_1657988150332_s-l400.jpg",
+  "category": "هاردوير كمبيوتر",
+  "createdAt": {
+    "$date": "2022-07-16T16:15:50.382Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-11T22:32:41.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d3002cdce409cb3f5523aa"
+  },
+  "name": "SSD HARD PNY 120GB",
+  "price": 470,
+  "dealerPrice": 370,
+  "wholesale": 350,
+  "quantity": 5,
+  "barcode": "1657989422627",
+  "image": "image_1657995308301_download (60).jfif",
+  "category": "هاردوير كمبيوتر",
+  "createdAt": {
+    "$date": "2022-07-16T18:15:08.359Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-19T21:50:08.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d30254dce409cb3f5523b8"
+  },
+  "name": "ماوس ZERO ZR-160",
+  "price": 45,
+  "dealerPrice": 20,
+  "wholesale": 19,
+  "quantity": 22,
+  "barcode": "6654125497319",
+  "image": "image_1657995860802_36a62ef68f2008b50693ed06bf63deca501a39b8.webp",
+  "category": "الكل",
+  "createdAt": {
+    "$date": "2022-07-16T18:24:20.812Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-26T16:42:40.287Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d47a33dce409cb3f5525f8"
+  },
+  "name": "western digital Black 4TP Internal Hard Drive",
+  "price": 2150,
+  "dealerPrice": null,
+  "wholesale": 1080,
+  "quantity": 0,
+  "barcode": "1658092388993",
+  "image": "image_1658092167442_FB_IMG_1658092618914.jpg",
+  "category": "هاردوير كمبيوتر",
+  "createdAt": {
+    "$date": "2022-07-17T21:08:03.549Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-14T00:30:27.334Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d598bb19dfbf94d8f05577"
+  },
+  "name": "ماوس TWINS وايرلس 1200 DPI",
+  "price": 70,
+  "dealerPrice": 55,
+  "wholesale": 45,
+  "quantity": 1,
+  "barcode": "6978135716520",
+  "image": "image_1658165435551_download (61).jfif",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-18T17:30:35.566Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-13T15:23:48.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d6af7919dfbf94d8f055ea"
+  },
+  "name": "سماعة 2جاك AKORN  ",
+  "price": 75,
+  "dealerPrice": 65,
+  "wholesale": 60,
+  "quantity": 2,
+  "barcode": "6935309138991",
+  "image": "image_1658236793408_akorn-ok_808-60-جنية-هيدفون-.webp",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-07-19T13:19:53.431Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-19T13:21:36.130Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d6b96c19dfbf94d8f05685"
+  },
+  "name": "شريط لحام حجم صغير",
+  "price": 5,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 8,
+  "barcode": "1658239688723",
+  "image": "image_1658239340681_31Bz5U9ce1S._AC_SY355_.jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-19T14:02:20.703Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-18T22:46:03.714Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d6babd19dfbf94d8f05696"
+  },
+  "name": "شريط لحام حجم متوسط",
+  "price": 10,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 12,
+  "barcode": "1658239910488",
+  "image": "image_1658239677301_31Bz5U9ce1S._AC_SY355_.jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-19T14:07:57.310Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-15T14:29:48.712Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d6bbf319dfbf94d8f056c0"
+  },
+  "name": "شريط لحام حجم كبير",
+  "price": 15,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 18,
+  "barcode": "1658240367517",
+  "image": "image_1658239987008_31Bz5U9ce1S._AC_SY355_.jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-07-19T14:13:07.026Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-23T17:17:10.003Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62d7f30019dfbf94d8f057b6"
+  },
+  "name": "سلك كاميرات ابيض سوبر لينك 100متر",
+  "price": 500,
+  "dealerPrice": null,
+  "wholesale": 380,
+  "quantity": 2,
+  "barcode": "1658320033108",
+  "image": "image_1658319616912_download (62).jfif",
+  "category": "الاسلاك",
+  "createdAt": {
+    "$date": "2022-07-20T12:20:16.926Z"
+  },
+  "updatedAt": {
+    "$date": "2022-07-20T12:20:16.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62fe33b7b1cd6318caa689f0"
+  },
+  "name": "كابل باور محمل الوان",
+  "price": 45,
+  "dealerPrice": 20,
+  "wholesale": 18,
+  "quantity": 11,
+  "barcode": "1660826521911",
+  "image": "image_1660826893709_1660827438369666374662370083104.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-08-18T12:42:31.946Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-11T18:33:26.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62fe4038b1cd6318caa68a57"
+  },
+  "name": "سبيكر جولدن كينج G08",
+  "price": 55,
+  "dealerPrice": 50,
+  "wholesale": 35,
+  "quantity": 7,
+  "barcode": "3685459522456",
+  "image": "image_1660829752305_0K1A5293.jpg",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2022-08-18T13:35:52.326Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-01T13:31:08.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62fe42afb1cd6318caa68a65"
+  },
+  "name": "سبيكر جولدن كينج G005 ابل ستايل",
+  "price": 100,
+  "dealerPrice": 80,
+  "wholesale": 50,
+  "quantity": 5,
+  "barcode": "3685459522692",
+  "image": "image_1660830383393_g-system-g-005-3328-2500-1516467173.jpeg",
+  "category": "الكل",
+  "createdAt": {
+    "$date": "2022-08-18T13:46:23.411Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-26T19:35:23.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62fe4a40b1cd6318caa68a95"
+  },
+  "name": "سبيكر لاب جولدن كينج G06",
+  "price": 105,
+  "dealerPrice": 80,
+  "wholesale": 70,
+  "quantity": 2,
+  "barcode": "6685459522613",
+  "image": "image_1660832320714_17.jpg",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2022-08-18T14:18:40.731Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-08T12:34:35.787Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62fe4f4eb1cd6318caa68aae"
+  },
+  "name": "سبيكر لاب جولدن كينج G05",
+  "price": 95,
+  "dealerPrice": 75,
+  "wholesale": 70,
+  "quantity": 3,
+  "barcode": "6685459522590",
+  "image": "image_1660833614346_download (63).jfif",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2022-08-18T14:40:14.368Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-11T18:45:55.118Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62fe6769b1cd6318caa68b26"
+  },
+  "name": "هيدفون بلوتوث بيتس p47",
+  "price": 130,
+  "dealerPrice": 100,
+  "wholesale": 95,
+  "quantity": 1,
+  "barcode": "6954774711478",
+  "image": "image_1660841673761_download (64).jfif",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-08-18T16:23:05.838Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-27T16:08:21.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62fe8e5db1cd6318caa68bee"
+  },
+  "name": "ماوس جولدن كينج وايرلس G04",
+  "price": 80,
+  "dealerPrice": 60,
+  "wholesale": 50,
+  "quantity": 5,
+  "barcode": "1660849069817",
+  "image": "image_1660849875445_16608504197638654362342518974354.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-08-18T19:09:17.333Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-18T19:11:15.881Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62fea563b1cd6318caa68c41"
+  },
+  "name": "ادابتور 5 فولت 2 امبير جودة عالية",
+  "price": 65,
+  "dealerPrice": 40,
+  "wholesale": 26,
+  "quantity": 3,
+  "barcode": "1660855758966",
+  "image": "image_1660855651952_orange-pi-power-supply-adapter-220v-ac-to-dc-5v-3a-charger-power-for-led-strip-switches-audio-video-1000x1000.webp",
+  "category": "اجهزة النت والشبكات",
+  "createdAt": {
+    "$date": "2022-08-18T20:47:31.974Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-14T14:29:21.030Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62fea5d3b1cd6318caa68c4f"
+  },
+  "name": "ادابتور 12 فولت 1 امبير جودة عالية",
+  "price": 40,
+  "dealerPrice": 35,
+  "wholesale": 25,
+  "quantity": 6,
+  "barcode": "1660856205890",
+  "image": "image_1660855763637_orange-pi-power-supply-adapter-220v-ac-to-dc-5v-3a-charger-power-for-led-strip-switches-audio-video-1000x1000.webp",
+  "category": "اجهزة النت والشبكات",
+  "createdAt": {
+    "$date": "2022-08-18T20:49:23.654Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-31T14:12:47.896Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62fea87ab1cd6318caa68c65"
+  },
+  "name": "ادابتور 12 فولت 1 امبير جودة عالية من TP-TECH",
+  "price": 45,
+  "dealerPrice": 35,
+  "wholesale": 25,
+  "quantity": 9,
+  "barcode": "1660856988572",
+  "image": "image_1660856495579_16608570311365587950261108029701.jpg",
+  "category": "اجهزة النت والشبكات",
+  "createdAt": {
+    "$date": "2022-08-18T21:00:42.423Z"
+  },
+  "updatedAt": {
+    "$date": "2023-01-13T11:45:17.975Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62feac93b1cd6318caa68cbf"
+  },
+  "name": "سماعة رأس ستيريو رياضية معدنية بلوتوث لاسلكية مقاومة للعرق ستيريو مغناطيسية للموبايل",
+  "price": 80,
+  "dealerPrice": 55,
+  "wholesale": 40,
+  "quantity": 0,
+  "barcode": "1660857398905",
+  "image": "image_1660857491481_wireless-bluetooth-earphone-1000x1000.webp",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-08-18T21:18:11.500Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-10T13:36:01.342Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62feb170b1cd6318caa68ce4"
+  },
+  "name": "هيدفون X1Pro",
+  "price": 155,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "6921168803484",
+  "image": "image_1660858736728_4ea38a2ba48dbadfb5c94a4c448f72a5.jfif",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-08-18T21:38:56.753Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-18T21:38:56.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62ffa581b1cd6318caa68d39"
+  },
+  "name": "هاند فري YISON",
+  "price": 35,
+  "dealerPrice": 20,
+  "wholesale": 15,
+  "quantity": 1,
+  "barcode": "6925146923324",
+  "image": "image_1660921372119_61RtKDcCJGS.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-08-19T15:00:17.127Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-24T18:23:19.880Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62ffa7c7b1cd6318caa68d5b"
+  },
+  "name": "هيدفون اي تك عالي ايو اكس للهاتف",
+  "price": 90,
+  "dealerPrice": 70,
+  "wholesale": 60,
+  "quantity": 4,
+  "barcode": "11024946301000000799",
+  "image": "image_1660921927038_16609224664917913955647762706421.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-08-19T15:09:59.169Z"
+  },
+  "updatedAt": {
+    "$date": "2022-08-19T15:12:07.516Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "62ffacb4b1cd6318caa68d98"
+  },
+  "name": "كابل شحن سريع داتا USB من X-SCOOT",
+  "price": 25,
+  "dealerPrice": 17,
+  "wholesale": 12,
+  "quantity": 6,
+  "barcode": "1660923895003",
+  "image": "image_1660923060066_716DPgUSQXL._AC_SL1500_.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-08-19T15:31:00.082Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-03T12:21:35.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6330d728d4290815875a6a2b"
+  },
+  "name": "هيدفون On-Ear Kopfhorer",
+  "price": 110,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1664137661288",
+  "image": "image_1664146286605_IMG_٢٠٢٢٠٩٢٥_٢٢٤٧٢٣.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-09-25T22:33:12.209Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-01T17:35:50.717Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6331b594d4290815875a6ac2"
+  },
+  "name": "ادابتور 9 فولت 1 امبير",
+  "price": 60,
+  "dealerPrice": 45,
+  "wholesale": 25,
+  "quantity": 4,
+  "barcode": "1664194770468",
+  "image": "image_1664203031960_IMG_20220926_143308.jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-09-26T14:22:12.567Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T12:39:34.025Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6331e0f0d4290815875a6b3f"
+  },
+  "name": "ادبتور سخان 3 فولت 2 امبير paraccess",
+  "price": 60,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 3,
+  "barcode": "1664198968661",
+  "image": "image_1664213232849_b258438eca37115bce31964e6290bf44af91caaf.webp",
+  "category": "اجهزة النت والشبكات",
+  "createdAt": {
+    "$date": "2022-09-26T17:27:12.866Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T20:24:52.914Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6336008dd4290815875a6c4e"
+  },
+  "name": "شاحن ريلمي تايب سي",
+  "price": 90,
+  "dealerPrice": 75,
+  "wholesale": 65,
+  "quantity": 0,
+  "barcode": "1664474110844",
+  "image": "image_1664483469003_1648727578.شاحن ريلمي اصلي 45 وات مع منفذ شحن تايب سي متوافق مع اجهزه اندرويد-1.webp",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-09-29T20:31:09.028Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T14:23:38.681Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "633601d0d4290815875a6c5f"
+  },
+  "name": "راديو جولون am -fm",
+  "price": 195,
+  "dealerPrice": 170,
+  "wholesale": 160,
+  "quantity": 1,
+  "barcode": "1664474316378",
+  "image": "image_1664484707253_golgoen.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-09-29T20:36:32.961Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-24T14:02:00.268Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63361023d4290815875a6cb1"
+  },
+  "name": "هاند فري اوبو هاي كوبي - كيس",
+  "price": 30,
+  "dealerPrice": 25,
+  "wholesale": 20,
+  "quantity": 22,
+  "barcode": "1664479686017",
+  "image": "image_1664487459836_28111066-240x180.jpeg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-09-29T21:37:39.846Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T18:37:55.405Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63362452d4290815875a6d11"
+  },
+  "name": "جيم باد تربو زوجي الوان USB",
+  "price": 220,
+  "dealerPrice": 200,
+  "wholesale": 190,
+  "quantity": 0,
+  "barcode": "1664484699073",
+  "image": "image_1664492761036_61BDvlAu2vL._AC_UL600_SR600,600_.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-09-29T23:03:46.651Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-04T22:08:56.239Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63362719d4290815875a6d2e"
+  },
+  "name": "وصلة اوديو فيديو PS2",
+  "price": 30,
+  "dealerPrice": 25,
+  "wholesale": 20,
+  "quantity": 4,
+  "barcode": "1664485903093",
+  "image": "image_1664493337054_unnamed1-1ffe94f62257fa5c5f16206529412415-480-0.jpg",
+  "category": "اكسسوارات البلايستيشن",
+  "createdAt": {
+    "$date": "2022-09-29T23:15:37.069Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-22T17:09:47.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "633709a0d4290815875a6d75"
+  },
+  "name": "مشترك فالكون نحاس 2متر 6عيون",
+  "price": 90,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 5,
+  "barcode": "9780201379624",
+  "image": "image_1664551424158_IMG_٢٠٢٢٠٩٣٠_١٥١٨٤٧.png",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-09-30T15:22:08.150Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-30T15:23:44.232Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63370c78d4290815875a6dbb"
+  },
+  "name": "هاند فري JY-107",
+  "price": 35,
+  "dealerPrice": 30,
+  "wholesale": 20,
+  "quantity": 2,
+  "barcode": "6965468450276",
+  "image": "image_1664552088965_16645444584576614610149947109368-removebg-preview (1).png",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-09-30T15:34:16.204Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-22T18:14:58.365Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6337283ca8ff15d91055b9ed"
+  },
+  "name": "قاعدة تبريد للابتوب LAVA ST-122",
+  "price": 150,
+  "dealerPrice": 140,
+  "wholesale": 120,
+  "quantity": 2,
+  "barcode": "6223008550818",
+  "image": "image_1664559164264_1656189900_41WPkh9FEzL._AC_.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-09-30T17:32:44.322Z"
+  },
+  "updatedAt": {
+    "$date": "2022-09-30T17:32:44.322Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63389c38a8ff15d91055bad0"
+  },
+  "name": "شاحن اوبو تايب سي 65 وات",
+  "price": 90,
+  "dealerPrice": 80,
+  "wholesale": 75,
+  "quantity": 1,
+  "barcode": "1664646322605",
+  "image": "image_1664654392116_3115kzgm5vS._AC_SY780_.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2022-10-01T19:59:52.147Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-29T17:35:20.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6339d6f41090aab913492c9e"
+  },
+  "name": "هيدفون جيمينج موديل GM1000",
+  "price": 190,
+  "dealerPrice": 185,
+  "wholesale": 170,
+  "quantity": 2,
+  "barcode": "6921268803485",
+  "image": "image_1664734964669_Headphone-Gaming-GM1000-e1639684868295.png",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-10-02T18:22:44.714Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-29T14:43:10.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "633dc12ac39a90e090a9c721"
+  },
+  "name": "استوانه DVD",
+  "price": 10,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 50,
+  "barcode": "",
+  "image": "image_1675789839003_storage-compact_disk_mobile.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-10-05T17:38:50.943Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-07T17:10:39.040Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "633dc155c39a90e090a9c72c"
+  },
+  "name": "اسطوانه CD",
+  "price": 8,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 49,
+  "barcode": "",
+  "image": "image_1675789811997_storage-compact_disk_mobile.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-10-05T17:39:33.138Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-17T10:44:32.493Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "634593f3ca3a7cc08387e38b"
+  },
+  "name": "Optical Mouse 30Wired",
+  "price": 65,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "6955727730256",
+  "image": "image_1665519378153_PhotoRoom-٢٠٢٢١٠١١_١٩٠٦٢٢.png",
+  "category": "اكسسوارات",
+  "createdAt": {
+    "$date": "2022-10-11T16:04:03.868Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T16:29:26.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6345c933ca3a7cc08387e3da"
+  },
+  "name": "مشترك 4 عين نحاس محمل 328",
+  "price": 90,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1665507443953",
+  "image": "image_1665519439251_PhotoRoom-٢٠٢٢١٠١١_١٩٠٢٥٦.png",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-10-11T19:51:15.760Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-30T22:06:27.186Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6345d04fca3a7cc08387e44f"
+  },
+  "name": "مشترك 5 عين نحاس محمل 216",
+  "price": 110,
+  "dealerPrice": 0,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1665505206374",
+  "image": "No Data",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2022-10-11T20:21:35.588Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-30T22:01:08.380Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63483b7555d31e7e0733e0a2"
+  },
+  "name": "فانة لاب lava - st 120",
+  "price": 250,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "201230433654.5",
+  "image": "image_1665678238394_9563733-600x450.jpeg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2022-10-13T16:23:17.373Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-19T20:06:18.379Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63e284b45d8c38536f1eba3c"
+  },
+  "name": "عدسة 9 ستارز 2 مخرج",
+  "price": 80,
+  "dealerPrice": 75,
+  "wholesale": 65,
+  "quantity": 1,
+  "barcode": "1675789839420",
+  "image": "image_1675789573563_16757902403912003790852054539769.jpg",
+  "category": "اجهزة الدش",
+  "createdAt": {
+    "$date": "2023-02-07T17:04:52.162Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-26T14:27:32.353Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "641725473d1cad1681a0a7fb"
+  },
+  "name": "فلاشة kingstone 16GB",
+  "price": 100,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1679234822902",
+  "image": "image_1679238471345_4264cc66e6a853460c6fbd2bc9a3a52fcfc2267d.webp",
+  "category": "ميموري & فلاشات",
+  "createdAt": {
+    "$date": "2023-03-19T15:07:51.388Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-22T16:14:31.283Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6417352a3d1cad1681a0a81e"
+  },
+  "name": "فلاشة kingstone 32GB",
+  "price": 135,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "1679242928366",
+  "image": "image_1679243145088_13d23424e10522cbd0606aaaa6db067a9eb5837d.webp",
+  "category": "ميموري & فلاشات",
+  "createdAt": {
+    "$date": "2023-03-19T16:15:38.010Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T14:02:58.189Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "641738243d1cad1681a0a840"
+  },
+  "name": "فلاشة kingstone 64GB",
+  "price": 150,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 5,
+  "barcode": "1679243803726",
+  "image": "image_1679243392551_كينغستون-داتاترافيلير-DTSE9H-يو-اس-بي-32-جيجا-ذاكرة-فلاش-فضي.jpg",
+  "category": "ميموري & فلاشات",
+  "createdAt": {
+    "$date": "2023-03-19T16:28:20.237Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-19T16:29:52.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64173b473d1cad1681a0a883"
+  },
+  "name": "مشترك فالكون 5 عين و 2 فيشة ثلاثية",
+  "price": 40,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 11,
+  "barcode": "1657030946477",
+  "image": "image_1679244199560_16792449284327507855095886852273.jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2023-03-19T16:41:43.208Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-14T20:10:51.635Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "641742953d1cad1681a0a8e2"
+  },
+  "name": "كيبورد مالتي ميديا من smile",
+  "price": 150,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 15,
+  "barcode": "1679246400216",
+  "image": "image_1679246015284_16792467597822236106790246865404.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-03-19T17:12:53.517Z"
+  },
+  "updatedAt": {
+    "$date": "2023-03-19T17:13:36.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "641747033d1cad1681a0a90d"
+  },
+  "name": "ماوس جيمينج FX-2",
+  "price": 120,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "710859227038",
+  "image": "image_1679247107174_51LkjCaU3-L._AC_UF894,1000_QL80_.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-03-19T17:31:47.211Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-19T19:24:43.979Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "641876873d1cad1681a0a922"
+  },
+  "name": "ماوس وايرلس GAMMA",
+  "price": 105,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "6925681456301",
+  "image": "image_1679324807087_download.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-03-20T15:06:47.126Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-17T18:16:24.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "646fb88708b56095ad69dbf1"
+  },
+  "name": "مشترك متعدد 3 عيون عالي الجودة 2 متر من Rakoti ",
+  "price": 110,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1685042761781",
+  "image": "image_1685043528182_IMG_20230525_223738_edit_945303474590650.jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2023-05-25T19:35:35.366Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-25T19:38:48.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647f928a2974f7d05dfed305"
+  },
+  "name": "ادابتور 12 فولت 2 امبير جودة عالية",
+  "price": 65,
+  "dealerPrice": 55,
+  "wholesale": 35,
+  "quantity": 9,
+  "barcode": "1686081776193",
+  "image": "image_1686082415321_PhotoRoom-٢٠٢٣٠٦٠٦_٢٣١١٤٣.png",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2023-06-06T20:09:46.166Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-26T16:43:46.211Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647f96a02974f7d05dfed39a"
+  },
+  "name": "ريسيفر جوسات وكي ماكس X2 بلس",
+  "price": 360,
+  "dealerPrice": 335,
+  "wholesale": 305,
+  "quantity": 1,
+  "barcode": "1686082682825",
+  "image": "image_1686083464882_PhotoRoom-٢٠٢٣٠٦٠٦_٢٣٣٠٥٦.png",
+  "category": "اجهزة الدش",
+  "createdAt": {
+    "$date": "2023-06-06T20:27:12.468Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-16T14:21:23.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647f98f42974f7d05dfed3e2"
+  },
+  "name": "ريسيفر شارب ستار h5 - sharp star h5",
+  "price": 380,
+  "dealerPrice": 370,
+  "wholesale": 325,
+  "quantity": 3,
+  "barcode": "1686083388403",
+  "image": "image_1686084236007_PhotoRoom-٢٠٢٣٠٦٠٦_٢٣٤٣٤٤.png",
+  "category": "اجهزة الدش",
+  "createdAt": {
+    "$date": "2023-06-06T20:37:08.593Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-06T20:43:56.317Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647f9c182974f7d05dfed446"
+  },
+  "name": "ريموت LM",
+  "price": 20,
+  "dealerPrice": 15,
+  "wholesale": 13,
+  "quantity": 1,
+  "barcode": "1686084141327",
+  "image": "image_1686084632443_image.png",
+  "category": "ريموت كنترول",
+  "createdAt": {
+    "$date": "2023-06-06T20:50:32.574Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-17T15:55:23.250Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6484d79fea2ac689c6a39f28"
+  },
+  "name": "ماوس جيمينج براند ms-7",
+  "price": 125,
+  "dealerPrice": 115,
+  "wholesale": 90,
+  "quantity": 2,
+  "barcode": "8669884730155",
+  "image": "image_1686427551428_51V-IV7+z5L._AC_SL1000_.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-06-10T20:05:51.486Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-11T14:06:05.884Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6485aa66ea2ac689c6a39f6f"
+  },
+  "name": "فلاشة kingstone 64GB معدن",
+  "price": 165,
+  "dealerPrice": 140,
+  "wholesale": 100,
+  "quantity": 5,
+  "barcode": "1686480180767",
+  "image": "image_1686481510338_41jXvkgO-2L._SL500_._AC_SL500_.jpg",
+  "category": "ميموري & فلاشات",
+  "createdAt": {
+    "$date": "2023-06-11T11:05:10.353Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T18:37:37.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6485abffea2ac689c6a39f9b"
+  },
+  "name": "فلاشة kingstone 128GB معدن",
+  "price": 255,
+  "dealerPrice": 233,
+  "wholesale": 193,
+  "quantity": 2,
+  "barcode": "1686480325911",
+  "image": "image_1686481919598_71x-gfr-1uL.jpg",
+  "category": "ميموري & فلاشات",
+  "createdAt": {
+    "$date": "2023-06-11T11:11:59.641Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-04T20:08:25.471Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6485c8e0ea2ac689c6a39fd2"
+  },
+  "name": "otg remax type c",
+  "price": 20,
+  "dealerPrice": 15,
+  "wholesale": 6,
+  "quantity": 20,
+  "barcode": "6954851253839",
+  "image": "image_1686489312273_1.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2023-06-11T13:15:12.291Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-11T13:15:12.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6485c9baea2ac689c6a39fdd"
+  },
+  "name": "otg remax type c",
+  "price": 20,
+  "dealerPrice": 15,
+  "wholesale": 6,
+  "quantity": 20,
+  "barcode": "6954851253839",
+  "image": "image_1686489530868_1.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2023-06-11T13:18:50.883Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-11T13:18:50.883Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6485c9edea2ac689c6a39fe8"
+  },
+  "name": "otg remax type c",
+  "price": 25,
+  "dealerPrice": 17,
+  "wholesale": 9,
+  "quantity": 9,
+  "barcode": "6966884625422",
+  "image": "image_1686489702615_PhotoRoom-٢٠٢٣٠٦١١_١٦٢٠٤٤.png",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2023-06-11T13:19:41.581Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-26T14:15:31.366Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6485cbebea2ac689c6a3a031"
+  },
+  "name": "ريدر هاي كوالتي",
+  "price": 20,
+  "dealerPrice": 16,
+  "wholesale": 8,
+  "quantity": 10,
+  "barcode": "1686489584397",
+  "image": "image_1686490248975_PhotoRoom-٢٠٢٣٠٦١١_١٦٣٠١٧.png",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-06-11T13:28:11.078Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-11T13:30:49.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6485cd2cea2ac689c6a3a069"
+  },
+  "name": "akai زيت",
+  "price": 40,
+  "dealerPrice": 34,
+  "wholesale": 26,
+  "quantity": 5,
+  "barcode": "6223006552807",
+  "image": "image_1686490412163_9a3447b37915fd1153da809e034cd774884b4f7d.webp",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-06-11T13:33:32.176Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-11T13:33:32.176Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6485cf0bea2ac689c6a3a080"
+  },
+  "name": "اكاي wi-90",
+  "price": 35,
+  "dealerPrice": 30,
+  "wholesale": 25,
+  "quantity": 21,
+  "barcode": "6224000035785",
+  "image": "image_1686491546106_PhotoRoom-٢٠٢٣٠٦١١_١٦٥٢٢٤.png",
+  "category": "الكل",
+  "createdAt": {
+    "$date": "2023-06-11T13:41:31.944Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-11T13:52:26.294Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6485d058ea2ac689c6a3a09e"
+  },
+  "name": "ماوس جولدن كينج MG5",
+  "price": 65,
+  "dealerPrice": 40,
+  "wholesale": 37,
+  "quantity": 2,
+  "barcode": "6922020915185",
+  "image": "image_1686491263217_PhotoRoom-٢٠٢٣٠٦١١_١٦٤٧٠١.png",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-06-11T13:47:04.797Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-15T16:12:40.287Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6485d281ea2ac689c6a3a0dd"
+  },
+  "name": "منظف فوم من XO حجم كبير",
+  "price": 75,
+  "dealerPrice": 66,
+  "wholesale": 55,
+  "quantity": 10,
+  "barcode": "1686490933404",
+  "image": "image_1686491804732_PhotoRoom-٢٠٢٣٠٦١١_١٦٥٤١٦.png",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-06-11T13:56:17.170Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-27T23:50:37.442Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6485d652ea2ac689c6a3a126"
+  },
+  "name": "هيدفون بلوتوث JBL P39 عالي الجودة",
+  "price": 225,
+  "dealerPrice": 215,
+  "wholesale": 150,
+  "quantity": 1,
+  "barcode": "6954774700397",
+  "image": "image_1686492754569_p39bLACK-550x550-h.jpg",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2023-06-11T14:12:34.609Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-26T20:09:24.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6485da49ea2ac689c6a3a138"
+  },
+  "name": "ماوس وايرلس زيرو ZR-1000",
+  "price": 110,
+  "dealerPrice": 85,
+  "wholesale": 75,
+  "quantity": 5,
+  "barcode": "6223011410246",
+  "image": "image_1686493990141_PhotoRoom-٢٠٢٣٠٦١١_١٧٣٢١٩ (1).png",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-06-11T14:29:29.324Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T21:28:39.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6485e307ea2ac689c6a3a182"
+  },
+  "name": "ماوسt-100 usb من B-Touch",
+  "price": 35,
+  "dealerPrice": 27,
+  "wholesale": 23,
+  "quantity": 20,
+  "barcode": "1686495557074",
+  "image": "image_1686496116807_PhotoRoom-٢٠٢٣٠٦١١_١٨٠٨١١.png",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-06-11T15:06:47.624Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-11T15:08:37.098Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6485e6e9ea2ac689c6a3a1af"
+  },
+  "name": "كارت وايفاي من D-LINK",
+  "price": 145,
+  "dealerPrice": 135,
+  "wholesale": 95,
+  "quantity": 3,
+  "barcode": "1686496685746",
+  "image": "image_1686497093424_PhotoRoom-٢٠٢٣٠٦١١_١٨٢٤٤٣.png",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-06-11T15:23:21.605Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-08T18:32:40.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6485f6d1ea2ac689c6a3a1e0"
+  },
+  "name": "كونفرتر من سماعة الكمبيوتر ال سماعة التيليفون",
+  "price": 25,
+  "dealerPrice": 17,
+  "wholesale": 11,
+  "quantity": 15,
+  "barcode": "1686500664446",
+  "image": "image_1686501326756_PhotoRoom-٢٠٢٣٠٦١١_١٩٢٨٥٣.png",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-06-11T16:31:13.941Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-28T21:03:59.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648614f827bb264463edc342"
+  },
+  "name": "شاحن دولفين ميكرو 1",
+  "price": 40,
+  "dealerPrice": 35,
+  "wholesale": 30,
+  "quantity": 5,
+  "barcode": "8434352101016",
+  "image": "No Data",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2023-06-11T18:39:52.282Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-11T18:39:52.282Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64862f1527bb264463edc369"
+  },
+  "name": "هيدفون جيمينج MISDE A65",
+  "price": 275,
+  "dealerPrice": 180,
+  "wholesale": 150,
+  "quantity": 1,
+  "barcode": "1686513928841",
+  "image": "image_1686515477889_U91cd255245144dedbfee40d1d3c600e5P.webp",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-06-11T20:31:17.988Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T22:07:39.560Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6486307d27bb264463edc380"
+  },
+  "name": "هيدفون كراش X60",
+  "price": 115,
+  "dealerPrice": 100,
+  "wholesale": 85,
+  "quantity": 2,
+  "barcode": "1686515238031",
+  "image": "image_1686515837780_134629914_113035214004076_8348830261249959387_n.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-06-11T20:37:17.831Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-20T11:11:40.296Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648634dc27bb264463edc397"
+  },
+  "name": "HDMI TO 2 HDMI",
+  "price": 60,
+  "dealerPrice": 50,
+  "wholesale": 29,
+  "quantity": 5,
+  "barcode": "1686516409518",
+  "image": "image_1686516956521_518du7aNmwL._AC_SL1500_.jpg",
+  "category": "اجهزة الدش",
+  "createdAt": {
+    "$date": "2023-06-11T20:55:56.568Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-11T22:08:03.742Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6486e38027bb264463edc3e7"
+  },
+  "name": "مشترك كهربائي كراش(M300) 1.5M",
+  "price": 115,
+  "dealerPrice": 96,
+  "wholesale": 75,
+  "quantity": 5,
+  "barcode": "1686560730753",
+  "image": "image_1686561664620_350112695_823142095323525_295424664564214737_n.jpg",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2023-06-12T09:21:04.657Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-12T09:21:04.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6486e79027bb264463edc3f8"
+  },
+  "name": "مشترك اليقين 8 عين احمال 1.5M",
+  "price": 150,
+  "dealerPrice": 105,
+  "wholesale": 80,
+  "quantity": 5,
+  "barcode": "1686561455078",
+  "image": "image_1686563060946_PhotoRoom-٢٠٢٣٠٦١٢_١٢٣٦٢٢.png",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2023-06-12T09:38:24.289Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-30T21:49:05.790Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6486e9c827bb264463edc445"
+  },
+  "name": "مشترك اليقين 6 عين احمال 5 M",
+  "price": 145,
+  "dealerPrice": 136,
+  "wholesale": 95,
+  "quantity": 5,
+  "barcode": "1686561381310",
+  "image": "image_1686563474166_PhotoRoom-٢٠٢٣٠٦١٢_١٢٤٩٤٥.png",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2023-06-12T09:47:52.844Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-12T09:51:14.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64874cb527bb264463edc4a4"
+  },
+  "name": "اسبيكر بلوتوث G112",
+  "price": 175,
+  "dealerPrice": 139,
+  "wholesale": 88,
+  "quantity": 1,
+  "barcode": "1686586735877",
+  "image": "image_1686588597269_images (1).jfif",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2023-06-12T16:49:57.284Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T14:24:32.755Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6488721827bb264463edc54f"
+  },
+  "name": "سبيكر hotmai مضئ",
+  "price": 130,
+  "dealerPrice": 115,
+  "wholesale": 110,
+  "quantity": 1,
+  "barcode": "1686586529159",
+  "image": "image_1686663854681_91MG2vHpYML._AC_UF350,350_QL80_.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-06-13T13:41:44.493Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:44:14.697Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64887f9027bb264463edc59e"
+  },
+  "name": "سبيكر كوباية ميني",
+  "price": 75,
+  "dealerPrice": 65,
+  "wholesale": 50,
+  "quantity": 2,
+  "barcode": "1686586560942",
+  "image": "image_1686667308270_e5cf26c8-20fd-42c9-a565-851616f1a401.avif",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2023-06-13T14:39:12.617Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T14:41:48.335Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648b100127bb264463edc66d"
+  },
+  "name": "معجون حراري (كولر)",
+  "price": 2,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 50,
+  "barcode": "",
+  "image": "image_1686835201005_المعجون-الحراري2.jpg",
+  "category": "هاردوير كمبيوتر",
+  "createdAt": {
+    "$date": "2023-06-15T13:20:01.017Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-15T13:20:01.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f9e2a5c1a36d300076860f"
+  },
+  "name": "DVR HILOOK 4 Port",
+  "price": 1550,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "300225924",
+  "image": "image_1703073202375_1603698231s-l1600.jpg",
+  "category": "كاميرات المراقبه",
+  "createdAt": {
+    "$date": "2023-09-07T14:48:05.749Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T11:53:22.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65046b57214dba824ac0a20f"
+  },
+  "name": "حجر ريموت SUPER",
+  "price": 10,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 33,
+  "barcode": "6930311220788",
+  "image": "image_1696251762177_PhotoRoom-٢٠٢٣١٠٠٢_١٦٠٢٠٠.png",
+  "category": "الكل",
+  "createdAt": {
+    "$date": "2023-09-15T14:33:59.722Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-05T17:46:40.240Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65046b6a214dba824ac0a217"
+  },
+  "name": "حجر ريموتECOMAXXI",
+  "price": 10,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 85,
+  "barcode": "6936285941520",
+  "image": "image_1696251711173_PhotoRoom-٢٠٢٣١٠٠٢_١٦٠٣٠٥.png",
+  "category": "الكل",
+  "createdAt": {
+    "$date": "2023-09-15T14:34:18.588Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T19:32:49.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6505a9bf157932f8feb15e8c"
+  },
+  "name": "كابل بور ثنائي",
+  "price": 25,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 0,
+  "barcode": "",
+  "image": "No Data",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-09-16T13:12:31.074Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-16T13:12:42.115Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65130c0e57075c844b435b27"
+  },
+  "name": "باور صبلاي 10 امبير tech",
+  "price": 250,
+  "dealerPrice": 195,
+  "wholesale": 180,
+  "quantity": 7,
+  "barcode": "1695744244618",
+  "image": "No Data",
+  "category": "كاميرات المراقبه",
+  "createdAt": {
+    "$date": "2023-09-26T16:51:26.702Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T14:34:46.688Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65143f1457075c844b435b4d"
+  },
+  "name": "ادبتور 12 فولت 1 امبير ",
+  "price": 55,
+  "dealerPrice": 40,
+  "wholesale": 38,
+  "quantity": 11,
+  "barcode": "1695744432816",
+  "image": "No Data",
+  "category": "كاميرات المراقبه",
+  "createdAt": {
+    "$date": "2023-09-27T14:41:24.139Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T22:07:39.568Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651450c757075c844b435b89"
+  },
+  "name": "شاحن ريلمي ميكرو فوك x50 pro",
+  "price": 95,
+  "dealerPrice": 80,
+  "wholesale": 75,
+  "quantity": 3,
+  "barcode": "1695760567029",
+  "image": "No Data",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2023-09-27T15:56:55.681Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-27T15:57:33.486Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6514564e57075c844b435baa"
+  },
+  "name": "راكة هارد لاب ويسترن ديجيتال usb 3",
+  "price": 185,
+  "dealerPrice": 165,
+  "wholesale": 155,
+  "quantity": 2,
+  "barcode": "         1695830998202",
+  "image": "No Data",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-09-27T16:20:30.166Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-27T16:20:30.166Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6514572e57075c844b435bc1"
+  },
+  "name": "راكة هارد لاب ويسترن ديجيتال usb 3",
+  "price": 185,
+  "dealerPrice": 165,
+  "wholesale": 155,
+  "quantity": 2,
+  "barcode": "1695830998202",
+  "image": "No Data",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-09-27T16:24:14.976Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-27T16:24:14.976Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651457e257075c844b435be0"
+  },
+  "name": "راكة هارد لاب ويسترن ديجيتال usb 2",
+  "price": 145,
+  "dealerPrice": 125,
+  "wholesale": 115,
+  "quantity": 1,
+  "barcode": "1695825981571",
+  "image": "No Data",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-09-27T16:27:14.980Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-30T19:53:40.967Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65145c0957075c844b435bfb"
+  },
+  "name": "راكة هارد لاب ويسترن ديجيتال usb 3 اصلي",
+  "price": 200,
+  "dealerPrice": 175,
+  "wholesale": 160,
+  "quantity": 3,
+  "barcode": "1695828809132",
+  "image": "No Data",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-09-27T16:44:57.446Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-27T16:44:57.446Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6515848057075c844b435c38"
+  },
+  "name": "سبيكر لاب توب ميني e-1044z",
+  "price": 85,
+  "dealerPrice": 65,
+  "wholesale": 60,
+  "quantity": 8,
+  "barcode": "1695833102497",
+  "image": "No Data",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-09-28T13:49:52.042Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-18T22:07:39.571Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65158dfe57075c844b435c5d"
+  },
+  "name": "راديو جولون تايجر ",
+  "price": 255,
+  "dealerPrice": 220,
+  "wholesale": 210,
+  "quantity": 5,
+  "barcode": "1695828675734",
+  "image": "No Data",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2023-09-28T14:30:22.827Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-28T14:30:22.827Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65158e5f57075c844b435c70"
+  },
+  "name": "هيدفون بلوتوث p9",
+  "price": 245,
+  "dealerPrice": 180,
+  "wholesale": 160,
+  "quantity": 3,
+  "barcode": "6989532512530",
+  "image": "No Data",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2023-09-28T14:31:59.507Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T17:07:30.843Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6515994157075c844b435cab"
+  },
+  "name": "هيدفون EXTRA BASS ZR-800",
+  "price": 85,
+  "dealerPrice": 70,
+  "wholesale": 65,
+  "quantity": 1,
+  "barcode": "P92448818Q",
+  "image": "No Data",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-09-28T15:18:25.910Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-28T15:18:25.910Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6515996d57075c844b435cce"
+  },
+  "name": "هيدفون EXTRA BASS ZR-800",
+  "price": 85,
+  "dealerPrice": 70,
+  "wholesale": 65,
+  "quantity": 0,
+  "barcode": "4905524987553",
+  "image": "No Data",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-09-28T15:19:09.569Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-04T22:07:43.707Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6515cf0457075c844b435ce5"
+  },
+  "name": "ماوس جيمنج كراش x50-x60-x70",
+  "price": 150,
+  "dealerPrice": 125,
+  "wholesale": 120,
+  "quantity": 6,
+  "barcode": "1695927706401",
+  "image": "No Data",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-09-28T19:07:48.769Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-28T19:07:48.769Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6515d1b557075c844b435cf8"
+  },
+  "name": "كابل فيجا 10 متر -هاي كوالتي",
+  "price": 150,
+  "dealerPrice": 125,
+  "wholesale": 115,
+  "quantity": 4,
+  "barcode": "1695928753241",
+  "image": "No Data",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-09-28T19:19:17.839Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-14T22:08:41.429Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6515d5ed57075c844b435d18"
+  },
+  "name": "كابل فيجا متر ونص لافا",
+  "price": 40,
+  "dealerPrice": 25,
+  "wholesale": 20,
+  "quantity": 9,
+  "barcode": "1695929689769",
+  "image": "No Data",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-09-28T19:37:17.914Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T18:40:05.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6515dead57075c844b435d2b"
+  },
+  "name": "بادة ماوس ثعبان L11 ,و wolf",
+  "price": 30,
+  "dealerPrice": 25,
+  "wholesale": 20,
+  "quantity": 20,
+  "barcode": "1695930446290",
+  "image": "No Data",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-09-28T20:14:37.608Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-31T18:20:02.789Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6515ec9357075c844b435d55"
+  },
+  "name": "كابل باور شاحن لاب توب رصاصي محمل",
+  "price": 40,
+  "dealerPrice": 30,
+  "wholesale": 25,
+  "quantity": 10,
+  "barcode": "1695935585793",
+  "image": "No Data",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-09-28T21:13:55.311Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-28T21:13:55.311Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651712fac1060543c953234c"
+  },
+  "name": "كابل فيدفي تايب سي وداتا 2.4 امبير",
+  "price": 45,
+  "dealerPrice": 35,
+  "wholesale": 30,
+  "quantity": 5,
+  "barcode": "6974280913418",
+  "image": "No Data",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2023-09-29T18:10:02.429Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-29T18:10:02.429Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6517151bc1060543c95323a9"
+  },
+  "name": "كابل شاحن فيدفي ميكرو",
+  "price": 40,
+  "dealerPrice": 30,
+  "wholesale": 25,
+  "quantity": 1,
+  "barcode": "6972169858393",
+  "image": "No Data",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2023-09-29T18:19:07.091Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-03T18:39:19.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65171677c1060543c95323bc"
+  },
+  "name": "كابل شاحن دولفين ميكرو",
+  "price": 25,
+  "dealerPrice": 20,
+  "wholesale": 15,
+  "quantity": 7,
+  "barcode": "8434350103005",
+  "image": "No Data",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2023-09-29T18:24:55.352Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-24T18:23:19.919Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65171aaec1060543c95323db"
+  },
+  "name": "مشترك فالكون 6 عين ومفتاح فصل ",
+  "price": 50,
+  "dealerPrice": 35,
+  "wholesale": 30,
+  "quantity": 5,
+  "barcode": "1696012545952",
+  "image": "No Data",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-09-29T18:42:54.365Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-21T21:07:10.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6518358b650987e3f27df73c"
+  },
+  "name": "حامل لاب توب معدن ممتاز",
+  "price": 170,
+  "dealerPrice": 150,
+  "wholesale": 145,
+  "quantity": 3,
+  "barcode": "1696085295734",
+  "image": "No Data",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-09-30T14:49:47.805Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-30T14:49:47.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6518470c650987e3f27df75c"
+  },
+  "name": "كابل تحويل من دسبلاي بورت الي فيجا",
+  "price": 150,
+  "dealerPrice": 130,
+  "wholesale": 120,
+  "quantity": 5,
+  "barcode": "  1696089513110",
+  "image": "No Data",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-09-30T16:04:28.674Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-30T16:04:28.674Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65184778650987e3f27df770"
+  },
+  "name": "كابل تحويل من دسبلاي بورت الي فيجا",
+  "price": 150,
+  "dealerPrice": 130,
+  "wholesale": 120,
+  "quantity": 5,
+  "barcode": "1696089513110",
+  "image": "No Data",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-09-30T16:06:16.124Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-30T16:06:16.124Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65624d9dd59eda560f0b6ab3"
+  },
+  "name": "باور صبلاي كاميرات 10 امبير  professional",
+  "price": 250,
+  "dealerPrice": 225,
+  "wholesale": 200,
+  "quantity": 0,
+  "barcode": "1695744085019",
+  "image": "No Data",
+  "category": "كاميرات المراقبه",
+  "createdAt": {
+    "$date": "2023-11-25T19:40:13.331Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T14:35:44.300Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581ab5c7bbd6b3450584147"
+  },
+  "name": "باور صبلاي كاميرات 15 امبير Lava",
+  "price": 300,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "1702996169457",
+  "image": "No Data",
+  "category": "كاميرات المراقبه",
+  "createdAt": {
+    "$date": "2023-12-19T14:40:28.274Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-19T14:40:41.700Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6582d8da7bbd6b34505842aa"
+  },
+  "name": "كاميرا HIK VISION turbo HD",
+  "price": 550,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "",
+  "image": "image_1703074010328_download.jpg",
+  "category": "كاميرات المراقبه",
+  "createdAt": {
+    "$date": "2023-12-20T12:06:50.339Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T12:06:50.339Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6582d8eb7bbd6b34505842b5"
+  },
+  "name": "كاميرا HIK VISION turbo HD",
+  "price": 550,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 4,
+  "barcode": "6941264012214",
+  "image": "image_1703074027218_download.jpg",
+  "category": "كاميرات المراقبه",
+  "createdAt": {
+    "$date": "2023-12-20T12:07:07.223Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T12:07:39.768Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6582d9ea7bbd6b34505842e4"
+  },
+  "name": "كاميرا HIK VISION turbo HD",
+  "price": 550,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "6931847130503",
+  "image": "image_1703074282182_download.jpg",
+  "category": "كاميرات المراقبه",
+  "createdAt": {
+    "$date": "2023-12-20T12:11:22.192Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-20T12:11:51.468Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659091d2a72b51aae09cc748"
+  },
+  "name": "مشترك كهربائي ANDERSON ",
+  "price": 140,
+  "dealerPrice": 110,
+  "wholesale": null,
+  "quantity": 2,
+  "barcode": "1703973057609",
+  "image": "image_1703973590383_PhotoRoom-٢٠٢٣١٢٣٠_٢٣٥٧٣١.png",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2023-12-30T21:55:30.957Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-21T21:58:44.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659093cea72b51aae09cc78b"
+  },
+  "name": "مشترك لافا اسود 4 عين",
+  "price": 45,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 5,
+  "barcode": "1703973764000",
+  "image": "No Data",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2023-12-30T22:03:58.897Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-30T22:03:58.897Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65909656a72b51aae09cc7be"
+  },
+  "name": "ماوس Fujitsu استيراد خارج",
+  "price": 55,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 10,
+  "barcode": "1703974427274",
+  "image": "No Data",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2023-12-30T22:14:46.364Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-30T22:14:46.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6591ade7a72b51aae09cc800"
+  },
+  "name": "باد ماوس ثعبان و wolf كبير",
+  "price": 40,
+  "dealerPrice": null,
+  "wholesale": 19,
+  "quantity": 15,
+  "barcode": "1704045801710",
+  "image": "image_1704046201354_6154noc+nKL._AC_UF894,1000_QL80_.jpg",
+  "category": "الكل",
+  "createdAt": {
+    "$date": "2023-12-31T18:07:35.555Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-31T18:10:01.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6591c6d9a72b51aae09cc887"
+  },
+  "name": "مشترك كراش 4 عين ثلاثي محمل ",
+  "price": 115,
+  "dealerPrice": 105,
+  "wholesale": 76,
+  "quantity": 3,
+  "barcode": "1704052215063",
+  "image": "image_1704052626375_PhotoRoom-٢٠٢٣١٢٣١_٢١٥٦٢١.png",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2023-12-31T19:54:01.734Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-31T19:57:07.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6591c81aa72b51aae09cc8a8"
+  },
+  "name": "شاحن 5 فولت 1 أمبير سوكت تخين",
+  "price": 55,
+  "dealerPrice": 55,
+  "wholesale": 35,
+  "quantity": 8,
+  "barcode": "1704052473437",
+  "image": "No Data",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2023-12-31T19:59:22.355Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-24T18:23:19.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6591ca92a72b51aae09cc8b3"
+  },
+  "name": "بور صبلاي كاميرات 20 امبير  ب فان ",
+  "price": 335,
+  "dealerPrice": 305,
+  "wholesale": 230,
+  "quantity": 2,
+  "barcode": "1704053105408",
+  "image": "No Data",
+  "category": "كاميرات المراقبه",
+  "createdAt": {
+    "$date": "2023-12-31T20:09:54.670Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-31T20:09:54.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6591d088a72b51aae09cc8be"
+  },
+  "name": "كابل كاميرات 100 متر ابيض copper , soper linke",
+  "price": 750,
+  "dealerPrice": 700,
+  "wholesale": 500,
+  "quantity": 3,
+  "barcode": "1704054077290",
+  "image": "No Data",
+  "category": "كاميرات المراقبه",
+  "createdAt": {
+    "$date": "2023-12-31T20:35:20.850Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-31T20:35:20.850Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6591d473a72b51aae09cc8d6"
+  },
+  "name": "تيستير نت ورك  RJ45 AND RJ11",
+  "price": 100,
+  "dealerPrice": 90,
+  "wholesale": 70,
+  "quantity": 4,
+  "barcode": "1704055234568",
+  "image": "image_1704055923131_image_1024.jpg",
+  "category": "اجهزة النت والشبكات",
+  "createdAt": {
+    "$date": "2023-12-31T20:52:03.163Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-31T20:52:03.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6591d74aa72b51aae09cc8e8"
+  },
+  "name": "شاحن لاب وشاشات سامسونج 14V3A",
+  "price": 250,
+  "dealerPrice": 230,
+  "wholesale": 165,
+  "quantity": 0,
+  "barcode": "1704056703431",
+  "image": "image_1704056650783_HTB1O9P0QpXXXXayaXXXq6xXFXXX5.jpg_640x640Q90.jpg_.webp",
+  "category": "لاب توب",
+  "createdAt": {
+    "$date": "2023-12-31T21:04:10.821Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T14:31:43.153Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6592c4eca72b51aae09cc95c"
+  },
+  "name": "هاند فري بلوتوث ريلمي m5",
+  "price": 100,
+  "dealerPrice": 90,
+  "wholesale": 47,
+  "quantity": 9,
+  "barcode": "1704053047784",
+  "image": "image_1704117484828_138b53c997f0f42f297acbfc976ca24bf662f46d.webp",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2024-01-01T13:58:04.841Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-24T18:23:19.881Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6592cd9ca72b51aae09cc994"
+  },
+  "name": "كابل تطويلة usb متر ونصف",
+  "price": 30,
+  "dealerPrice": 20,
+  "wholesale": 19,
+  "quantity": 3,
+  "barcode": "1704116597113",
+  "image": "No Data",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2024-01-01T14:35:08.493Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T14:35:08.493Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6593330ea72b51aae09cca0b"
+  },
+  "name": "كابل تايب سي 5 امبير msee فاست",
+  "price": 30,
+  "dealerPrice": 25,
+  "wholesale": 20,
+  "quantity": 5,
+  "barcode": "6971238741062",
+  "image": "No Data",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2024-01-01T21:47:58.915Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T21:47:58.915Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65933c2ba72b51aae09cca4a"
+  },
+  "name": "شاحن اوبو فوك تايب سي ",
+  "price": 100,
+  "dealerPrice": 75,
+  "wholesale": 70,
+  "quantity": 5,
+  "barcode": "1704146715488",
+  "image": "No Data",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2024-01-01T22:26:51.212Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-01T22:26:51.212Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65941f5fa72b51aae09cca68"
+  },
+  "name": "هيدفون ديزني بلوتوث الوان p47m",
+  "price": 195,
+  "dealerPrice": 150,
+  "wholesale": 145,
+  "quantity": 3,
+  "barcode": "6842356465584",
+  "image": "No Data",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2024-01-02T14:36:15.591Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T17:07:18.789Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65942430a72b51aae09cca7b"
+  },
+  "name": "ايربود ابل برو 2 جلد امريكي بدون ضمان",
+  "price": 450,
+  "dealerPrice": 390,
+  "wholesale": 380,
+  "quantity": 0,
+  "barcode": "194253397168",
+  "image": "No Data",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2024-01-02T14:56:48.138Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-08T18:37:18.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6594422ea72b51aae09ccaf7"
+  },
+  "name": "سبيكر KDY-311 (USB-bluetooth- راديو)",
+  "price": 155,
+  "dealerPrice": 140,
+  "wholesale": 99,
+  "quantity": 3,
+  "barcode": "1704214438840",
+  "image": "image_1704215086887_69957193-800x600.jpeg",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2024-01-02T17:04:46.910Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-02T17:04:46.910Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6594545fa72b51aae09ccb4f"
+  },
+  "name": "هاند فري سوكيت تايب سي OPORI R01",
+  "price": 75,
+  "dealerPrice": 60,
+  "wholesale": 50,
+  "quantity": 0,
+  "barcode": "6972416700376",
+  "image": "No Data",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2024-01-02T18:22:23.488Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-07T14:09:14.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65945a4ba72b51aae09ccb5a"
+  },
+  "name": "هاند فري BLUE D 43",
+  "price": 50,
+  "dealerPrice": 40,
+  "wholesale": 35,
+  "quantity": 5,
+  "barcode": "8641313245423",
+  "image": "No Data",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2024-01-02T18:47:39.862Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-02T18:47:39.862Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65945feba72b51aae09ccb73"
+  },
+  "name": "اير فون فوكس HF 001",
+  "price": 45,
+  "dealerPrice": 40,
+  "wholesale": 35,
+  "quantity": 5,
+  "barcode": "4412736520176",
+  "image": "No Data",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2024-01-02T19:11:39.938Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-02T19:11:39.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65946f30a72b51aae09ccbbb"
+  },
+  "name": "كيبورد gaming fx-2000",
+  "price": 200,
+  "dealerPrice": 185,
+  "wholesale": 150,
+  "quantity": 2,
+  "barcode": "6922951500122",
+  "image": "No Data",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2024-01-02T20:16:48.926Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-02T20:46:07.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65947683a72b51aae09ccbf6"
+  },
+  "name": "كيبورد goldenking gaming kw-900",
+  "price": 260,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "6818770048955",
+  "image": "No Data",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2024-01-02T20:48:03.767Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-02T20:48:03.767Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65947c98a72b51aae09ccc50"
+  },
+  "name": "سبيكر لاب حجم كبير k2036",
+  "price": 195,
+  "dealerPrice": 175,
+  "wholesale": 165,
+  "quantity": 4,
+  "barcode": "6971651150083",
+  "image": "No Data",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2024-01-02T21:14:00.369Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-02T21:14:00.369Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659480daa72b51aae09ccc77"
+  },
+  "name": "سبيكر لاب مستطيل x6",
+  "price": 250,
+  "dealerPrice": 225,
+  "wholesale": 160,
+  "quantity": 5,
+  "barcode": "6976194358521",
+  "image": "No Data",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2024-01-02T21:32:10.988Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-02T21:32:10.988Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65948901a72b51aae09ccc95"
+  },
+  "name": "صب شحن بلوتوث jnuobi",
+  "price": 450,
+  "dealerPrice": 400,
+  "wholesale": 360,
+  "quantity": 2,
+  "barcode": "1704233036172",
+  "image": "No Data",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2024-01-02T22:06:57.973Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-02T22:06:57.973Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659489ffa72b51aae09ccca8"
+  },
+  "name": "صب شحن بلوتوث مضيئ bot an-4112",
+  "price": 350,
+  "dealerPrice": 250,
+  "wholesale": 220,
+  "quantity": 2,
+  "barcode": "1704233435135",
+  "image": "No Data",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2024-01-02T22:11:11.287Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-02T22:11:11.287Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65948c46a72b51aae09cccc4"
+  },
+  "name": "سبيكر كراش x13led",
+  "price": 175,
+  "dealerPrice": 160,
+  "wholesale": 130,
+  "quantity": 2,
+  "barcode": "1704234035698",
+  "image": "No Data",
+  "category": "الصبات والاسبيكرات",
+  "createdAt": {
+    "$date": "2024-01-02T22:20:54.486Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-02T22:20:54.486Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65948e72a72b51aae09cccd9"
+  },
+  "name": "شاحن type-c دولفين sc36",
+  "price": 50,
+  "dealerPrice": 40,
+  "wholesale": 35,
+  "quantity": 5,
+  "barcode": "6973558961434",
+  "image": "No Data",
+  "category": "اكسسوارات الموبايل",
+  "createdAt": {
+    "$date": "2024-01-02T22:30:10.879Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-03T21:25:52.301Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6595c57ba72b51aae09cce3b"
+  },
+  "name": "AMER EL-TAHAWY",
+  "price": 5,
+  "dealerPrice": 5,
+  "wholesale": 5,
+  "quantity": 5,
+  "barcode": "6210542301204",
+  "image": "No Data",
+  "category": "الكل",
+  "createdAt": {
+    "$date": "2024-01-03T20:37:15.276Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-04T11:34:15.053Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6595e588a72b51aae09ccee7"
+  },
+  "name": "حامل شاشة متحرك fox",
+  "price": 200,
+  "dealerPrice": 190,
+  "wholesale": 125,
+  "quantity": 3,
+  "barcode": "1704320306758",
+  "image": "image_1704322440946_تنزيل.jpg",
+  "category": "اجهزة الدش",
+  "createdAt": {
+    "$date": "2024-01-03T22:54:00.960Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-03T22:55:30.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659be92510033272710fc1e6"
+  },
+  "name": "أمير سوبر جلو ",
+  "price": 5,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 10,
+  "barcode": "6958226050023",
+  "image": "No Data",
+  "category": "الخدمات والصيانه",
+  "createdAt": {
+    "$date": "2024-01-08T12:23:01.792Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-08T12:23:01.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a02893043f50d8557e786b"
+  },
+  "name": "كارت لان نت ورك usb",
+  "price": 110,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 1,
+  "barcode": "1704994926058",
+  "image": "image_1704996383254_61rHdkKmEXL._AC_UF894,1000_QL80_.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2024-01-11T17:42:43.961Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-11T18:06:23.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a0290c043f50d8557e78a3"
+  },
+  "name": "كيبورد usb اورجينال\t",
+  "price": 90,
+  "dealerPrice": null,
+  "wholesale": {
+    "$numberLong": "1704994864002"
+  },
+  "quantity": 20,
+  "barcode": "1704994864002",
+  "image": "image_1704996540101_thumb-816x460-v1_files_uqw18xvt7i353-EG_listings360__1_.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2024-01-11T17:44:44.759Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-11T18:09:00.108Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a03d73043f50d8557e7a14"
+  },
+  "name": "ادبتور 12 فولت 2 امبير\t",
+  "price": 65,
+  "dealerPrice": null,
+  "wholesale": null,
+  "quantity": 9,
+  "barcode": "",
+  "image": "No Data",
+  "category": "الكهرباء",
+  "createdAt": {
+    "$date": "2024-01-11T19:11:47.558Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-11T19:12:15.289Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b2a88dae7470af43f772b0"
+  },
+  "name": "كابل فيجا TP-LINK 1.5M",
+  "price": 60,
+  "dealerPrice": 55,
+  "wholesale": null,
+  "quantity": 8,
+  "barcode": "1706206841639",
+  "image": "image_1706207373315_51uc1vgNiMS._AC_UF894,1000_QL80_.jpg",
+  "category": "اكسسوارات الكمبيوتر ",
+  "createdAt": {
+    "$date": "2024-01-25T18:29:33.334Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-25T18:29:33.334Z"
+  },
+  "__v": 0
+}]
