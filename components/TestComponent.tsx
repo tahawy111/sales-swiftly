@@ -18,7 +18,7 @@ export default function TestComponent({}: TestComponentProps) {
 
   return (
     <div>
-      <Button onClick={onClick}>Send Request</Button>
+      <Button variant={"infoOutline"} onClick={onClick}>Send Request</Button>
     </div>
   );
 }

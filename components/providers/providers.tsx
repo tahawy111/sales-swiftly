@@ -4,7 +4,7 @@ import { SessionProvider } from "next-auth/react";
 import { Toaster } from "react-hot-toast";
 
 import { ThemeProvider } from "@/components/providers/theme-provider";
-// import ModalProvider from "@/components/providers/modal-provider";
+import ModalProvider from "@/components/providers/modal-provider";
 // import { SocketProvider } from "@/components/providers/socket-provider";
 // import QueryProvider from "@/components/providers/query-provider";
 
@@ -20,7 +20,7 @@ function Providers({ children }: { children: React.ReactNode }) {
           storageKey="discord-theme"
         >
           {/* <SocketProvider> */}
-            {/* <ModalProvider /> */}
+            <ModalProvider />
             {/* <QueryProvider> */}
               {children}
               {/* </QueryProvider> */}

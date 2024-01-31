@@ -25,7 +25,7 @@ export default function LoginForm({}: AuthFormProps) {
         }
 
         if (callback?.ok) {
-          router.push("/");
+          router.push("/dashboard");
         }
       })
       .finally(() => setIsLoading(false));
@@ -51,7 +51,7 @@ export default function LoginForm({}: AuthFormProps) {
           toast.error("Invalid Credentials");
         }
         if (callback?.ok) {
-          router.push("/");
+          router.push("/dashboard");
         }
       })
       .finally(() => setIsLoading(false));

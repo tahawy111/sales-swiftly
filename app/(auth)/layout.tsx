@@ -5,7 +5,7 @@ async function AuthLayout({ children }: { children: React.ReactNode }) {
   const session = await getServerSession();
 
   if (session && session.user) {
-    redirect("/");
+    redirect("/dashboard");
   }
 
   return (
