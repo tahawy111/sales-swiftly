@@ -1,45 +1,56 @@
 "use client";
-
-import { cn } from "@/lib/utils";
-import ActionTooltip from "../action-tooltip";
-import { useParams, useRouter } from "next/navigation";
-import Image from "next/image";
+import { ChevronDown, Settings } from "lucide-react";
+import { useState } from "react";
 
 interface NavigationItemProps {
-  id: string;
-  imageUrl: string;
-  name: string;
+  item: any;
 }
 
-const NavigationItem = ({ id, imageUrl, name }: NavigationItemProps) => {
-  const params = useParams();
-  const router = useRouter();
-  const onClick = () => {
-    router.push(`/servers/${id}`);
-  };
-  return (
-    <ActionTooltip side="right" align="center" label={name}>
-      <div onClick={onClick} className="group relative flex items-center">
+const NavigationItem = ({ item }: NavigationItemProps) => {
+  const [open, setOpen] = useState(false);
+  if (item.children) {
+    return (
+      <div
+        className={`sidebar-item px-3 py-4 block text-xl hover:bg-[rgba(255,255,255,0.1)] transition-colors duration-150 rounded-md`}
+      >
+        <div className={`sidebar-title flex justify-between items-center`}>
+          <span className={`flex justify-between`}>
+            {item.icon && <Settings />}
+            <span>{item.title}</span>
+          </span>
+          <ChevronDown
+            onClick={() => setOpen((prev) => !prev)}
+            className={`fa-solid fa-angle-down mt-2 cursor-pointer transition-transform duration-100 ${
+              open ? `rotate-180` : ``
+            }`}
+          />
+        </div>
         <div
-          className={cn(
-            "absolute left-0 bg-primary rounded-r-full transition-all w-[4px]",
-            params?.serverId !== id && "group-hover:h-[20px]",
-            params?.serverId === id ? "h-[36px]" : "h-[8px]"
-          )}
-        />
-
-        <div
-          className={cn(
-            "relative group flex mx-3 h-[48px] w-[48px] rounded-[24px] group-hover:rounded-[16px] transition-all overflow-hidden",
-            params?.serverId === id &&
-              "bg-primary/10 text-primary rounded-[16px]"
-          )}
+          className={`sidebar-content pt-1 h-0 overflow-hidden transition-transform duration-300 ${
+            open ? `h-auto` : ``
+          }`}
         >
-          <Image fill src={imageUrl} alt="Channel" />
+          {item.children.map((item: any, index: number) => (
+            <NavigationItem item={item} key={index} />
+          ))}
         </div>
       </div>
-    </ActionTooltip>
-  );
+    );
+  } else {
+    return (
+      <a
+        href={item.path || ""}
+        className={`sidebar-item px-3 py-4 block text-xl hover:bg-[rgba(255,255,255,0.1)] transition-colors duration-150 rounded-md hover:underline`}
+      >
+        <div className={`sidebar-title flex justify-between items-center`}>
+          <span className={``}>
+            {item.icon && <i className={` ${item.icon} inline-block w-8`}></i>}
+            {item.title}
+          </span>
+        </div>
+      </a>
+    );
+  }
 };
 
 export default NavigationItem;

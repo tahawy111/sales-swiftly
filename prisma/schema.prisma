@@ -43,7 +43,7 @@ model User {
   image          String
   createdAt      DateTime         @default(now())
   updatedAt      DateTime         @updatedAt
-  role           MemberRole       @default(MODERATOR)
+  role           MemberRole       @default(ADMIN)
   account        Account[]
   session        Session[]
   Product        Product[]

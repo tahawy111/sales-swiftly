@@ -45,6 +45,8 @@ export default function SignupForm({}: AuthFormProps) {
   });
 
   const onSubmit: SubmitHandler<FieldValues> = (data) => {
+    console.log(data);
+    
     setIsLoading(true);
     // Register
 
