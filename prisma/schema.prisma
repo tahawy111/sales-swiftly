@@ -32,22 +32,44 @@ model Account {
 enum MemberRole {
   ADMIN
   MODERATOR
-  GUEST
 }
 
 model User {
-  id             String     @id @default(uuid())
+  id             String           @id @default(uuid())
   name           String
-  email          String     @unique
+  email          String           @unique
   emailVerified  DateTime?
   hashedPassword String?
   image          String
-  createdAt      DateTime   @default(now())
-  updatedAt      DateTime   @updatedAt
-  role           MemberRole @default(GUEST)
+  createdAt      DateTime         @default(now())
+  updatedAt      DateTime         @updatedAt
+  role           MemberRole       @default(MODERATOR)
   account        Account[]
   session        Session[]
   Product        Product[]
+  accountDetails AccountDetails[]
+}
+
+model AccountDetails {
+  id                      String  @id @default(uuid())
+  firstName               String
+  lastName                String
+  phoneNumber             String
+  landlineTelephoneNumber String?
+  country                 String
+  currency                String
+  TimeZone                String
+  address1                String
+  address2                String?
+  city                    String
+  govOrRegion             String?
+  postalCode              Int?
+  displayLang             String?
+  commercialRecord        String?
+  taxCard                 String?
+  logo                    String?
+  userId                  String
+  user                    User    @relation(fields: [userId], references: [id], onDelete: Cascade)
 }
 
 model Session {
