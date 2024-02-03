@@ -32,6 +32,7 @@ model Account {
 enum MemberRole {
   ADMIN
   MODERATOR
+  GUEST
 }
 
 model User {

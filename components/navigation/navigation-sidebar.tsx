@@ -6,54 +6,62 @@ import { Separator } from "@/components/ui/separator";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { ModeToggle } from "@/components/mode-toggle";
 
-import NavigationAction from "@/components/navigation/navigation-action";
 import NavigationItem from "@/components/navigation/navigation-item";
 import UserButton from "@/components/user-button";
 import LogoutButton from "../logout-button";
 import { useState } from "react";
+import {
+  Bug,
+  FileQuestion,
+  Home,
+  Info,
+  List,
+  Phone,
+  Settings,
+  User,
+} from "lucide-react";
+import { Icons } from "../Icons";
+import Link from "next/link";
 export default function NavigationSidebar() {
   const sidebar = [
     {
-      title: "General",
-      icon: "fa-solid fa-gear",
+      title: "Inventory",
+      Icon: Icons.Inventory,
       children: [
         {
-          title: "Home",
-          icon: "fa-solid fa-house",
-          path: "/",
+          title: "Products",
+          Icon: Icons.Products,
+          path: "/dashboard/products",
         },
         {
           title: "About",
-          icon: "fa-solid fa-circle-info",
+          Icon: Info,
           path: "/about",
         },
         {
           title: "Contact",
-          icon: "fa-solid fa-phone",
+          Icon: Phone,
           children: [
             {
               title: "Facebook",
-              icon: "fa-brands fa-facebook",
             },
             {
               title: "Twitter",
-              icon: "fa-brands fa-twitter",
             },
             {
               title: "Instagram",
-              icon: "fa-brands fa-instagram",
             },
           ],
         },
         {
           title: "FAQ",
-          icon: "fa-solid fa-question",
+          Icon: FileQuestion,
         },
       ],
     },
     {
       title: "Account",
-      icon: "fa-solid fa-circle-info",
+      Icon: Info,
       children: [
         {
           title: "Login",
@@ -75,7 +83,7 @@ export default function NavigationSidebar() {
     },
     {
       title: "Profile",
-      icon: "fa-solid fa-circle-user",
+      Icon: User,
       children: [
         {
           title: "Profile",
@@ -115,7 +123,7 @@ export default function NavigationSidebar() {
     },
     {
       title: "Advance",
-      icon: "fa-solid fa-list",
+      Icon: List,
       children: [
         {
           title: "Search",
@@ -129,12 +137,12 @@ export default function NavigationSidebar() {
     },
     {
       title: "Support",
-      icon: "fa-solid fa-question",
+      Icon: FileQuestion,
       path: "/support",
     },
     {
       title: "Report Bug",
-      icon: "fa-solid fa-bug",
+      Icon: Bug,
       path: "/report-bug",
     },
   ];
@@ -143,10 +151,10 @@ export default function NavigationSidebar() {
 
   return (
     <div className="space-y-4 flex flex-col items-center h-full text-primary w-full dark:bg-[#1e1f22] bg-[#e3e5e8] py-3">
+      <div className="text-3xl font-semibold text-center my-3 flex justify-evenly items-center text-neutral-700/80 dark:text-neutral-100">
+        <Link href={`/dashboard`}>Sales-Swiftly</Link>
+      </div>
       <ScrollArea className="flex-1 w-full">
-        <div className="text-3xl font-bold text-center my-3 flex justify-evenly items-center">
-          Sidebar
-        </div>
         <hr />
         {sidebar.map((item: any, index: number) => (
           <NavigationItem key={index} item={item} />

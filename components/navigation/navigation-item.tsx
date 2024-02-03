@@ -1,5 +1,6 @@
 "use client";
 import { ChevronDown, Settings } from "lucide-react";
+import Link from "next/link";
 import { useState } from "react";
 
 interface NavigationItemProps {
@@ -11,11 +12,11 @@ const NavigationItem = ({ item }: NavigationItemProps) => {
   if (item.children) {
     return (
       <div
-        className={`sidebar-item px-3 py-4 block text-xl hover:bg-[rgba(255,255,255,0.1)] transition-colors duration-150 rounded-md`}
+        className={`sidebar-item px-3 py-4 block text-xl hover:bg-neutral-400/30 dark:hover:bg-[rgba(255,255,255,0.1)] transition-colors duration-150 rounded-md`}
       >
         <div className={`sidebar-title flex justify-between items-center`}>
-          <span className={`flex justify-between`}>
-            {item.icon && <Settings />}
+          <span className={`flex justify-between gap-x-3 items-center`}>
+            {item.Icon && <item.Icon />}
             <span>{item.title}</span>
           </span>
           <ChevronDown
@@ -38,17 +39,17 @@ const NavigationItem = ({ item }: NavigationItemProps) => {
     );
   } else {
     return (
-      <a
+      <Link
         href={item.path || ""}
-        className={`sidebar-item px-3 py-4 block text-xl hover:bg-[rgba(255,255,255,0.1)] transition-colors duration-150 rounded-md hover:underline`}
+        className={`sidebar-item px-3 py-4 block text-xl hover:bg-neutral-400/30 dark:hover:bg-[rgba(255,255,255,0.1)] transition-colors duration-150 rounded-md hover:underline`}
       >
         <div className={`sidebar-title flex justify-between items-center`}>
-          <span className={``}>
-            {item.icon && <i className={` ${item.icon} inline-block w-8`}></i>}
-            {item.title}
+          <span className={`flex justify-between gap-x-3 items-center`}>
+            {item.Icon && <item.Icon />}
+            <span>{item.title}</span>
           </span>
         </div>
-      </a>
+      </Link>
     );
   }
 };
