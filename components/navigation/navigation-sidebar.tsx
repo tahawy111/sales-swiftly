@@ -16,6 +16,7 @@ import {
   Home,
   Info,
   List,
+  Package,
   Phone,
   Settings,
   User,
@@ -26,7 +27,7 @@ export default function NavigationSidebar() {
   const sidebar = [
     {
       title: "Inventory",
-      Icon: Icons.Inventory,
+      Icon: Package,
       children: [
         {
           title: "Products",
