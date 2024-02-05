@@ -23,6 +23,8 @@ const buttonVariants = cva(
         success: "bg-[#198754] text-white hover:bg-[#157347] focus-visible:outline-[#157347]",
         warning: "bg-[#ffc107] text-white hover:bg-[#ffca2c] focus-visible:outline-[#ffca2c]",
         info: "bg-[#0dcaf0] text-white hover:bg-[#31d2f2] focus-visible:outline-[#31d2f2]",
+        silver: "bg-[#6c757d] text-white hover:bg-[#555d65] focus-visible:outline-[#555d65]",
+        silverOutline: "bg-transparent text-[#6c757d] hover:text-white hover:bg-[#6c757d] border-[0.15em] border-[#6c757d] focus-visible:outline-[#828c95]",
         skyOutline: "bg-transparent text-sky-500 hover:text-white hover:bg-sky-600 border-[0.15em] border-sky-600 focus-visible:outline-sky-600",
         roseOutline: "bg-transparent hover:bg-rose-500 text-rose-500 hover:text-white border-[0.15em] border-rose-500 focus-visible:outline-rose-600",
         successOutline: "bg-transparent hover:bg-[#198754] text-[#198754] hover:text-white border-[0.15em] border-[#198754] hover:bg-[#157347] focus-visible:outline-[#157347]",

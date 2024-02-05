@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import { ChevronLeft } from "lucide-react";
+import { ChevronLeft, Save, X } from "lucide-react";
 import Link from "next/link";
 
 interface AddProductPageProps {}
@@ -15,13 +15,15 @@ export default function AddProductPage({}: AddProductPageProps) {
         </Link>
         <div className="flex gap-x-2">
           <Link href={`/dashboard/products`}>
-            <Button className="" variant={"skyOutline"}>
-              <ChevronLeft />
+            <Button className="flex gap-x-3" variant={"silver"}>
+              <X />
+              <span>Cancel</span>
             </Button>
           </Link>
           <Link href={`/dashboard/products`}>
-            <Button className="" variant={"skyOutline"}>
-              <ChevronLeft />
+            <Button className="flex gap-x-3" variant={"success"}>
+              <Save />
+              <span>Save</span>
             </Button>
           </Link>
         </div>

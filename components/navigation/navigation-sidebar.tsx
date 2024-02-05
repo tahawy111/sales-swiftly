@@ -30,7 +30,7 @@ export default function NavigationSidebar() {
       Icon: Package,
       children: [
         {
-          title: "Products",
+          title: "Products & Services",
           Icon: Icons.Products,
           path: "/dashboard/products",
         },
