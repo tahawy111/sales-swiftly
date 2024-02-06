@@ -151,7 +151,7 @@ export default function NavigationSidebar() {
   const [isOpen, setIsOpen] = useState(true);
 
   return (
-    <div className="space-y-4 flex flex-col items-center h-full text-primary w-full dark:bg-[#1e1f22] bg-[#e3e5e8] py-3">
+    <div className="space-y-4 flex flex-col items-center h-full text-primary w-full dark:bg-[#1e1f22] bg-white py-3">
       <div className="text-3xl font-semibold text-center my-3 flex justify-evenly items-center text-neutral-700/80 dark:text-neutral-100">
         <Link href={`/dashboard`}>Sales-Swiftly</Link>
       </div>

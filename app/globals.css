@@ -6,6 +6,7 @@ html,
 body,
 :root {
   height: 100%;
+  @apply bg-[#e4ebf2] dark:bg-primary-foreground
 }
 
 @layer base {
@@ -85,4 +86,21 @@ body,
 
 * {
   font-family: "Cairo", sans-serif;
+}
+
+
+.drop-area {
+  border: 2px dashed #ccc;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.drop-area.dragging {
+  background-color: #f0f8ff; /* Light blue background when dragging over */
+}
+
+.file-input {
+  display: none;
 }

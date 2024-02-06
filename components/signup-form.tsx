@@ -62,7 +62,7 @@ export default function SignupForm({}: AuthFormProps) {
   };
 
   return (
-    <div className="mt-8 sm:mx-auto sm:w-full sm:max-w-md">
+    <div className="mt-8 sm:mx-auto sm:w-full sm:max-w-md bg-white rounded-md">
       <div className="dark:bg-[#27282d] px-4 py-8 shadow sm:rounded-lg sm:px-10">
         <h1 className="my-4 text-3xl font-semibold text-center">Signup 📝</h1>
 
