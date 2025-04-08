@@ -58,7 +58,7 @@ export default function LoginForm({}: AuthFormProps) {
   };
 
   return (
-    <div className="mt-8 sm:mx-auto sm:w-full sm:max-w-md bg-white rounded-md">
+    <div className="mt-8 sm:mx-auto sm:w-full sm:max-w-md rounded-md">
       <div className="dark:bg-[#27282d] px-4 py-8 shadow sm:rounded-lg sm:px-10">
         <h1 className="my-4 text-3xl font-semibold text-center">Login 🔑🔓</h1>
         <form className="space-y-6" onSubmit={handleSubmit(onSubmit)}>

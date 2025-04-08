@@ -5,6 +5,7 @@ import Link from "next/link";
 import AddProductHeader from "./components/header";
 import { Input } from "@/components/ui/input";
 import { useState } from "react";
+import Image from "next/image";
 
 interface AddProductPageProps {}
 
@@ -123,11 +124,14 @@ export default function AddProductPage({}: AddProductPageProps) {
               </div>
               <div className="mt-4 grid grid-cols-3 gap-4">
                 {previewImages.map((src, index) => (
-                  <img
+                  <Image
                     key={index}
                     src={src}
                     alt={`Preview ${index + 1}`}
                     className="w-full h-32 object-cover rounded-md"
+                    width={128}
+                    height={128}
+                    unoptimized={true}
                   />
                 ))}
               </div>
