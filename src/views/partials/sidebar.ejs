@@ -33,7 +33,6 @@
                     </svg>
                     Products
                 </a>
-                <!-- Add this inside the nav element -->
                 <a href="/categories" 
                    class="flex items-center px-4 py-2 text-gray-300 hover:bg-gray-800 dark:hover:bg-gray-700 hover:text-white rounded-lg transition-colors duration-200 <%= path === '/categories' ? 'bg-gray-800 dark:bg-gray-700 text-white' : '' %>">
                     <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -41,6 +40,13 @@
                     </svg>
                     Categories
                 </a>
+                <a href="/sales" class="flex items-center px-4 py-2 text-gray-300 hover:bg-gray-800 hover:text-white rounded-lg transition-colors duration-200 <%= path === '/sales' ? 'bg-gray-800 text-white' : '' %>">
+                    <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 3h18v18H3V3zm3 3v12h12V6H6z"/>
+                    </svg>
+                    Sales
+                </a>
+                
             </nav>
                 <div class="mt-8 p-5">
                     <a href="/auth/logout" class="group relative w-full flex justify-center py-2 px-4 border border-transparent text-sm font-medium rounded-md text-white bg-red-600 hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500 transition duration-200 ease-in-out">
