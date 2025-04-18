@@ -1,0 +1,47 @@
+<div class="container mx-auto px-4 py-8">
+    <h1 class="text-3xl font-bold mb-8">Inventory Report</h1>
+
+    <% if (error) { %>
+        <div class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded mb-4">
+            <%= error %>
+        </div>
+    <% } %>
+
+    <!-- Inventory Table -->
+    <div class="bg-white rounded-lg shadow overflow-hidden">
+        <table class="min-w-full">
+            <thead class="bg-gray-50">
+                <tr>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">Product</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">SKU</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">Category</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">Stock</th>
+                    <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">Status</th>
+                </tr>
+            </thead>
+            <tbody class="divide-y divide-gray-200">
+                <% if (products?.length) { %>
+                    <% products.forEach(product => { %>
+                        <tr>
+                            <td class="px-6 py-4"><%= product.name %></td>
+                            <td class="px-6 py-4"><%= product.barcode %></td>
+                            <td class="px-6 py-4"><%= product.category %></td>
+                            <td class="px-6 py-4"><%= product.stock %></td>
+                            <td class="px-6 py-4">
+                                <% if (product.stock <= product.minStock) { %>
+                                    <span class="px-2 py-1 bg-red-100 text-red-800 rounded-full text-xs">Low Stock</span>
+                                <% } else { %>
+                                    <span class="px-2 py-1 bg-green-100 text-green-800 rounded-full text-xs">In Stock</span>
+                                <% } %>
+                            </td>
+                        </tr>
+                    <% }) %>
+                <% } else { %>
+                    <tr>
+                        <td colspan="5" class="px-6 py-4 text-center text-gray-500">No products found</td>
+                    </tr>
+                <% } %>
+            </tbody>
+        </table>
+    </div>
+</div>

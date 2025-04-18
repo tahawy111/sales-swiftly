@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sales Swiftly</title>
+    <link href="/css/style.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 dark:bg-gray-900 transition-colors duration-200">
+    <% if (locals.userId) { %>
+        <%- include('../partials/sidebar') %>
+        <div class="lg:ml-64 min-h-[calc(100vh-8rem)] mt-16 lg:mt-0 p-4 transition-all duration-200">
+            <main class="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6">
+                <%- body %>
+            </main>
+        </div>
+    <% } else { %>
+        <main class="bg-white dark:bg-gray-800 min-h-screen">
+            <%- body %>
+        </main>
+    <% } %>
+    <script src="/js/main.js"></script>
+</body>
+</html>
