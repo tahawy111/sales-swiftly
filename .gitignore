@@ -33,9 +33,6 @@ coverage/
 # Optional ESLint cache
 .eslintcache
 
-# Optional Tailwind CSS output (if using JIT + custom path)
-*.css
-
 # EJS cache (if applicable)
 *.ejs~
 

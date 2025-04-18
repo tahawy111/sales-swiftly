@@ -1,0 +1,121 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Dark mode styles */
+.dark {
+    color-scheme: dark;
+}
+
+/* Common dark mode classes */
+@layer components {
+    .card {
+        @apply bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6;
+    }
+
+    .input {
+        @apply bg-gray-50 dark:bg-gray-700 text-gray-900 dark:text-white outline outline-1 outline-gray-200 dark:outline-gray-600;
+    }
+
+    .text-primary {
+        @apply text-gray-900 dark:text-white;
+    }
+
+    .text-secondary {
+        @apply text-gray-600 dark:text-gray-300;
+    }
+
+    .border-subtle {
+        @apply border-gray-200 dark:border-gray-700;
+    }
+
+    .bg-subtle {
+        @apply bg-gray-50 dark:bg-gray-800;
+    }
+}
+
+/* Transitions */
+.transition-theme {
+    @apply transition-all duration-200;
+}
+
+/* Dark mode transitions */
+.dark {
+    @apply transition-colors duration-200;
+}
+
+/* Sidebar transitions */
+#sidebar {
+    @apply transition-transform duration-300 ease-in-out;
+}
+
+/* Theme toggle button hover effect */
+#themeToggle:hover svg {
+    @apply transform rotate-12 transition-transform duration-200;
+}
+
+/* Custom styles */
+.nav-link {
+    @apply flex items-center px-4 py-2 text-gray-300 rounded-lg transition-all duration-200 relative overflow-hidden;
+}
+
+.nav-link:hover {
+    @apply bg-gray-800 text-white transform scale-105;
+}
+
+.nav-link.active {
+    @apply bg-blue-600 text-white;
+}
+
+.nav-indicator {
+    @apply absolute bottom-0 left-0 h-0.5 bg-blue-500 transform scale-x-0 transition-transform duration-300 origin-left;
+    width: 100%;
+}
+
+.nav-link:hover .nav-indicator {
+    @apply scale-x-100;
+}
+
+.nav-link.active .nav-indicator {
+    @apply scale-x-100 bg-white;
+}
+
+/* Dark mode styles */
+.dark {
+    @apply bg-gray-900 text-gray-100;
+}
+
+.dark .bg-white {
+    @apply bg-gray-800 text-gray-100;
+}
+
+.dark .text-gray-700 {
+    @apply text-gray-300;
+}
+
+.dark .bg-gray-50 {
+    @apply bg-gray-700;
+}
+
+/* Animations */
+@keyframes slideIn {
+    from {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+.sidebar {
+    animation: slideIn 0.3s ease-out;
+}
+
+/* Responsive adjustments */
+@screen lg {
+    .sidebar {
+        animation: none;
+    }
+}
