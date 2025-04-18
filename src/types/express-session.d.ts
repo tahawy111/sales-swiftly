@@ -1,9 +1,10 @@
 import 'express-session';
 import { Types } from 'mongoose';
+import { UserDocument } from '../models/User'; // Assuming UserDocument is the type for a user instance
 
 declare module 'express-session' {
   interface SessionData {
-    userId: Types.ObjectId | undefined | unknown;
-    userRole: 'admin' | 'cashier';
+    user?: UserDocument;
+    userRole?: string;
   }
 }

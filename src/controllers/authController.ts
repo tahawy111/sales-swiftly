@@ -10,7 +10,7 @@ export const login = async (req: Request, res: Response) => {
       return res.render('auth/login', { error: 'Invalid credentials' });
     }
 
-    req.session.userId = user._id;
+    req.session.user = { _id: user._id, role: user.role }; // Store only necessary data
     req.session.userRole = user.role;
     res.redirect('/dashboard');
   } catch (error) {
